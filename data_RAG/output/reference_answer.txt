@@ -1,4 +1,4 @@
-﻿Bộ phận tiếp người học nằm tại phòng 104E3.
+Bộ phận tiếp người học nằm tại phòng 104E3.
 
 Đây là một nghiên cứu của tác giả Bach Gia Duong năm 2019 về thiết kế và chế tạo các module vi sóng của bộ thu cho vệ tinh NanoDragon ở băng tần S.
 
@@ -305,5 +305,4 @@ Sinh viên có các phẩm chất đạo đức xã hội:
 Trách nhiệm với xã hội
 Tuân thủ luật pháp
 Có ý thức phục vụ
-
 
