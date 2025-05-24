@@ -1,25 +1,14 @@
 import os
 import faiss
-
-
-from langchain_huggingface import HuggingFaceEmbeddings
-# from langchain_community.document_loaders import DirectoryLoader
-# from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import OpenAIEmbeddings
-from sentence_transformers import SentenceTransformer
 
 class Retrieval:
     def __init__(self,
-                 file_path: str,
-                 faiss_vector_path: str,
+                 faiss_vector_path: str = "./faiss_data",
                  embeddings_model_name: str = "AITeamVN/Vietnamese_Embedding_v2",
-                 # chunk_size: int = 600,
-                 # chunk_overlap: int = 100,
                  top_k: int = 5
                  ):
-        
-        self.file_path = file_path
         self.faiss_vector_path = faiss_vector_path
         self.embeddings_model_name = embeddings_model_name
         self.top_k = top_k
@@ -52,6 +41,5 @@ class Retrieval:
         retrievel_instance = self.vectorstore.as_retriever(search_kwargs={"k": self.top_k})
         relevant_docs = retrievel_instance.get_relevant_documents(question)
         context = "\n\n".join([doc.page_content for doc in relevant_docs])
-        return context
 
-        
+        return context

@@ -1,0 +1,2869 @@
+Công nghệ thông tin, truyền thông, tự động hóa và một số ngành công nghệ cao liên ngành.
+Cử nhân.
+4 năm.
+Kỹ sư.
+Cử nhân.
+4 năm.
+Cử nhân.
+Kỹ sư.
+4,5 năm.
+Cử nhân.
+Kỹ sư.
+4,5 năm.
+Cử nhân.
+Cử nhân.
+Một số tập đoàn công nghệ, doanh nghiệp hàng đầu.
+Công nghệ Thông tin
+Information Technology
+52480201
+Cử nhân
+4 năm
+Cử nhân ngành Công nghệ Thông tin
+The Degree of Bachelor in Information Technology
+Kỹ năng thực hành, tự học, nghiên cứu, làm việc nhóm và giao tiếp.
+Kiến thức về quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm; phân tích, thiết kế và quản lý các dự án phần mềm.
+Kiến thức về xây dựng các hệ thống thông tin cho việc quản lý kinh tế, hành chính và dịch vụ.
+Kiến thức về thiết kế, chế tạo, bảo trì, sản xuất, thử nghiệm, quản lý các hệ thống mạng và truyền thông máy tính.
+Kiến thức về nghiên cứu và triển khai các Dịch vụ Công nghệ thông tin.
+Theo quy định của Đại học Quốc gia Hà Nội.
+150 sinh viên/năm.
+Có phẩm chất chính trị tốt, ý thức kỷ luật, tác phong làm việc khoa học, nghiêm túc, đạo đức nghề nghiệp và tinh thần làm việc nhóm.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong lĩnh vực đào tạo.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ cần đạt trình độ ngoại ngữ tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có kỹ năng hoàn thành công việc phức tạp, kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có kỹ năng làm việc nhóm, biết hợp tác, chia sẻ thông tin trong nhóm.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ cần có phẩm chất trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có thể làm lập trình viên, chuyên viên phân tích thiết kế hệ thống, quản trị mạng.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có thể học lên các bậc cao hơn như thạc sỹ, tiến sĩ.
+Sau khi tốt nghiệp, sinh viên ngành Công nghệ Thông tin của Trường Đại học Công nghệ có thể đảm nhiệm vị trí lập trình viên hệ thống, chuyên viên an ninh mạng.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần vận dụng được các kiến thức liên quan đến Giải tích toán học và Đại số cao cấp.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần biết truyền đạt vấn đề và giải pháp tới người khác.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần biết quản lý thời gian, nguồn lực và dự án.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần biết các kiến thức cơ bản về Vật lý đại cương.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần có trách nhiệm với xã hội, tuân thủ luật pháp, và có ý thức phục vụ.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin Trường Đại học Công nghệ có khả năng làm việc độc lập hoặc theo nhóm và tự học tập để nâng cao trình độ.
+136 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, kỹ năng bổ trợ).
+26 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, kỹ năng bổ trợ).
+19 tín chỉ.
+10 tín chỉ.
+30 tín chỉ.
+51 tín chỉ.
+12 tín chỉ.
+27 tín chỉ.
+5 tín chỉ.
+7 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành (bắt buộc).
+135 tín chỉ
+29 tín chỉ (Không tính các học phần GDTC, GDQP-AN và Kĩ năng bổ trợ)
+Khối kiến thức chung
+4 tín chỉ
+Không có học phần tiên quyết
+Khối kiến thức theo khối ngành
+Khối kiến thức theo khối ngành
+Khối kiến thức theo nhóm ngành
+Khối kiến thức theo nhóm ngành
+Khối kiến thức ngành (Các học phần bắt buộc)
+INT2207 (Cơ sở dữ liệu)
+Khối kiến thức ngành (Các học phần bắt buộc)
+MAT1093 (Đại số) và MAT1042 (Giải tích 2)
+INT2204 (Lập trình hướng đối tượng)
+Khối kiến thức ngành (Khóa luận tốt nghiệp/Các học phần thay thế khoá luận tốt nghiệp)
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể đảm nhiệm vị trí Lập trình viên hệ thống và cơ sở dữ liệu.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể làm việc trong môi trường di động, Web.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có kiến thức nền tảng về hệ thống máy tính.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có kỹ năng lập kế hoạch và điều phối công việc nhóm.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin cần có trình độ tiếng Anh tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Người học ngành Công nghệ Thông tin cần có kiến thức về khoa học xã hội.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể học lên các chương trình đào tạo sau đại học.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể đảm nhiệm vị trí chuyên viên kiểm thử phần mềm.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể đảm nhiệm vị trí quản trị mạng.
+Chuẩn đầu ra PLO1.2 của ngành Công nghệ Thông tin liên quan đến kiến thức Toán học.
+Chuẩn đầu ra PLO2.1 của ngành Công nghệ Thông tin liên quan đến kỹ năng phát hiện và mô tả vấn đề.
+Chuẩn đầu ra PLO3.1 của ngành Công nghệ Thông tin liên quan đến trách nhiệm tuân thủ pháp luật.
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có khả năng phân tích và so sánh các giải pháp CNTT.
+Vị trí chuyên viên thiết kế và xử lý nội dung số phù hợp với sinh viên tốt nghiệp ngành Công nghệ Thông tin.
+126 tín chỉ.
+16 tín chỉ.
+Khối kiến thức chung.
+Triết học Mác – Lênin.
+Khối kiến thức theo lĩnh vực.
+Giải tích 1.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Cơ sở dữ liệu.
+Lập trình hướng đối tượng và Cơ sở dữ liệu.
+Khối kiến thức ngành.
+Công nghệ phần mềm.
+Hệ thống thông tin.
+Mạng máy tính.
+7 tín chỉ.
+Công nghệ Thông tin
+Information Technology
+7480201
+Cử nhân
+4 năm
+Cử nhân ngành Công nghệ Thông tin
+The Degree of Bachelor in Information Technology
+Kiến thức cơ bản và chuyên sâu về Công nghệ thông tin.
+Kỹ năng thực hành cao, kỹ năng tự học, nghiên cứu, làm việc theo nhóm và kỹ năng giao tiếp.
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, tác phong làm việc khoa học, nghiêm túc, có pháp luật và đạo đức nghề nghiệp.
+Kiến thức cơ bản và chuyên sâu về quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm.
+Kiến thức cơ bản và chuyên sâu về Hệ thống thông tin.
+Kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính.
+Theo quy định của Đại học Quốc gia Hà Nội.
+150 sinh viên/năm.
+Ngành Công nghệ Thông tin.
+Tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Vật lý.
+Mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm.
+Lập trình hướng đối tượng.
+Hệ điều hành.
+Phân tích và thiết kế.
+Bảo đảm chất lượng và an toàn, an ninh cho hệ thống.
+Năng lực dẫn dắt.
+Vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Kỹ năng mô hình hóa.
+Làm việc theo nhóm.
+Có trách nhiệm với công việc.
+Lập trình viên hệ thống và cơ sở dữ liệu.
+Thạc sỹ, tiến sĩ.
+Information Technology
+7480201
+Cử nhân
+4 năm
+The Degree of Bachelor in Information Technology
+Đào tạo nguồn nhân lực cử nhân có trình độ chuyên môn cao về CNTT.
+4
+Công nghệ phần mềm
+Kiến thức về phát triển và vận hành các hệ thống thông tin cho việc quản lý kinh tế, hành chính và dịch vụ.
+Mạng và truyền thông máy tính
+Học máy, xử lý ảnh và xử lý ngôn ngữ tự nhiên.
+Phương pháp dạy – học tiên tiến.
+Quy chế, Quy định về công tác tuyển sinh đại học hằng năm.
+Đại học Quốc gia Hà Nội
+Đề án tuyển sinh hằng năm.
+Hiểu được hệ thống tri thức khoa học những nguyên lý cơ bản của Chủ nghĩa Mác Lênin.
+Tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao.
+Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Có kỹ năng phát hiện vấn đề, đánh giá và phân tích vấn đề, giải quyết vấn đề chuyên môn, và mô hình hóa.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Giảng viên và nghiên cứu viên tại các trường đại học, viện nghiên cứu.
+Học tập và nghiên cứu ở các bậc học cao hơn (thạc sĩ, tiến sĩ).
+Biết được các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang.
+Nắm được các kiến thức liên quan đến Giải tích toán học như tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến.
+Biết cách lập luận, sắp xếp ý tưởng; Biết giao tiếp bằng văn bản, giao tiếp điện tử, đa truyền thông; Biết cách thuyết trình trước đám đông.
+Biết được các kiến thức cơ bản về phương pháp tính toán số trong kỹ thuật.
+Biết được các kiến thức cơ bản về các phương pháp toán-lý để vận dụng trong các bài toán vật lý cụ thể.
+Có trách nhiệm với xã hội; Tuân thủ luật pháp; Có ý thức phục vụ; Nhiệt tình tham gia các hoạt động xã hội.
+Vật lý kỹ thuật
+7520401
+Cử nhân
+4 năm
+The Degree of Bachelor in Engineering Physics
+Vật lý hiện đại, công nghệ nano và ứng dụng
+Các tập đoàn công nghiệp, công ty công nghệ, viện nghiên cứu, trường đại học
+Theo quy định của ĐHQGHN
+Engineering Physics
+Kỹ thuật, quản lý, chuyển giao và ứng dụng công nghệ mới
+Đào tạo cử nhân có kiến thức và kỹ năng về vật lý hiện đại, công nghệ nano và ứng dụng.
+Bậc sau đại học
+Trường Đại học Công nghệ, ĐHQGHN
+Vật liệu mới, vi điện tử – đo lường, y – sinh và môi trường.
+ĐHQGHN
+Vật lý Kỹ thuật
+7520401
+Cử nhân
+4 năm
+The Degree of Bachelor in Engineering Physics
+Đào tạo cử nhân có kiến thức và kỹ năng về vật lý và công nghệ hiện đại.
+Các tập đoàn công nghiệp, công ty công nghệ, viện nghiên cứu, trường đại học.
+Có thể học lên thạc sỹ, tiến sỹ.
+Vận dụng được những kiến thức đa ngành về khoa học cơ bản, khoa học vật liệu, vật lý và tin học áp dụng vào thực tiễn của ngành VLKT.
+Có kỹ năng sử dụng thành thạo các công cụ định lượng, các phần mềm chuyên dụng cho công việc nghiên cứu, phân tích trong lĩnh vực Vật lý Kỹ thuật; có kỹ năng sử dụng ngoại ngữ và tin học hiệu quả trong công việc.
+Có kỹ năng làm việc độc lập hoặc theo nhóm, kỹ năng giao tiếp hiệu quả trong công việc; có tác phong chuyên nghiệp, tuân thủ kỷ luật lao động, đạo đức nghề nghiệp, trách nhiệm và tin cậy trong công việc.
+Có năng lực tự học, tự nghiên cứu, tích lũy kinh nghiệm để nâng cao trình độ chuyên môn và thích nghi với các môi trường làm việc khác nhau.
+Bộ Giáo dục và Đào tạo; Đại học Quốc gia Hà Nội.
+Có
+Engineering Physics
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Ngành Vật lý kỹ thuật.
+Tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Cán bộ kỹ thuật trong các tập đoàn công nghiệp, công ty công nghệ.
+Thạc sĩ, tiến sĩ.
+Kiểm soát quy trình sản xuất, chất lượng sản phẩm.
+Các trường đại học, viện nghiên cứu.
+Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.
+Kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT.
+Phát hiện, mô tả vấn đề và đề xuất giải pháp về lĩnh vực kỹ thuật Vật lý.
+Giao tiếp hiệu quả với nhiều đối tượng; lập kế hoạch, điều phối, quản lý nhóm làm việc hiệu quả.
+Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp.
+Ý thức đóng góp tạo ra những sản phẩm có giá trị phục vụ cộng đồng.
+Cơ, nhiệt, điện, từ, quang, điện tử, công nghệ vi điện tử, năng lượng, khoa học vật liệu, hóa học, đo lường, điều khiển tự động,…
+Vật liệu và linh kiện micro-nano.
+131 tín chỉ.
+Bậc 3.
+Vật lý, hóa học, khoa học vật liệu, sinh học và công nghệ nano.
+Cán bộ kỹ thuật, chuyên viên kiểm soát quy trình sản xuất, cán bộ nghiên cứu, giảng viên, nghiên cứu viên.
+Thạc sĩ, tiến sĩ.
+Vật lý đại cương.
+Lập trình và sử dụng các công cụ phần mềm.
+Kỹ năng hoàn thành công việc phức tạp.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Có trách nhiệm với xã hội, tuân thủ luật pháp, có ý thức phục vụ, nhiệt tình tham gia các hoạt động xã hội.
+Có.
+Giải tích toán học và Đại số cao cấp.
+Truyền đạt vấn đề và giải pháp tới người khác.
+Kỹ năng dẫn dắt, khởi nghiệp, tạo việc làm cho mình và cho người khác.
+134 tín chỉ.
+29 tín chỉ (không tính các học phần GDTC, GDQP-AN và kỹ năng bổ trợ).
+18 tín chỉ.
+6 tín chỉ.
+14 tín chỉ.
+67 tín chỉ.
+39 tín chỉ.
+9 tín chỉ.
+8 tín chỉ.
+7 tín chỉ.
+PHI1004.
+2 tín chỉ.
+Không có môn tiên quyết.
+PHY1100, PHY1103, EPN2023.
+EPN2005.
+135 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+26 tín chỉ.
+67 tín chỉ.
+41 tín chỉ.
+7 tín chỉ.
+PHI1006.
+PHI1006.
+20 giờ.
+MAT1041 (Giải tích 1).
+EPN1095 (Vật lý đại cương 1).
+EPN1095 (Vật lý đại cương 1).
+EPN1096 (Vật lý đại cương 2).
+EPN2029 (Khoa học vật liệu đại cương).
+INT1008 (Nhập môn lập trình) và EPN2055 (Điện và Quang).
+EPN2029 (Khoa học vật liệu đại cương) và EPN2062 (Vật lý chất rắn).
+Vật lý kỹ thuật
+52520401
+Cử nhân
+4 năm
+The Degree of Bachelor in Engineering Physics
+Ứng dụng công nghệ nano
+Vật liệu mới, vi điện tử, y – sinh, môi trường và năng lượng sạch
+Theo quy định của Đại học Quốc gia Hà Nội
+60 – 80 sinh viên/năm
+Engineering Physics
+Thiết kế công nghiệp và đồ họa
+Industrial and Graphic Design
+7529012
+Đại học
+Cử nhân
+Tiếng Việt
+04 năm
+Cử nhân ngành Thiết kế công nghiệp và đồ họa
+Bachelor of Industrial and Graphic Design
+Thiết kế hệ thống, trang thiết bị, chi tiết máy, nhà xưởng, các công trình và sản phẩm công nghiệp
+Thiết kế mĩ thuật, thiết kế đồ họa như nhận diện thương hiệu, sản phẩm hay thiết kế quảng cáo, sản phẩm và thiết kế nội thất nhà ở, trang thiết bị, khách sạn, khu nghỉ dưỡng
+Xét tuyển theo các phương thức tuyển sinh do Bộ GDĐT và ĐHQGHN quy định
+Theo quy định của Bộ GDĐT và của ĐHQGHN.
+Theo chỉ tiêu được ĐHQGHN giao hàng năm.
+Các công ty thiết kế trong và ngoài nước.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Có phẩm chất đạo đức cá nhân tốt, chuẩn mực trong lời nói, hành vi, thân thiện với bạn bè đồng nghiệp, có tinh thần tự học và sẵn sàng đương đầu khó khăn, chủ động, tự tin trong công việc và dám chịu trách nhiệm.
+Cán bộ thiết kế sản phẩm kĩ thuật, công nghiệp; Thiết kế mĩ thuật, nội thất; quảng cáo; multimedia.
+Trình độ sau đại học, nghiên cứu sinh.
+Thực hiện hiệu quả các dự án thiết kế một cách độc lập; có thể làm trưởng một nhóm thiết kế và làm việc trong các dự án thiết kế lớn; có năng lực tham mưu tư vấn.
+Tương đương trình độ Bậc 3/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Các kiến thức về công nghệ kĩ thuật và nghệ thuật vào lĩnh vực thiết kế công nghiệp và đồ họa.
+Có, sinh viên được trang bị kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.
+Sử dụng thành thạo các công cụ thiết kế hiện đại cho lĩnh vực thiết kế công nghiệp và đồ họa.
+Trung thực, khách quan, thúc đẩy công bằng và nhân đạo, cầu tiến, hợp tác, nghiêm túc với công việc được giao.
+Các tổ chức, doanh nghiệp trong và ngoài nước của lĩnh thiết kế công nghiệp và đồ hoạ.
+Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện tính trung thực, chịu trách nhiệm cá nhân, hỗ trợ đồng nghiệp; tự chủ, tự chịu trách nhiệm trong công việc.
+Thiết kế được các sản phẩm kĩ thuật, công nghiệp và đồ họa.
+Phân tích được các tình huống trên cơ sở tư duy logic, biện chứng để giải quyết các vấn đề thực tế trong lĩnh vực thiết kế công nghiệp và đồ họa.
+Thiết kế kĩ thuật, thiết kế công nghiệp, thiết kế hệ thống, thiết kế đồ hoạ, thiết kế mĩ thuật và thiết kế sản phẩm.
+Kỹ thuật điều khiển và tự động hóa
+Control Engineering and Automation
+7520216
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa.
+The Degree of Engineer in Control Engineering and Automation.
+Trường Đại học Công nghệ, ĐHQGHN.
+Kiến thức chuyên môn toàn diện, hiểu nguyên lý, quy luật tự nhiên – xã hội, có kỹ năng thực hành Kỹ thuật cơ bản, có khả năng làm việc độc lập, sáng tạo và giải quyết những vấn đề thuộc ngành Kỹ thuật điều khiển và Tự động hóa.
+Tư duy logic tốt, có năng lực sáng tạo để giải quyết các bài toán ứng dụng cụ thể.
+Lập trình viên trình độ cao cho các công ty phát triển phần mềm nhúng và phần mềm điều khiển.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 chỉ tiêu/năm.
+Phẩm chất chính trị tốt.
+Ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền.
+150 tín chỉ
+16 tín chỉ
+22 tín chỉ
+6 tín chỉ
+14 tín chỉ
+92 tín chỉ
+13 tín chỉ
+PHI1006
+PHI1006
+MAT1041
+EPN1095
+INT1008, MAT1093, MAT1042
+EMA2036
+MAT1042, EMA2013
+INT1008, EMA2013
+Khung trình độ Quốc gia Việt Nam.
+Bậc 3 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Kiến thức khoa học cơ bản trong lĩnh vực thể dục thể thao vào quá trình tập luyện và tự rèn luyện, ngăn ngừa các chấn thương để củng cố và tăng cường sức khỏe.
+Vật lý đại cương.
+Hệ điều hành, các phần mềm hỗ trợ công tác văn phòng và khai thác Internet.
+Phương pháp tính toán số.
+Bản vẽ kỹ thuật, CAD.
+Trí tuệ nhân tạo.
+Tự động hóa trong sản xuất.
+Các thiết bị và cảm biến thông minh kết nối với hệ nhúng trên nền tảng Vi xử lý – Vi điều khiển cũng như các bộ điều khiển chuyên dụng.
+Kỹ năng vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Kỹ năng phát hiện vấn đề.
+Tư duy logic.
+Văn hóa cơ quan công tác.
+Nghiên cứu viên.
+Kỹ thuật điều khiển và Tự động hóa
+Control Engineering and Automation
+7520216
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa.
+The Degree of Engineer in Control Engineering and Automation.
+Có kiến thức chuyên môn toàn diện, có kĩ năng thực hành cơ bản, có khả năng làm việc độc lập, sáng tạo và giải quyết những vấn đề thuộc ngành.
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Trường Đại học Công nghệ.
+Có.
+Vận dụng kiến thức và kỹ năng để giải quyết vấn đề phức tạp và đề xuất giải pháp hiệu quả.
+Thể hiện khả năng làm việc độc lập, kỹ năng giao tiếp và làm việc nhóm.
+Thể hiện hành vi, thái độ, tác phong chuyên nghiệp, có đạo đức nghề nghiệp, trách nhiệm xã hội và tuân thủ pháp luật.
+150 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+21 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+19 tín chỉ.
+90 tín chỉ.
+18 tín chỉ.
+8 tín chỉ.
+10 tín chỉ.
+Khối kiến thức chung.
+Triết học Mác - Lênin (PHI1006).
+Giải tích 1 (MAT1041).
+Nhập môn lập trình (INT1008), Đại số (MAT1093), Giải tích 2 (MAT1042).
+Khối kiến thức theo nhóm ngành.
+Vật lý đại cương 2 (EPN1096), Nhập môn lập trình (INT1008).
+Ho Chi Minh’s Ideology
+60 giờ.
+Viện Nghiên cứu Điện tử – Tin học – Tự động hóa.
+Giảng viên hoặc nghiên cứu viên.
+Các doanh nghiệp sản xuất trong nước và nước ngoài.
+Kỹ sư thiết kế, vận hành, bảo trì kỹ thuật.
+Nhân viên hỗ trợ kỹ thuật hoặc giới thiệu sản phẩm.
+Tiếng Anh.
+Bậc 3.
+Thạc sĩ, tiến sĩ.
+Kiến thức chung.
+Kiến thức theo lĩnh vực.
+Kiến thức theo khối ngành.
+Kiến thức theo nhóm ngành.
+Kiến thức ngành.
+Lập kế hoạch, điều phối, quản lý nhóm làm việc hiệu quả.
+Tính trung thực, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp.
+150 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+21 tín chỉ.
+87 tín chỉ.
+6 tín chỉ.
+10 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành.
+Bắt buộc.
+Tự chọn.
+Bắt buộc.
+Tự chọn.
+Kiến thức bổ trợ.
+Công nghệ vật liệu.
+Materials Engineering.
+7510402.
+Công nghệ Vật liệu và Vi điện tử.
+Materials and Microelectronics Engineering.
+Kỹ sư.
+4,5 năm.
+Kỹ sư ngành Công nghệ vật liệu.
+The Degree of Engineer in Materials Engineering.
+Xét tuyển thẳng, ưu tiên xét tuyển; Xét tuyển kết quả thi tốt nghiệp THPT; Xét tuyển theo các phương thức khác; Xét tuyển kết quả thi đánh giá năng lực.
+Tốt nghiệp THPT hoặc có bằng tốt nghiệp nước ngoài được công nhận trình độ tương đương, hoặc tốt nghiệp trung cấp ngành nghề thuộc cùng nhóm ngành dự tuyển và đã hoàn thành đủ yêu cầu khối lượng kiến thức văn hóa bậc THPT.
+Có đủ sức khoẻ để học tập theo quy định hiện hành.
+120 sinh viên / khoá.
+Kiến thức về khoa học cơ bản, khoa học vật liệu, điện tử, vi điện tử, công nghệ thông tin và trí tuệ nhân tạo (AI).
+Kỹ năng sử dụng các công cụ định lượng, phần mềm chuyên dụng, ứng dụng công nghệ AI, làm việc độc lập/theo nhóm, giao tiếp chuyên nghiệp, sử dụng ngoại ngữ và tin học.
+Chương trình đào tạo Công nghệ vật liệu và Vi điện tử.
+Ngành Công nghệ vật liệu.
+Vật liệu mới, vi điện tử, đo lường, y-sinh và môi trường.
+Chuyên viên tư vấn và chuyển giao công nghệ.
+Thạc sĩ, tiến sĩ.
+Bậc 3/6.
+Kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.
+Kỹ năng thiết kế, thực hiện thí nghiệm, phân tích dữ liệu và đánh giá kỹ thuật liên quan tới vật liệu và vi điện tử.
+PHI1006
+EPN1095
+ELT2030
+EPN3055
+EPN3082
+EPN4053
+Marxist-Leninist Political Economy
+150 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+21 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+17 tín chỉ.
+11 tín chỉ.
+21 tín chỉ.
+80 tín chỉ.
+33 tín chỉ.
+13 tín chỉ.
+9 tín chỉ.
+9 tín chỉ.
+6 tín chỉ.
+10 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Công nghệ sinh học.
+Biotechnology.
+7420201.
+Công nghệ kỹ thuật sinh học.
+Biotechnology Engineering.
+Kỹ sư.
+4,5 năm.
+Kỹ sư ngành Công nghệ sinh học.
+The Degree of Engineer in Biotechnology.
+Xét tuyển thẳng, xét tuyển kết quả thi tốt nghiệp THPT, xét tuyển chứng chỉ quốc tế, xét tuyển kết quả thi đánh giá năng lực ĐHQGHN.
+Tốt nghiệp THPT của Việt Nam hoặc có bằng tốt nghiệp nước ngoài được công nhận trình độ tương đương.
+120 sinh viên.
+Công nghệ Sinh học kết hợp với Khoa học dữ liệu và Trí tuệ nhân tạo.
+Đào tạo nguồn nhân lực có phẩm chất, kiến thức chuyên sâu, kỹ năng thực hành, tư duy độc lập và khả năng sáng tạo.
+Các cơ sở nghiên cứu, đào tạo và các cơ sở sản xuất phục vụ nền công nghiệp sinh học.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Ngành Công nghệ Sinh học tại Trường Đại học Công nghệ trang bị cho sinh viên kiến thức về khoa học xã hội, chính trị và pháp luật.
+Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể làm nhân viên phân tích dữ liệu sinh học và tin sinh học.
+Ngành Công nghệ Sinh học tại Trường Đại học Công nghệ trang bị cho sinh viên năng lực ngoại ngữ tương đương bậc 3/6 Khung năng lực ngoại ngữ của Việt Nam.
+Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể học bậc thạc sĩ, tiến sĩ.
+Có, chương trình đào tạo ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có trang bị kiến thức về trí tuệ nhân tạo.
+Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể làm nhân viên tư vấn và chuyển giao công nghệ sinh học liên quan đến giải pháp bảo vệ môi trường.
+Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể khởi nghiệp trong các lĩnh vực liên quan đến nông nghiệp công nghệ cao, thực phẩm hữu cơ, hoặc các giải pháp bảo vệ môi trường.
+Tại Trường Đại học Công nghệ, sinh viên ngành Công nghệ Sinh học được trang bị kiến thức về lĩnh vực kỹ thuật – công nghệ để giải quyết các vấn đề phức tạp.
+Chuẩn đầu ra PLO8 của ngành Công nghệ Sinh học tại Trường Đại học Công nghệ liên quan đến năng lực ngoại ngữ.
+Có, ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có trang bị kiến thức về khoa học dữ liệu.
+Sau khi tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ, sinh viên có thể đảm nhiệm vị trí kỹ thuật viên tại phòng thí nghiệm, xét nghiệm.
+Sinh viên ngành Công nghệ Sinh học tại Trường Đại học Công nghệ được trang bị kiến thức về công nghệ thông tin để đáp ứng yêu cầu công việc trong lĩnh vực Kỹ thuật – Công nghệ.
+Có, tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ cần có kiến thức về quản lý chất lượng.
+Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể làm nhân viên tư vấn và chuyển giao công nghệ sinh học liên quan đến quy trình sản xuất trong thực phẩm.
+136 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ).
+26 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ).
+Khối kiến thức chung.
+Triết học Mác – Lênin (PHI1006).
+Khối kiến thức chung.
+Giải tích 1 (MAT1041).
+Khối kiến thức theo lĩnh vực.
+Giải tích 1 (MAT1041).
+Nhập môn lập trình (INT1008).
+Nhập môn lập trình (INT1008).
+Nhập môn lập trình (INT1008).
+Kiến trúc máy tính (INT2212).
+Nhập môn lập trình (INT1008).
+Cấu trúc dữ liệu và giải thuật (INT2210).
+Có, đây là điều kiện để xét tốt nghiệp, dù không tính vào điểm trung bình chung.
+Khoa học Máy tính
+Computer Science
+7480101
+Cử nhân
+04 năm
+Cử nhân ngành Khoa học Máy tính
+The Degree of Bachelor in Computer Science
+Đào tạo những sinh viên giỏi về chuyên môn và cao về kỹ năng, đáp ứng nhu cầu nhân lực CNTT.
+Kiến thức về toán, khoa học tự nhiên, khoa học xã hội, nhân văn, ngoại ngữ và Công nghệ thông tin.
+Kỹ năng lập trình với nhiều ngôn ngữ và môi trường lập trình tiên tiến.
+Cơ sở toán, lập trình, cấu trúc dữ liệu và giải thuật, học máy, khoa học dữ liệu và trí tuệ nhân tạo.
+Bốn
+Phát triển phần mềm và ứng dụng
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh của Trường Đại học Công nghệ.
+Hướng công nghệ.
+Trường Đại học Công nghệ, ĐHQGHN
+Bậc 4
+Vật lý, Toán học, Tin học
+Mạng máy tính, Cơ sở dữ liệu, Quy trình phát triển phần mềm
+Có
+Lập trình thành thạo và biết sử dụng các công cụ phần mềm hỗ trợ.
+Tư duy sáng tạo, tư duy phản biện, biết đề xuất sáng kiến.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Lập trình viên hệ thống, lập trình viên trên môi trường di động, môi trường Web.
+Phân tích dữ liệu bằng máy tính, quản trị hệ cơ sở dữ liệu, phát triển ứng dụng thương mại điện tử.
+Có đủ năng lực để học lên các bậc cao hơn như thạc sĩ, tiến sĩ.
+Tư duy logic, tư duy phân tích, tổng hợp, tư duy toàn cục.
+Có thể hiểu được các ý chính của một báo cáo hay bài phát biểu về các chủ đề quen thuộc trong công việc.
+Toán rời rạc
+Khoa học Máy tính
+Computer Science
+52480101
+Cử nhân
+4 năm
+Kiến thức có hệ thống và hiện đại, phù hợp với các chương trình đào tạo tiên tiến trên thế giới.
+Hướng công nghệ
+Có
+“Phát triển hệ thống”, “Thương mại điện tử”, “Mạng máy tính”, “Các hệ thống thông minh” và “Tương tác người máy”.
+Đại học Quốc gia Hà Nội
+Đại học Quốc gia Hà Nội
+Đào tạo sinh viên giỏi về chuyên môn và cao về kỹ năng, đáp ứng nhu cầu lao động CNTT của thị trường.
+Tiếng Anh
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, đạo đức nghề nghiệp.
+Tinh thần làm việc theo nhóm, tính kỷ luật và khả năng giao tiếp.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có thể làm chuyên viên, lập trình viên, kỹ sư xử lý và phân tích dữ liệu, kỹ sư xây dựng và triển khai các mô hình Trí tuệ nhân tạo.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có thể làm giảng viên hoặc nhà nghiên cứu.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có thể tiếp tục học tập lên các chương trình đào tạo sau đại học.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần đạt trình độ tiếng Anh tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có khả năng nghiên cứu, phát triển và thử nghiệm các giải pháp định hướng khởi nghiệp.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần có kỹ năng lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có khả năng phân tích, đánh giá và cập nhật các kiến thức, công nghệ mới trong lĩnh vực CNTT, Khoa học máy tính.
+Sinh viên ngành Khoa học Máy tính tại Trường Đại học Công nghệ được trang bị kiến thức nền tảng về hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có khả năng vận dụng kiến thức Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật.
+Người học ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần diễn giải được kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật, văn hóa, xã hội và nhân văn, rèn luyện thể chất và quốc phòng.
+Sinh viên ngành Khoa học Máy tính tại Trường Đại học Công nghệ có kiến thức chuyên sâu về học máy, trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên, xử lý ảnh, tương tác người máy.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần có tư duy logic, biện chứng để giải quyết các vấn đề thực tế hiệu quả và sáng tạo.
+Sinh viên ngành Khoa học Máy tính tại Trường Đại học Công nghệ có khả năng phát hiện, mô tả vấn đề, đề xuất giải pháp sử dụng kiến thức khoa học, CNTT, các công cụ và công nghệ tiên tiến.
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp; có ý thức đóng góp tạo ra những sản phẩm có giá trị phục vụ cộng đồng và phát triển lĩnh vực chuyên môn.
+Tương đương bậc 5 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao.
+Nắm được các kiến thức liên quan đến Giải tích toán học và Đại số cao cấp.
+Lập trình thành thạo một số ngôn ngữ lập trình thông dụng.
+Xây dựng các chương trình có khả năng xử lý thông minh cho nhiều loại dữ liệu khác nhau như văn bản, tiếng nói, ảnh, sinh học.
+Phát triển các phần mềm đặc biệt, bảo đảm chất lượng và an toàn, an ninh cho hệ thống.
+Có, sinh viên cần biết hợp tác và chia sẻ thông tin trong nhóm.
+Có, sinh viên cần biết cách lập luận, sắp xếp ý tưởng, giao tiếp bằng văn bản và thuyết trình trước đám đông.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Giảng viên về nhóm ngành Máy tính và Công nghệ Thông tin.
+Lập trình viên hệ thống, lập trình viên trên môi trường di động, môi trường Web.
+Trưởng nhóm phát triển phần mềm, quản lý hệ thống thông tin, quản lý dự án.
+Có, sinh viên có đủ năng lực để học lên các bậc cao hơn như thạc sĩ, tiến sĩ.
+Kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn.
+Khoa học máy tính.
+CLC TT23 (Chất lượng cao theo Thông tư 23).
+Thạc sĩ, Tiến sĩ.
+Có, tại các trường đại học tiên tiến trên thế giới.
+Bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Chuyên viên phân tích dữ liệu bằng máy tính.
+Chuyên viên kiểm thử phần mềm.
+Chuyên viên thiết kế và triển khai các hệ thống mạng và các dịch vụ mạng.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Đạo đức cá nhân, đạo đức nghề nghiệp và đạo đức xã hội.
+135 tín chỉ.
+29 tín chỉ (Không tính các học phần GDTC, GDQP-AN và Kĩ năng bổ trợ).
+18 tín chỉ.
+6 tín chỉ.
+22 tín chỉ.
+18 tín chỉ.
+PHI1004.
+2 tín chỉ.
+PHI1004.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành.
+INT2207.
+7 tín chỉ.
+FLF2102.
+148 tín chỉ.
+21 tín chỉ.
+22 tín chỉ.
+10 tín chỉ.
+65 tín chỉ.
+10 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức chung theo lĩnh vực.
+Nhập môn lập trình.
+Khối kiến thức chung của nhóm ngành.
+Cấu trúc dữ liệu và giải thuật.
+Phát triển hệ thống.
+Lập trình hướng đối tượng và Cơ sở dữ liệu.
+Khối kiến thức bổ trợ.
+10 tín chỉ.
+158 tín chỉ
+34 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ)
+15 tín chỉ
+6 tín chỉ
+75 tín chỉ
+21 tín chỉ
+PHI1004
+Tư tưởng Hồ Chí Minh
+4 tín chỉ
+Giải tích 2
+Lập trình nâng cao
+Cấu trúc dữ liệu và giải thuật
+Lập trình hướng đối tượng
+30 giờ
+10 tín chỉ
+Khoa học máy tính
+Computer Science
+52480101
+Cử nhân
+4 năm
+Cử nhân ngành Khoa học máy tính
+Tạo ra nguồn nhân lực chất lượng cao trong lĩnh vực Khoa học máy tính.
+Cơ sở toán trong KHMT, lập trình, cấu trúc dữ liệu và giải thuật, lý thuyết thông tin, chương trình dịch, trí tuệ nhân tạo.
+Công nghệ phần mềm, cơ sở dữ liệu, mạng máy tính, kiến trúc máy tính.
+Phẩm chất chính trị tốt.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên / năm.
+Tinh thần làm việc theo nhóm, rèn luyện thường xuyên tính kỷ luật và khả năng giao tiếp.
+Đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền.
+Khoa Công nghệ thông tin.
+160 tín chỉ
+39 tín chỉ
+Có
+Khối kiến thức chung
+4 tín chỉ
+Khối kiến thức theo lĩnh vực
+Không có.
+Khối kiến thức theo nhóm ngành
+INT1003
+Khối kiến thức theo nhóm ngành
+INT2203
+Khối kiến thức ngành
+Có
+10 tín chỉ
+MAT1041
+Khoa học máy tính
+Computer Science
+52480101
+Cử nhân
+4 năm
+Cử nhân ngành Khoa học máy tính (Chương trình đào tạo chuẩn quốc tế)
+The Degree of Bachelor in Computer Science (International Stadard Program)
+Tạo ra nguồn nhân lực chất lượng cao đạt chuẩn quốc tế trong lĩnh vực Khoa học máy tính.
+Cơ sở toán trong KHMT, lập trình, cấu trúc dữ liệu và giải thuật, phân tích, thiết kế và đánh giá thuật toán, lý thuyết thông tin, chương trình dịch, trí tuệ nhân tạo.
+Lập trình viên trình độ cao.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên / năm.
+Xử lý ngôn ngữ tự nhiên, học máy, nhận dạng mẫu, tin sinh.
+Xử lý tiếng nói, xử lý ảnh, tương tác người máy tính, lập trình trò chơi.
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền.
+Hiểu được hệ thống tri thức khoa học những nguyên lý cơ bản của Chủ nghĩa Mác Lênin.
+Tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Biết được các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang.
+Các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm.
+Lập trình thành thạo một số ngôn ngữ lập trình thông dụng.
+Các kiến thức cơ bản về trí tuệ nhân tạo, học máy, xử lý ngôn ngữ tự nhiên.
+Lập trình viên hệ thống; Lập trình viên trên môi trường di động, môi trường Web; Lập trình viên với cơ sở dữ liệu.
+Trưởng nhóm phát triển phần mềm, quản lý hệ thống thông tin, quản lý dự án.
+Thạc sĩ, tiến sĩ.
+Có kỹ năng phát hiện vấn đề, đánh giá và phân tích vấn đề, giải quyết vấn đề chuyên môn, mô hình hóa.
+Có kỹ năng thiết lập giả thiết, dùng thực nghiệm để khám phá kiến thức, kiểm nghiệm và bảo vệ giả thiết, áp dụng kiến thức vào thực tế, thu thập thông tin.
+Biết hợp tác với các thành viên khác trong nhóm, biết cách chia sẻ thông tin trong nhóm.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Có trách nhiệm với xã hội, tuân thủ luật pháp, có ý thức phục vụ, nhiệt tình tham gia các hoạt động xã hội.
+Khoa học Máy tính
+Computer Science
+7480101
+Cử nhân
+4 năm
+Cử nhân Khoa học Máy tính (Chương trình đào tạo chất lượng cao)
+The degree of Bachelor in Computer Science (Honors Program)
+Công nghệ
+Phát triển hệ thống, Thương mại điện tử, Mạng máy tính, Các hệ thống thông minh và Tương tác người máy.
+Đại học Quốc gia Hà Nội
+60 sinh viên/năm
+IBM, Samsung, Nokia, LG
+FPT, Vietel
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, tác phong làm việc khoa học, nghiêm túc, đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền.
+Có
+130 tín chỉ.
+Có, nhưng không tính vào tổng số tín chỉ của chương trình đào tạo.
+21 tín chỉ.
+19 tín chỉ.
+10 tín chỉ.
+21 tín chỉ.
+50 tín chỉ.
+2 tín chỉ.
+7 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành (ICT).
+Khối kiến thức theo nhóm ngành (AI, DS).
+Khối kiến thức ngành (DS), học phần bắt buộc.
+Các học phần bổ trợ lựa chọn.
+Khoa học dữ liệu
+Data Science
+7460108
+Cử nhân
+4 năm
+Cử nhân khoa học ngành Khoa học dữ liệu
+The Degree of Bachelor of Science in Data Science
+Người học có phẩm chất chính trị, đạo đức xã hội, sức khỏe tốt
+Xét tuyển thẳng, xét tuyển kết quả thi THPT, xét tuyển theo các chứng chỉ quốc tế, xét tuyển kết quả thi ĐGNL do ĐHQGHN tổ chức.
+Tốt nghiệp THPT hoặc có bằng tốt nghiệp nước ngoài được công nhận trình độ tương đương.
+Có đủ sức khỏe để học tập theo quy định hiện hành.
+120 sinh viên
+Khoa học và kỹ thuật dữ liệu
+Data Science and Engineering
+Các đơn vị như trường đại học, viện nghiên cứu, doanh nghiệp, các tổ chức có nghiên cứu, triển khai hệ thống và công nghệ dữ liệu.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Ngành Khoa học dữ liệu.
+Không được đề cập trong văn bản.
+Môi trường quản lý, sản xuất, kinh doanh hoặc môi trường học thuật.
+Thạc sĩ, tiến sĩ.
+Bậc 3/6.
+Khối kiến thức chung.
+Khối kiến thức theo khối ngành (ICT).
+Khối kiến thức theo nhóm ngành (AI, DS).
+Khối kiến thức ngành (DS).
+Khối kiến thức bổ trợ.
+Khối kiến thức thực tập, tốt nghiệp.
+Phân tích chuỗi thời gian và Dự báo.
+Thống kê kinh tế và kinh tế lượng.
+Nhân văn số.
+152 tín chỉ.
+34 tín chỉ.
+18 tín chỉ.
+9 tín chỉ.
+22 tín chỉ.
+69 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành (bắt buộc).
+Khối kiến thức ngành (bổ trợ).
+Khối kiến thức ngành (tự chọn chung).
+10 tín chỉ.
+Công nghệ phần mềm.
+Công nghệ Thông tin
+Information Technology
+7480201
+Cử nhân
+4 năm
+Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao)
+The Degree of Bachelor in Information Technology (Honors Program)
+Cử nhân có trình độ chuyên môn cao về CNTT, có năng lực phát triển, triển khai và vận hành các hệ thống phần mềm và các giải pháp CNTT tiên tiến.
+4
+Các phương pháp, công cụ và quy trình phát triển, quản lý và bảo trì hệ thống phần mềm.
+Phát triển và vận hành các hệ thống thông tin cho việc quản lý kinh tế, hành chính và dịch vụ.
+Các công nghệ để phát triển và vận hành các hệ thống mạng và truyền thông máy tính.
+Học máy, xử lý ảnh và xử lý ngôn ngữ tự nhiên.
+Phương pháp dạy - học tiên tiến.
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Sinh viên có kiến thức thực tế vững chắc, kiến thức lý thuyết sâu, rộng trong lĩnh vực đào tạo.
+Năng lực ngoại ngữ đạt chuẩn tương đương bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Sinh viên cần trang bị kiến thức về vật lý, toán học, và tin học.
+Sinh viên cần có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình.
+Sinh viên cần biết về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm.
+Sinh viên cần sử dụng được một ngôn ngữ lập trình hướng đối tượng.
+Sinh viên cần hiểu và giải thích được cơ chế hoạt động chung của hệ thống máy tính.
+Sinh viên cần nắm vững kiến thức về quy trình phát triển phần mềm.
+Sinh viên có thể lập trình thành thạo một số ngôn ngữ lập trình thông dụng.
+Sinh viên có khả năng xây dựng giao diện người dùng trong xây dựng hệ thống phần mềm.
+Sinh viên có thể đảm nhiệm vị trí lập trình viên hệ thống và cơ sở dữ liệu.
+Sinh viên có thể trở thành chuyên viên an ninh mạng.
+Sinh viên có thể phát triển lên trưởng nhóm phát triển phần mềm.
+Sinh viên có thể học lên các bậc cao hơn như thạc sỹ, tiến sĩ.
+Sinh viên cần trung thực, lễ độ, khiêm tốn và nhiệt tình.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+University of Engineering and Technology.
+Chuyên viên phân tích, thiết kế, phát triển hệ thống.
+Lập trình viên trên môi trường di động, Web.
+Chuyên viên kiểm thử phần mềm.
+Trưởng nhóm phát triển phần mềm.
+Quản lý dự án.
+Trình độ 4/6 Khung năng lực ngoại ngữ Việt Nam.
+Vận dụng được kiến thức chuyên sâu của một trong các lĩnh vực công nghệ phần mềm, hệ thống thông tin, khoa học máy tính, và mạng máy tính vào việc đánh giá và ra quyết định về các giải pháp CNTT trong thực tiễn.
+Thành thạo được các giải pháp CNTT, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận.
+Lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả.
+Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện (có) tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp.
+Các chương trình đào tạo sau đại học.
+Lĩnh vực máy tính gồm hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính.
+146 tín chỉ
+21 tín chỉ
+Triết học Mác – Lênin
+Giải tích 1
+Nhập môn lập trình
+Giải tích 2
+Nhập môn lập trình
+Giới thiệu về Công nghệ thông tin
+Cơ sở dữ liệu
+Lập trình hướng đối tượng và Cơ sở dữ liệu
+Cấu trúc dữ liệu và giải thuật
+Lập trình hướng đối tượng
+Cơ sở dữ liệu
+Mạng máy tính
+Mạng máy tính
+Công nghệ Thông tin
+Information Technology
+52480201
+Cử nhân
+4 năm
+60 sinh viên/năm
+Kiến thức cơ bản và chuyên sâu về Công nghệ Thông tin
+Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ Thông tin
+Bồi dưỡng phẩm chất chính trị tốt, ý thức kỷ luật và đạo đức nghề nghiệp
+Quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm
+Kiến thức cơ bản và chuyên sâu về Hệ thống thông tin
+Kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính
+Kiến thức cơ bản và chuyên sâu về máy tính và dịch vụ Công nghệ thông tin
+Theo quy định của Đại học Quốc gia Hà Nội.
+Trang bị các kiến thức cơ bản và chuyên sâu về Công nghệ Thông tin.
+151 tín chỉ
+26 tín chỉ
+19 tín chỉ
+10 tín chỉ
+30 tín chỉ
+66 tín chỉ
+Triết học Mác – Lênin
+Giải tích 1
+Giải tích 2
+Nhập môn lập trình
+Nhập môn lập trình
+Nhập môn lập trình
+Kiến trúc máy tính
+Nhập môn lập trình
+Nhập môn lập trình
+Công nghệ Thông tin
+Information Technology
+7480201
+Cử nhân
+4 năm
+Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao)
+The Degree of Bachelor in Information Technology (Honors Program)
+Kiến thức cơ bản và chuyên sâu về Công nghệ Thông tin.
+Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ Thông tin.
+Kỹ năng làm việc theo nhóm và kỹ năng giao tiếp.
+Kiến thức cơ bản và chuyên sâu về Công nghệ phần mềm.
+Kiến thức cơ bản và chuyên sâu về Hệ thống thông tin.
+Kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên/năm.
+Tối thiểu tương đương bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Lập trình viên hệ thống và cơ sở dữ liệu.
+Chuyên viên phân tích, thiết kế, phát triển hệ thống.
+Quản trị mạng, chuyên viên an ninh mạng.
+Thạc sỹ, tiến sĩ.
+Kỹ năng ngoại ngữ chuyên ngành ở mức có thể hiểu được các ý chính của một báo cáo hay bài phát biểu về các chủ đề quen thuộc trong công việc liên quan đến ngành được đào tạo.
+Chuyên viên kiểm thử phần mềm.
+Chuyên viên tư vấn dịch vụ công nghệ thông tin.
+Trung thực.
+Trách nhiệm với công việc.
+Có, sinh viên cần biết hợp tác với các thành viên khác trong nhóm.
+Biết cách lập luận, sắp xếp ý tưởng.
+Có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao.
+Nắm được các kiến thức liên quan đến Giải tích toán học.
+Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Công nghệ kỹ thuật cơ điện tử
+7510203
+Cử nhân
+4 năm
+The Degree of Bachelor in Mechatronics Engineering
+Kỹ sư
+Cơ bản
+Đào tạo cử nhân có kiến thức chuyên môn toàn diện, kỹ năng thực hành cơ bản, có khả năng làm việc độc lập, sáng tạo và giải quyết những vấn đề thuộc ngành.
+Năng lực tự học, tự nghiên cứu nâng cao trình độ chuyên môn, nghiệp vụ.
+Khả năng làm việc độc lập cũng như kỹ năng giao tiếp, làm việc theo nhóm.
+Trình độ ngoại ngữ và công nghệ thông tin tốt.
+Hành vi, thái độ, tác phong làm việc chuyên nghiệp, có đạo đức nghề nghiệp, có trách nhiệm xã hội và tuân thủ pháp luật.
+Bộ Giáo dục và Đào tạo.
+Đại học Quốc gia Hà Nội.
+Có.
+Đạt chuẩn 4/6 theo khung tham chiếu của Việt Nam (tương đương B2)
+Kỹ năng lập trình
+Trang thiết bị thí nghiệm hiện đại, đáp ứng chuẩn công nghiệp
+Kiến thức pháp luật liên quan đến lĩnh vực được đào tạo
+Bậc 4/6
+Triết học Mác - Lênin
+Giải tích toán học và Đại số cao cấp
+Tư tưởng, đạo đức, giá trị văn hóa Hồ Chí Minh
+Cơ học lý thuyết và cơ học kỹ thuật
+Có
+Kỹ thuật máy tính để đánh giá phân tích thiết kế hệ thống hoặc quá trình
+Kĩ năng lập trình các hệ thống nhúng trên nền tảng Vi điều khiển cũng như PLC
+Công nghệ chế tạo cơ khí tiên tiến
+Kỹ thuật mô phỏng, công nghệ thiết kế ảo và phần mềm thiết kế hiện đại
+Kỹ sư, chuyên viên, nghiên cứu viên và giảng viên
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Không được đề cập trong văn bản.
+Trình độ tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam).
+Kỹ sư phụ trách công tác kỹ thuật, thiết kế, quản lý dự án.
+Các cơ sở nghiên cứu, doanh nghiệp, các tổ chức sản xuất, kinh doanh liên quan đến Công nghệ Kỹ thuật Cơ điện tử, Tự động hóa.
+Phụ trách dịch vụ sau bán hàng; phát triển mẫu mã sản phẩm.
+Tham gia nghiên cứu các vấn đề có liên quan đến công nghệ cơ điện tử; trợ lý giảng dạy, giảng viên dạy các học phần thuộc ngành đào tạo.
+Bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ Cơ điện tử, Tự động hóa, Cơ kỹ thuật.
+Kỹ năng lập kế hoạch, điều phối, quản lý nhóm làm việc hiệu quả với tư duy logic, biện chứng.
+Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; Thể hiện tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp.
+Kỹ năng giải quyết vấn đề thực tế hiệu quả và sáng tạo.
+Trong điều kiện làm việc thay đổi hoặc môi trường có áp lực cao.
+Chịu trách nhiệm đối với nhóm.
+Các kiến thức cơ bản của ngành.
+Các kiến thức chuyên sâu.
+149 tín chỉ.
+Có.
+Khối kiến thức chung.
+Triết học Mác - Lênin.
+Khối kiến thức theo lĩnh vực.
+Đại số và Giải tích 2.
+Khối kiến thức theo nhóm ngành.
+Cơ học kỹ thuật 2.
+Khối kiến thức bổ trợ.
+Hệ thống cơ điện tử.
+Chế tạo thiết bị.
+Đo lường và điều khiển.
+Hệ thống vi cơ điện tử và nanô cơ điện tử.
+Kỹ thuật robot.
+Chẩn đoán kỹ thuật.
+134 tín chỉ.
+29 tín chỉ (không tính GDTC, GDQP-AN và Kĩ năng bổ trợ).
+18 tín chỉ.
+6 tín chỉ.
+22 tín chỉ.
+59 tín chỉ.
+7 tín chỉ.
+7 tín chỉ.
+PHI1004.
+POL1001.
+FLF2101.
+MAT1041.
+PHY1100.
+EMA2036.
+ELT2050.
+Công nghệ kỹ thuật cơ điện tử
+7510203
+Cử nhân
+4 năm
+The Degree of Bachelor in Mechatronics Engineering
+Các kiến thức chuyên môn toàn diện
+Tự nghiên cứu nâng cao trình độ chuyên môn, nghiệp vụ.
+Đại học Quốc gia Hà Nội
+120 sinh viên/năm.
+Mechatronics Engineering
+135 tín chỉ.
+26 tín chỉ.
+Khối kiến thức chung.
+Triết học Mác – Lênin.
+Giải tích 1.
+Cơ học kỹ thuật 1.
+Cơ học kỹ thuật 2.
+Hệ thống cơ điện tử, Chế tạo thiết bị, Đo lường và điều khiển, Công nghệ màn hình tiên tiến, Hệ thống vi cơ điện tử và nanô cơ điện tử, Kỹ thuật robot.
+Cơ học kỹ thuật 2 và Vật lý đại cương 2.
+Nguyên lý kỹ thuật điện tử và Linh kiện bán dẫn và vi mạch.
+Cơ sở kỹ thuật điện, Kỹ thuật đo lường và cảm biến, và Nguyên lý kỹ thuật điện tử.
+Điều khiển PLC và Kiến trúc máy tính và mạng truyền thông công nghiệp.
+7 tín chỉ.
+7 tín chỉ.
+Tiếng Anh.
+Công nghệ kỹ thuật cơ điện tử
+Mechatronics Engineering
+52510203
+Cử nhân
+4 năm
+Cử nhân ngành Công nghệ kỹ thuật cơ điện tử
+The Degree of Bachelor in Mechatronics Engineering
+Theo quy định của Đại học Quốc gia Hà Nội.
+120 chỉ tiêu.
+Trang bị cho sinh viên các kiến thức chuyên môn toàn diện, nắm vững nguyên lý, quy luật tự nhiên – xã hội, có kỹ năng thực hành cơ bản, có khả năng làm việc độc lập, sáng tạo và giải quyết những vấn đề thuộc ngành Công nghệ kỹ thuật Cơ điện tử.
+Lĩnh vực đào tạo.
+Bậc 3.
+Vật lý cơ, nhiệt, điện và quang.
+Giải tích toán học và Đại số cao cấp.
+Phương pháp tính toán số.
+Kỹ thuật máy tính.
+Công nghệ chế tạo cơ khí tiên tiến.
+Cảm biến, cơ cấu tác động, phần cứng và phần mềm điều khiển.
+Công nghệ MEMS/NEMS.
+Kỹ thuật mô phỏng và công nghệ thiết kế ảo.
+Mô phỏng các hệ cơ điện tử.
+Các cơ sở nghiên cứu, doanh nghiệp, các tổ chức sản xuất, kinh doanh liên quan đến Công nghệ Kỹ thuật Cơ điện tử, Tự động hóa…
+Phụ trách dịch vụ sau bán hàng; phát triển mẫu mã sản phẩm…
+Tham gia nghiên cứu các vấn đề có liên quan đến công nghệ cơ điện tử; trợ lý giảng dạy, giảng viên dạy các học phần thuộc ngành đào tạo; phát triển sản phẩm mới, công nghệ mới.
+Các chuyên ngành thuộc lĩnh vực Công nghệ Cơ điện tử, Tự động hóa, Cơ kỹ thuật.
+Công nghệ nông nghiệp
+7519002
+Kỹ sư
+4,5 năm
+The Degree of Engineer in Agricultural Technology
+Đào tạo kỹ sư công nghệ nông nghiệp chất lượng cao có kiến thức và kỹ năng về nông nghiệp, công nghệ, có phẩm chất chính trị, đạo đức nghề nghiệp để có khả năng phát triển công nghệ và hoàn thiện quy trình công nghệ sản xuất nông nghiệp.
+Các doanh nghiệp, cơ quan nhà nước và các tổ chức quốc tế về nông nghiệp, nông nghiệp công nghệ cao, công nghệ hoặc khởi nghiệp.
+Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Agricultural Technology
+Có
+Công nghệ Nông nghiệp
+Agricultural Technology
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Công nghệ Nông nghiệp
+The Degree of Engineer in Agricultural Technology
+Đào tạo kỹ sư có chuyên môn về công nghệ thông tin, công nghệ số, điện tử viễn thông,... để ứng dụng vào nông nghiệp.
+Thiết kế, lập trình, chế tạo, khai thác, vận hành các hệ thống thiết bị công nghệ trong nông nghiệp.
+Có, cần hiểu biết về chuỗi giá trị nông nghiệp và thị trường Công nghệ Nông nghiệp trong nước và quốc tế.
+Theo quy định của Đại học Quốc gia Hà Nội.
+Dự kiến tuyển 60 – 100 sinh viên/năm.
+Nông nghiệp - cây trồng, vật nuôi và thủy sản.
+Các dự án nông nghiệp công nghệ cao.
+Quy trình công nghệ cho nuôi trồng các loại cây trồng, vật nuôi và thủy sản.
+Trường Đại học Công nghệ, ĐHQGHN.
+151 tín chỉ
+16 tín chỉ
+Khối kiến thức chung
+PHI1006
+Khối kiến thức theo khối ngành
+24 tín chỉ
+Khối kiến thức theo nhóm ngành
+ELT2035
+INT1008
+68 tín chỉ
+Khối kiến thức ngành
+Nông nghiệp kỹ thuật số
+Công nghệ sinh học Nông nghiệp
+3 tín chỉ
+150 giờ
+150 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+21 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+19 tín chỉ.
+13 tín chỉ.
+16 tín chỉ.
+81 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Bắt buộc.
+Nông nghiệp kỹ thuật số.
+Công nghệ sinh học nông nghiệp.
+Tin sinh học nông nghiệp.
+Các học phần lựa chọn bổ trợ.
+151 tín chỉ
+Tương đương bậc 3 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Vật lý, toán học, tin học.
+Vi sinh vật học
+Một ngôn ngữ lập trình cơ bản.
+Hệ sinh thái nông nghiệp.
+Kỹ sư công nghệ nông nghiệp kỹ thuật số.
+Nhân giống cây trồng trong vườn ươm.
+Các Sở/Bộ Khoa học Công nghệ và Sở/Bộ Nông nghiệp và Phát triển Nông thôn.
+Công nghệ nông nghiệp, công nghệ thông tin, cơ điện tử, điện tử viễn thông, điều khiển và tự động hóa, vật liệu tiên tiến, công nghệ sinh học nông nghiệp.
+Kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn.
+Kỹ năng phát hiện vấn đề.
+Kỹ năng thiết lập giả thiết.
+Kỹ năng đánh giá chất lượng công việc sau khi hoàn thành.
+Lễ độ, khiêm tốn, nhiệt tình, trung thực.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Thuộc lĩnh vực công nghệ và công nghệ nông nghiệp.
+Thạc sĩ, tiến sĩ.
+Các trường đại học, viện nghiên cứu trong nước và quốc tế.
+Bậc 3 theo khung trình độ Quốc gia.
+Cán bộ kỹ thuật, cán bộ quản lý, nghiên cứu viên và giảng viên.
+Các trang trại, doanh nghiệp sản xuất và kinh doanh thiết bị nông nghiệp công nghệ cao.
+Các sở/bộ ban ngành.
+Tư duy phân tích, tư duy phản biện và tư duy sáng tạo.
+Có.
+Thực hiện nhiệm vụ và các hoạt động sản xuất nông nghiệp an toàn, bền vững.
+Có.
+Có, với học phần Tin học cơ sở.
+Có, với học phần Nhập môn lập trình.
+Có, với học phần Công nghệ sinh học.
+Công nghệ kỹ thuật Điện tử – Viễn thông
+Electronics and Communications Engineering Technology
+7510302
+Cử nhân
+4 năm
+Cử nhân Công nghệ kỹ thuật Điện tử – Viễn thông
+The Degree of Bachelor in Electronic and Communication Engineering Technology
+Đào tạo cử nhân kỹ thuật có nền tảng mạnh về khoa học và công nghệ, có khả năng đóng góp cho xã hội.
+Theo quy định của Đại học Quốc gia Hà Nội.
+Theo quy định của Đại học Quốc gia Hà Nội.
+Kiến thức và kỹ năng cần có cho nghề nghiệp tương lai trong ngành CNĐTTT.
+Khoa học cơ bản, toán học, khoa học điện và tin học.
+Môi trường giúp chuẩn bị cho sinh viên có nhiều định hướng nghề nghiệp khác nhau và có khả năng tự học suốt cuộc đời.
+Xã hội, kinh doanh, công nghệ, và môi trường.
+Sự phát triển quốc gia và kinh tế toàn cầu.
+Công nghệ kĩ thuật Điện tử, Truyền thông
+Electronics and Communications Engineering Technology
+52510302
+Cử nhân
+4 năm
+Cử nhân Công nghệ kĩ thuật Điện tử, Truyền thông
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên/năm
+135 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kỹ năng bổ trợ).
+26 tín chỉ.
+19 tín chỉ.
+10 tín chỉ.
+31 tín chỉ.
+49 tín chỉ.
+18 tín chỉ.
+12/24 tín chỉ.
+13 tín chỉ.
+Triết học Mác - Lênin.
+Giải tích 1.
+Giải tích 1.
+Nhập môn lập trình.
+Vật lý đại cương 1.
+Tín hiệu và hệ thống.
+154 tín chỉ
+34 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Kĩ năng bổ trợ)
+18 tín chỉ
+6 tín chỉ
+30 tín chỉ
+Khối kiến thức chung
+Đại số (MAT1093)
+Tin học cơ sở 4 (INT1006)
+Điện – Quang (PHY1103)
+Điện – Quang (PHY1103)
+Đại số (MAT1093)
+Điện tử tương tự (ELT2040)
+Tín hiệu và hệ thống (ELT2035) hoặc Truyền thông (ELT3043)
+Kỹ thuật điện (ELT2030)
+Mạng truyền thông máy tính 1 (ELT3046)
+151 tín chỉ.
+21 tín chỉ.
+22 tín chỉ.
+10 tín chỉ.
+33 tín chỉ.
+65 tín chỉ.
+17 tín chỉ.
+Triết học Mác – Lênin.
+Giải tích 1.
+Vật lý đại cương 1.
+Giải tích 1.
+Nhập môn lập trình.
+Đại số và Giải tích 2.
+Tín hiệu và hệ thống.
+Vật lý đại cương 2.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội đào tạo ngành Công nghệ kỹ thuật điện tử – truyền thông.
+Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – truyền thông cần đạt tối thiểu bậc 4/6 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (hoặc tương đương).
+Sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông được trang bị kiến thức về kinh tế, luật, xã hội, nhân văn.
+Có, sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – truyền thông có thể đảm nhiệm vị trí giảng viên/nghiên cứu viên.
+Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – truyền thông có thể học tiếp lên thạc sĩ, tiến sĩ.
+Người học ngành Công nghệ kỹ thuật điện tử – truyền thông cần có đạo đức nghề nghiệp trung thực, trách nhiệm và đáng tin cậy.
+Ngành Công nghệ kỹ thuật điện tử – truyền thông trang bị cho sinh viên tư duy sáng tạo, tư duy phản biện, khả năng đề xuất sáng kiến, khả năng quản lý thời gian và nguồn lực.
+Có, sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông được học về kiến trúc máy tính.
+Có, sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông được trang bị kiến thức về Chủ nghĩa Mác Lênin.
+Có, sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – truyền thông có thể làm việc ở vị trí chuyên gia về hệ thống nhúng.
+Có, sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông được trang bị kiến thức về điện tử y sinh.
+Có, sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông cần có kỹ năng làm việc nhóm.
+Mục tiêu của giáo dục thể chất đối với sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông là củng cố và tăng cường sức khỏe.
+Sinh viên ngành Công nghệ kỹ thuật điện tử – truyền thông được trang bị kiến thức về Vật lý cơ, nhiệt, điện và quang.
+Có, sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – truyền thông có thể làm việc ở vị trí kỹ sư truyền thông.
+Công nghệ kỹ thuật điện tử – viễn thông
+7510302
+Cử nhân
+4 năm
+The Degree of Bachelor in Electronics and Communication Engineering Technology
+Kỹ năng giao tiếp, làm việc nhóm, phát hiện và giải quyết vấn đề, tư duy, phản biện, sáng tạo.
+Trình độ ngoại ngữ và công nghệ thông tin tốt, có khả năng hội nhập quốc tế.
+Bộ Giáo dục và Đào tạo; Đại học Quốc gia Hà Nội; Trường Đại học Công nghệ.
+Electronics and Communications Engineering Technology
+Đào tạo nhân lực chất lượng cao đáp ứng yêu cầu của cách mạng công nghiệp 4.0.
+Phẩm chất đạo đức tốt, có mức độ tự chủ và trách nhiệm với xã hội.
+Có, để tiếp nhận kiến thức mới và học tập suốt đời.
+Khả năng áp dụng kiến thức chuyên sâu và kiến thức thực tế để giải quyết công việc phức tạp.
+Đại học Quốc gia Hà Nội
+Có, và tự học nâng cao trình độ chuyên môn.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể vận dụng kiến thức về khoa học cơ bản và CNTT để giải quyết bài toán kỹ thuật.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể sử dụng kiến thức chuyên sâu về điện tử và viễn thông để thiết kế hệ thống.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kỹ năng áp dụng kiến thức khoa học và CNTT để phát hiện và mô tả vấn đề.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kỹ năng giao tiếp hiệu quả với nhiều đối tượng.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kỹ năng ngoại ngữ tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có ý thức đóng góp tạo ra những sản phẩm có giá trị phục vụ cộng đồng.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần tuân thủ pháp luật và đạo đức nghề nghiệp.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể đảm nhiệm vị trí kỹ sư thiết kế các sản phẩm điện tử viễn thông.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể đảm nhiệm vị trí quản lý dự án kinh doanh hoặc dự án kỹ thuật.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể học sau đại học chuyên ngành Kỹ thuật điện tử.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể làm việc trong lĩnh vực IoT.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể làm việc trong lĩnh vực xử lý tín hiệu.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể làm việc trong lĩnh vực điện tử y sinh.
+Cần trình bày được hệ thống tri thức khoa học về triết học Mác – Lênin, Kinh tế chính trị Mác – Lênin, Chủ nghĩa xã hội khoa học; và tư tưởng, đạo đức, giá trị văn hóa Hồ Chí Minh và lịch sử Đảng Cộng sản Việt Nam.
+Cần có năng lực ngoại ngữ đạt chuẩn tương đương bậc 4 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Cần có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao.
+Có, sinh viên cần thực hành thành thạo được các kiến thức liên quan đến cấu trúc dữ liệu về mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm.
+Có, sinh viên cần thực hành thành thạo các thuật toán cơ bản liên quan đến sắp xếp, tìm kiếm trên các cấu trúc dữ liệu.
+Có, sinh viên cần thực hành thành thạo các kiến thức cốt lõi của nhóm ngành, bao gồm các phương pháp tính để xây dựng thuật toán, tối ưu các giải pháp công nghệ, điện, điện tử cơ sở, trường điện từ, xử lý tín hiệu, kiến trúc máy tính, mô hình hóa và mô phỏng sử dụng các phần mềm chuyên dụng cho ĐTVT.
+Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Có, sinh viên cần lập trình thành thạo và biết sử dụng các công cụ phần mềm hỗ trợ.
+Có, sinh viên cần biết hợp tác với các thành viên khác trong nhóm và biết cách chia sẻ thông tin trong nhóm.
+Có, sinh viên cần biết truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc, chuyển tải, phổ biến kiến thức kỹ năng trong những việc thực hiện nhiệm vụ cụ thể hoặc phức tạp.
+Cần trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Cần có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Có thể làm giảng viên/nghiên cứu viên, chuyên gia kỹ thuật, quản trị dự án kỹ thuật, hoặc doanh nhân trong lĩnh vực ĐTVT.
+Có thể học ở cấp học cao hơn (thạc sĩ, tiến sĩ) ở trong nước hoặc ở nước ngoài.
+Có khả năng làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi; tự học tập, tích lũy kiến thức, kinh nghiệm để nâng cao trình độ chuyên môn nghiệp vụ;
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội đào tạo ngành Mạng máy tính và truyền thông dữ liệu.
+Người học sau khi tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu cần đạt yêu cầu về kiến thức, kỹ năng, mức tự chủ và chịu trách nhiệm.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể học lên các chương trình đào tạo sau đại học.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu cần có kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể làm kỹ sư thiết kế và triển khai các hệ thống mạng Internet, viễn thông và các dịch vụ mạng.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể làm kỹ sư quản trị các hệ thống/dịch vụ mạng cho các doanh nghiệp, tổ chức nhà nước, các nhà cung cấp dịch vụ.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể làm chuyên viên phát triển phần mềm và dịch vụ trên nền tảng mạng Internet và truyền thông.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể làm chuyên viên về an ninh/an toàn hệ thống mạng và truyền thông.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể làm chuyên viên tư vấn dịch vụ Công nghệ thông tin và truyền thông.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể làm giảng viên, nghiên cứu viên về Công nghệ thông tin và Điện tử viễn thông.
+Người học ngành Mạng máy tính và truyền thông dữ liệu cần vận dụng được kiến thức về tiếng Anh tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Người học ngành Mạng máy tính và truyền thông dữ liệu cần có khả năng lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm.
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu cần có kiến thức chuyên ngành tiên tiến theo một trong ba định hướng: Quản trị và an ninh mạng, Phát triển ứng dụng Internet và Điện toán đám mây, Truyền thông dữ liệu.
+Người học ngành Mạng máy tính và truyền thông dữ liệu cần có tư duy logic, biện chứng để giải quyết vấn đề thực tế hiệu quả và sáng tạo.
+Trường Đại học Công nghệ, ĐHQGHN có tên tiếng Anh là Univeristy of Engineering and Technology.
+Truyền thông và Mạng Máy tính.
+Communications and Computer Networks.
+52480102
+Kỹ sư
+4,5 năm
+Cung cấp nguồn nhân lực trình độ cao, chất lượng cao trong lĩnh vực Truyền thông và Mạng Máy tính.
+Toán, khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ.
+Cơ sở toán trong công nghệ, kỹ thuật điện tử, ngôn ngữ lập trình, cấu trúc dữ liệu và giải thuật, mạng máy tính, kỹ thuật truyền thông, an ninh mạng.
+Phân tích, thiết kế, triển khai, cài đặt và quản trị các hệ thống/dịch vụ mạng và truyền thông dữ liệu.
+Quản trị mạng, quản trị hệ thống, kỹ sư phát triển phần mềm.
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, đạo đức nghề nghiệp.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên/năm.
+Tư duy logic tốt, có năng lực sáng tạo.
+Tỉ trọng thực hành cao và nhiều bài tập ứng dụng thực tế.
+Hiểu được những nguyên lý cơ bản của Chủ nghĩa Mác Lênin và đường lối cách mạng của Đảng Cộng sản Việt Nam.
+Tối thiểu tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Các kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang.
+Kiến thức liên quan đến mảng, danh sách liên kết, hàng đợi, ngăn xếp, cây nhị phân, bảng băm.
+Sử dụng được một ngôn ngữ lập trình hướng đối tượng, hiểu các khái niệm và viết được chương trình phần mềm theo phương pháp hướng đối tượng.
+Các khái niệm cơ bản về mạng máy tính, các bộ phận, các giao thức, cách thức truyền dữ liệu trên mạng.
+Kiến thức về quản trị các hệ thống/dịch vụ mạng, các nguyên lý hoạt động của các thiết bị mạng.
+Kiến thức về các phương thức truyền thông di động, truyền thông vô tuyến, truyền thông quang.
+Kỹ sư thiết kế và triển khai các hệ thống mạng, viễn thông và các dịch vụ mạng.
+Thạc sỹ, tiến sĩ.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Kỹ năng giao tiếp bằng văn bản, giao tiếp điện tử, đa truyền thông.
+Có tư duy logic, tư duy phân tích, tổng hợp, tư duy toàn cục.
+Biết hợp tác với các thành viên khác trong nhóm và biết cách chia sẻ thông tin trong nhóm.
+Củng cố và tăng cường sức khỏe, hiểu về đường lối quân sự và nhiệm vụ công tác quốc phòng – an ninh.
+Mạng máy tính và Truyền thông dữ liệu.
+Computer Networks and Data Communications.
+7480102.
+Kỹ sư.
+4,5 năm.
+Kỹ sư ngành Mạng máy tính và Truyền thông dữ liệu.
+The Degree of Engineer in Computer Networks and Data Communications.
+Cung cấp nguồn nhân lực trình độ cao, chất lượng cao.
+Kiến thức chuyên môn và kỹ năng nghề nghiệp về mạng máy tính và truyền thông dữ liệu.
+Phẩm chất chính trị, đạo đức nghề nghiệp.
+Kỹ năng làm việc trong môi trường cạnh tranh, tự học, tự cập nhật kiến thức.
+Các đơn vị, doanh nghiệp phát triển và ứng dụng CNTT hàng đầu trong nước.
+Quy chế, Quy định của Bộ Giáo dục và Đào tạo; hướng dẫn của ĐHQGHN và Đề án tuyển sinh của trường.
+Trường Đại học Công nghệ, ĐHQGHN.
+Nhiều vị trí khác nhau trong các đơn vị, doanh nghiệp phát triển và ứng dụng CNTT.
+Đại học Quốc gia Hà Nội
+University of Engineering and Technology
+157 tín chỉ
+29 tín chỉ (chưa tính GDTC, GDQP-AN và Kĩ năng bổ trợ)
+18 tín chỉ
+9 tín chỉ
+19 tín chỉ
+82 tín chỉ
+10 tín chỉ
+PHI1004
+POL1001
+HIS1002
+INT1003
+MAT1041
+MAT1093
+165 tín chỉ.
+21 tín chỉ.
+3 tín chỉ.
+Triết học Mác - Lênin.
+Giải tích 1.
+5 tín chỉ.
+Nhập môn lập trình.
+Đại số và Giải tích 1.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Tín hiệu và hệ thống.
+Mạng máy tính.
+Mạng máy tính.
+33 tín chỉ.
+Khối kiến thức ngành.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Computer Networks and Data Communications.
+7480102.
+Kỹ sư.
+4,5 năm.
+Kỹ sư Mạng máy tính và Truyền thông dữ liệu.
+Đào tạo nguồn nhân lực kỹ sư có trình độ cao về chuyên môn.
+Các kiến thức và kỹ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng CNTT-TT của xã hội trong xu thế toàn cầu hóa.
+Cơ chế truyền thông dữ liệu, nguyên lý hoạt động của mạng máy tính, đảm bảo an toàn an ninh mạng và quản trị mạng.
+Phân tích, thiết kế, triển khai, cài đặt và quản trị các hệ thống/dịch vụ mạng và truyền thông dữ liệu.
+Có, sinh viên cần kỹ năng lập trình với các ngôn ngữ, môi trường lập trình tiên tiến.
+Quản trị mạng, quản trị hệ thống, kỹ sư phát triển phần mềm.
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật.
+Tinh thần làm việc theo nhóm, tính kỷ luật và khả năng giao tiếp.
+Quản trị và an ninh mạng, Phát triển các ứng dụng Internet và điện toán đám mây, Truyền thông dữ liệu.
+150 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ).
+26 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ).
+Triết học Mác – Lênin.
+Giải tích 1.
+Giải tích 1.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Xác suất thống kê.
+Mạng máy tính.
+Mạng máy tính.
+Mạng máy tính.
+Mạng máy tính và truyền thông dữ liệu.
+Thạc sỹ, tiến sĩ.
+Chuyên viên về an ninh/an toàn hệ thống mạng và truyền thông.
+Các hệ thống/dịch vụ mạng cho các doanh nghiệp, tổ chức nhà nước, các nhà cung cấp dịch vụ.
+Giảng viên, nghiên cứu viên về Công nghệ thông tin và Điện tử viễn thông.
+Bậc 4/6 theo Khung năng lực ngoại ngữ của Việt Nam.
+Vận dụng kiến thức chung về quản trị, quản lý và vận hành của hệ thống và tổ chức.
+Giao tiếp, phối hợp làm việc nhóm hiệu quả trong môi trường chuyên nghiệp.
+Trung thực, chuyên nghiệp trong hoạt động chuyên môn.
+Vận dụng được các kiến thức cơ bản về mạng không dây, quản trị và an ninh mạng.
+Không được nêu rõ trong đoạn văn.
+Vận dụng các nguyên lý truyền thông số và mã hóa và các cơ chế truyền dữ liệu trong các môi trường truyền khác nhau để hiểu nguyên lý hoạt động của các hệ thống viễn thông.
+Thiết kế, xây dựng và triển khai các ứng dụng Internet và Internet of Things theo các tiêu chuẩn phổ dụng.
+Vận dụng được một số kỹ năng liên quan đến khởi nghiệp, đổi mới sáng tạo.
+Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+(Cần nội dung văn bản để xác định chính xác URL)
+Đại học Quốc gia Hà Nội.
+(Cần nội dung văn bản để xác nhận)
+(Cần nội dung văn bản để xác nhận)
+(Cần nội dung văn bản để xác nhận)
+(Cần nội dung văn bản để xác nhận, thông thường là 144 Xuân Thủy, Cầu Giấy, Hà Nội)
+(Cần nội dung văn bản để xác nhận)
+(Cần nội dung văn bản để xác nhận)
+(Cần nội dung văn bản để xác nhận)
+Học phí và học bổng.
+Học bổng Annex.
+Đại học Quốc gia Hà Nội.
+Học bổng Đồng hành Vingroup – ĐHQGHN.
+Sinh viên.
+Đại học Quốc gia Hà Nội.
+Sinh viên đại học hệ chính quy.
+Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014.
+Có.
+Có.
+Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014 của Giám đốc Đại học Quốc gia Hà Nội.
+Có.
+Tuyết Nga.
+Liên bang Nga.
+Bộ Giáo dục và Đào tạo.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Học bổng Vietcombank năm học 2024-2025.
+20 suất.
+200.000.000đ (Hai trăm triệu đồng chẵn).
+Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022.
+Công văn số 1299/VCB-TCNS ngày 24 tháng 10 năm 2023.
+Trưởng phòng Công tác Sinh viên.
+Quy định về tổ chức và hoạt động của các đơn vị thành viên và đơn vị trực thuộc ĐHQGHN.
+Tài khoản cá nhân của sinh viên.
+Hội đồng thi đua khen thưởng – kỉ luật sinh viên Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN).
+Năm 2025, Đại học Quốc gia Hà Nội (ĐHQGHN) có chương trình trao đổi sinh viên tại Đại học Quốc gia Singapore (NUS).
+Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014 của Giám đốc Đại học Quốc gia Hà Nội.
+Năm 2025, chương trình tuyển sinh đi học tại Liên bang Nga do Bộ Giáo dục và Đào tạo thông báo.
+Năm 2025, Quỹ Pony Chung tài trợ học bổng thạc sĩ tại Trường Đại học Korea, Hàn Quốc.
+Năm 2025, chương trình tuyển sinh đi học tại Bun-ga-ri do Bộ Giáo dục và Đào tạo thông báo.
+Năm 2025, Đại học Quốc gia Hà Nội (ĐHQGHN) có chương trình trao đổi sinh viên tại Đại học Waseda, Nhật Bản.
+Nghiên cứu sinh Bùi Thị Hà thực hiện luận án Tiến sỹ về hệ thống truyền thông băng tần S cho trạm mặt đất kết nối với vệ tinh quỹ đạo thấp NanoSatellite.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Ngày 28 tháng 2.
+Ngày 28 tháng 2.
+Kỳ mùa Thu năm học 2025 – 2026.
+Ngày 19 tháng 2.
+Quỹ Pony Chung (PCF).
+Ngày 19 tháng 2.
+Ngày 18 tháng 2.
+Ngày 17 tháng 2.
+Kỳ mùa Thu năm 2025.
+Ngày 22 tháng 1.
+Nghiên cứu sinh, Học viên cao học, Sinh viên.
+Tháng 12.
+Cơ quan Hợp tác Liên bang Nga tại Việt Nam.
+Cục hợp tác Quốc tế.
+Học bổng K-T.
+Hệ chính quy.
+Loại khá trở lên.
+Loại tốt trở lên.
+22 điểm (chưa nhân hệ số, đã bao gồm điểm ưu tiên).
+5.000.000 VNĐ/sinh viên/năm học.
+03 suất.
+Phòng Công tác sinh viên (P.104-E3), 144 Xuân Thủy, Cầu Giấy, Hà Nội.
+hangtt@vnu.edu.vn
+File PDF.
+Họ và tên sinh viên.
+09h30 ngày 10/03/2025.
+25cm x 34cm.
+Văn bản không đề cập đến.
+https://forms.gle/RY1QEgW3wSSJqPAU7
+Trường Đại học Công nghệ, ĐHQGHN.
+3.500.000 đồng/sinh viên/học kỳ.
+25 suất.
+Kết quả học tập đạt từ 2.5 trở lên và kết quả rèn luyện đạt từ loại tốt trở lên.
+Giấy xác nhận hoàn cảnh khó khăn.
+Phòng Công tác sinh viên (P.104-E3), 144 Xuân Thủy, Cầu Giấy, Hà Nội.
+hangtt@vnu.edu.vn
+09h00 ngày 10/03/2025.
+Hồ sơ bản mềm dưới dạng 01 file pdf và điền thông tin vào đường link.
+Hoàn thành đủ các bước kê khai thông tin, nộp hồ sơ bản pdf và bản cứng.
+Bảng điểm, giấy xác nhận kết quả rèn luyện, thư cảm ơn.
+Sinh viên đủ điều kiện và có hoàn cảnh khó khăn.
+QH-2023
+Chương trình đào tạo chuẩn
+Trưởng phòng Công tác Sinh viên
+Công nghệ nông nghiệp
+30% tổng tiền học phí đã nộp trong học kì I năm học 2024-2025
+15% tổng tiền học phí đã nộp trong học kì I năm học 2024-2025
+15% tổng tiền học phí đã nộp trong học kì I năm học 2024-2025
+Chuyển vào tài khoản ngân hàng
+Do Trường ĐHCN cấp từ đầu khóa học
+Học kì I
+Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022 của Hội đồng trường
+Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014
+Sinh viên đã đóng học phí trong học kì I năm học 2024-2025
+Hội đồng Thi đua Khen thưởng và Kỷ luật sinh viên
+Sinh viên cần có kết quả học tập đạt loại giỏi và kết quả rèn luyện đạt loại tốt trở lên trong năm học 2023-2024.
+Sinh viên cần là Thủ khoa/Á khoa hoặc có kết quả xếp loại học lực giỏi và hạnh kiểm tốt trong 3 năm học Trung học Phổ thông hoặc đạt giải trong các kỳ thi Olympic khu vực, quốc tế, kỳ thi học sinh giỏi quốc gia.
+Sinh viên cần có kết quả học tập đạt từ loại giỏi trở lên và kết quả rèn luyện đạt từ loại tốt trong năm học 2023-2024.
+25 triệu đồng.
+100 triệu đồng.
+3.2.
+Loại tốt.
+Trường Đại học VinUni.
+Các công ty thuộc Tập đoàn Vingroup.
+40 giờ.
+03.
+Tháng 3/2025.
+Tháng 4/2025.
+Phòng Công tác sinh viên (P.104-E3), 144 Xuân Thủy, Cầu Giấy, Hà Nội.
+15h30 ngày 07/03/2025.
+Có, Trường Đại học Công nghệ có thông báo về chương trình tuyển sinh đi học tại Liên bang Nga năm 2025.
+Có, Trường Đại học Công nghệ có thông báo về chương trình tuyển sinh đi học tại Bun-ga-ri năm 2025.
+Nghiên cứu sinh Bùi Thị Hà có luận án tiến sĩ về phát triển hệ thống truyền thông băng tần S cho trạm mặt đất kết nối với vệ tinh quỹ đạo thấp NanoSatellite 1.
+Có, Trường Đại học Công nghệ có hỗ trợ học bổng cho nghiên cứu sinh.
+Trường Đại học Công nghệ tổ chức lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024 cho Nghiên cứu sinh, Học viên cao học và Sinh viên.
+Có, Trường Đại học Công nghệ có thông báo thu học phí học kỳ I năm học 2024-2025.
+Nghiên cứu sinh Vũ Xuân Mạnh bảo vệ luận án tiến sĩ cấp Đại học Quốc gia.
+Luận án tiến sĩ của nghiên cứu sinh Vũ Xuân Mạnh thuộc lĩnh vực nghiên cứu, thiết kế, chế tạo chip vi lỏng có gắn cảm biến.
+Nội dung công văn số 539/UBND-KGVX ngày 19/02/2025 của UBND Thành phố Hà Nội liên quan đến việc tăng cường công tác phòng chống bệnh Cúm, Sởi và các bệnh lây truyền qua đường hô hấp.
+Trường Đại học Công nghệ trực thuộc Đại học Quốc gia Hà Nội.
+Văn bản này quy định về việc thu học phí với người học xin tạm ngừng học tập và người học hoàn thành chương trình đào tạo trước hạn.
+Quyết định này có hiệu lực từ học kì II năm học 2024-2025.
+Hiệu trưởng Trường Đại học Công nghệ là người ký quyết định số 531/QĐ-ĐHCN.
+Sinh viên Trường Đại học Công nghệ xin nghỉ sau ngày 15 của tháng sẽ phải nộp học phí cả tháng đó.
+Sinh viên Trường Đại học Công nghệ xin nghỉ khi đã học được từ 4 tháng trở lên thì sẽ phải nộp học phí cả kì.
+Sinh viên Trường Đại học Công nghệ nộp học phí theo hình thức tín chỉ sẽ phải nộp học phí theo tín chỉ khi tạm ngừng học.
+Sinh viên Trường Đại học Công nghệ nộp học phí theo niên chế sẽ phải nộp học phí theo niên chế khi tạm ngừng học.
+Có, người học theo niên chế tại Trường Đại học Công nghệ tốt nghiệp trước hạn phải nộp bổ sung số tháng học phí còn thiếu.
+Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014 của Giám đốc Đại học Quốc gia Hà Nội.
+Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022 về việc ban hành Quy chế tạm thời về tổ chức và hoạt động của Trường Đại học Công nghệ.
+Nghị định số 81/2021/NĐ-CP ngày 27 tháng 08 năm 2021.
+Nghị định số 97/2023/NĐ-CP ngày 31 tháng 12 năm 2023.
+Phòng Công tác Sinh viên đề xuất về việc thu học phí với người học xin tạm ngừng học tập và hoàn thành chương trình trước hạn.
+Các Trưởng phòng ban, các sinh viên/học viên/nghiên cứu sinh, các Thủ trưởng đơn vị và các cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
+Phòng họp A101, Nhà điều hành ĐHQGHN Hòa Lạc, Thạch Thất, Hà Nội.
+Ngày 21/02/2025 (Thứ Sáu).
+14:00, ngày 21/02/2025.
+Khuyến khích nữ mặc áo dài truyền thống, nam mặc áo trắng sơ vin quần âu tối màu hoặc đồng phục trường.
+Sinh viên Trường Đại học Công nghệ.
+Đại học Quốc gia Hà Nội (ĐHQGHN).
+Chương trình trao đổi sinh viên DiscoverNUS kỳ mùa Thu năm 2025.
+Từ tháng 8 năm 2025 đến tháng 12 năm 2025.
+Trực tiếp tại cơ sở đào tạo.
+Có, sinh viên được miễn học phí.
+Có, sinh viên được sắp xếp chỗ ở trong kí túc xá của trường.
+10 sinh viên.
+Năm thứ nhất tới năm thứ ba.
+3.0/4.0.
+6.5 trở lên.
+100 trở lên.
+Phòng Công tác sinh viên (Phòng 104-E3).
+16h00, thứ Hai, ngày 03/03/2025.
+huongbtt@vnu.edu.vn.
+Đại học Quốc gia Hà Nội (ĐHQGHN).
+983/ĐHQGHN-HT&PT.
+Bun-ga-ri
+126/TB-BGĐT
+15/03/2025
+moet.gov.vn hoặc icd.edu.vn
+Nhật Bản.
+Từ tháng 9 năm 2025 đến tháng 2 năm 2026.
+Trực tiếp tại cơ sở đào tạo.
+Có.
+Ngày 14/02/2025.
+Phòng Công tác sinh viên (Phòng 104-E3).
+11h00, thứ Năm, ngày 20/02/2025.
+Bản sao bằng đại học.
+Tiếng Anh.
+01/01/2025.
+1.440.000 JPY.
+Năm thứ hai hoặc năm thứ ba.
+2.5 (thang điểm 4).
+3.0 (thang điểm 4).
+Các chương trình Cao học Khoa học Chính trị; Cao học kinh tế; Cao học Khoa học Thể thao.
+Trường Đại học Công nghệ, ĐHQGHN.
+Giao lưu, trao đổi sinh viên.
+Đại học Quốc gia Singapore (NUS).
+983/ĐHQGHN-HT&PT.
+Nhật Bản.
+Các tài năng trẻ trong lĩnh vực tài chính, công nghệ và đổi mới sáng tạo.
+Học viện Ngân hàng.
+Đại học Kyoto.
+ASEAN in Today’s World.
+Từ ngày 17/2/2025 – 27/2/2025.
+Cuộc thi Hùng biện sinh viên 2024.
+3861/ĐHQGHN-HT&PT.
+Ngày 07/08/2024.
+3693/ĐHQGHN-ĐT.
+Có.
+Công văn số 539/UBND-KGVX ngày 19/02/2025.
+Công văn số 480/SYT-NVY ngày 07/02/2025.
+Đeo khẩu trang.
+Che miệng.
+Rửa bằng nước muối.
+Ăn uống đủ chất và tăng cường vận động.
+Chủ động thực hiện tiêm vắc xin.
+Đến ngay cơ sở y tế thuộc Bệnh viện ĐHQGHN để được khám.
+Trang tin điện tử của Trung tâm Truyền thông GDSK Trung ương.
+Trang tin điện tử của Cục Y tế dự phòng.
+Phòng Công tác sinh viên.
+Trang thông tin điện tử của Trung tâm Kiểm soát bệnh tật thành phố Hà Nội.
+Bệnh viện Đại học Quốc gia Hà Nội.
+https://www.youtube.com/watch?v=xoSP63lHrZA&t=19s
+5 nội dung.
+Trường Đại học Công nghệ trực thuộc Đại học Quốc gia Hà Nội.
+Tuyết Nga là người đăng tải các thông báo trên trang tin tức sinh viên của Trường Đại học Công nghệ.
+Không có thông tin về phòng ban cụ thể được đề cập.
+Sinh viên cần kiểm tra dữ liệu kết quả học tập trên website daotao.vnu.edu.vn.
+Phòng Đào tạo của Trường Đại học Công nghệ thông báo về xử lý học vụ.
+Công văn số 539/UBND-KGVX là văn bản được UBND Thành phố Hà Nội ban hành về việc phòng chống bệnh Cúm và các bệnh lây truyền qua đường hô hấp.
+Phòng Công tác Sinh viên của Trường Đại học Công nghệ thông báo về kế hoạch đánh giá kết quả rèn luyện.
+Phòng Đào tạo của Trường Đại học Công nghệ yêu cầu sinh viên kiểm tra kết quả học tập để xét tốt nghiệp.
+Lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024 của Trường Đại học Công nghệ dành cho Nghiên cứu sinh, Học viên cao học và Sinh viên.
+Phòng Công tác sinh viên thông báo về điểm rèn luyện của sinh viên.
+Sinh viên thuộc khóa QH-2020 hệ kỹ sư được thông báo điểm rèn luyện học kỳ I năm học 2024-2025.
+Học bổng thạc sĩ tại Trường Đại học Korea, Hàn Quốc do quỹ Pony Chung tài trợ năm 2025.
+Pony Chung Foundation (PCF).
+02 năm (từ 01/9/2025 đến 30/8/2027).
+1,200,000 KRW.
+Tiền ở ký túc xá và tiền sinh hoạt phí.
+Có, được cấp vé máy bay khứ hồi Việt Nam – Hàn Quốc.
+500,000 KRW.
+http://graduate2.korea.ac.kr
+ponychung@ponychung.org
+Phòng Công tác sinh viên (P104-E3).
+16h00, thứ Hai, ngày 10/03/2025.
+Tháng 06/2025.
+25cm x 34cm.
+Chương trình học bổng thạc sĩ tại Trường ĐH Korea năm 2025, Họ và tên, Ngày sinh, Khoa, Trường, Điện thoại, Email, Danh mục giấy tờ có trong hồ sơ.
+830/ĐHQGHN-ĐT&CTSV
+02/05/1985
+778/QĐ-CTSV
+21 tháng 08 năm 2017
+Kỹ thuật điện tử
+9520203
+GS.TS. Bạch Gia Dương
+Nghiên cứu phát triển hệ thống truyền thông băng tần S cho trạm mặt đất kết nối với vệ tinh quỹ đạo thấp NanoSatellite
+2254/ QĐ-ĐHQG
+17 tháng 10 năm 2024
+Có
+Chế tạo vệ tinh nhỏ
+Phát triển bộ thu phát để có thể hoạt động được ở tần số cao hơn.
+6
+Design and implementation of an S-band transmitter for nanosatellite with new configuration
+VNU Journal of Science: Mathematics – Physics
+Năm 2024
+Nghiên cứu sinh, Học viên cao học, Sinh viên
+Thứ Sáu, ngày 17/01/2025
+Hội trường Nguyễn Văn Đạo, ĐHQGHN, 144 Xuân Thủy
+Áo trắng, quần sẫm màu, sơ vin và đi giày (đối với nam); áo trắng/áo dài/váy dài, quần sẫm màu và đi giày (đối với nữ).
+Thứ Năm, ngày 16/01/2025
+Sảnh nhà E3 trước cửa phòng Đào tạo
+6h50 sáng thứ Sáu, ngày 17/01/2025
+Sảnh Hội trường Nguyễn Văn Đạo
+Người học và phụ huynh/người thân
+Các Ban Chủ nhiệm Khoa/Viện
+Phòng 104-E3
+Sinh viên mới được xét tốt nghiệp bổ sung
+Sau khi có thông báo của nhà trường.
+2024-2025
+1979
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội
+Kỹ thuật điện tử
+9520203
+09h00, ngày 10/12/2024
+Phòng 212, Nhà E3, Trường Đại học Công nghệ, 144 Xuân Thủy, Cầu Giấy, Hà Nội
+Nghiên cứu, thiết kế, chế tạo chip vi lỏng có gắn cảm biến dựa trên công nghệ MEMS và hạt nano siêu thuận từ định hướng ứng dụng trong lĩnh vực y sinh.
+144 Xuân Thủy, Cầu Giấy, Hà Nội
+Cấp Đại học Quốc gia.
+Thái Bình.
+Trường Đại học Công nghệ hỗ trợ học bổng cho nghiên cứu sinh (NCS) khóa QH-2022, QH-2023 và QH-2024.
+Nghiên cứu sinh khóa QH-2022 và QH-2023 của Trường Đại học Công nghệ cần nộp báo cáo các kết quả nghiên cứu đã đạt được.
+Nghiên cứu sinh khóa QH-2024 của Trường Đại học Công nghệ cần nộp hồ sơ tại Bộ phận tiếp người học, phòng Công tác sinh viên (P.104-E3).
+Nghiên cứu sinh khóa QH-2024 cần nộp bản scan hồ sơ học bổng đến địa chỉ email nthue153@vnu.edu.vn.
+Có, hồ sơ xin học bổng của nghiên cứu sinh khóa QH-2024 của Trường Đại học Công nghệ cần có bản photo công chứng bằng cử nhân và thạc sĩ trong vòng 06 tháng.
+Mức học bổng toàn phần của Trường Đại học Công nghệ cho NCS từ thạc sĩ là 60.000.000 đồng/khóa học.
+Mức học bổng toàn phần của Trường Đại học Công nghệ cho NCS từ cử nhân là 80.000.000 đồng/khóa học.
+Mức học bổng cấp lần đầu cho một NCS của Trường Đại học Công nghệ là 20.000.000 đồng.
+Nghiên cứu sinh cần nộp đơn xin hỗ trợ học bổng của Trường Đại học Công nghệ trước ngày 14/02/2025.
+Bộ phận tiếp người học, phòng Công tác sinh viên (P.104-E3) của Trường Đại học Công nghệ tiếp nhận đơn xin học bổng của NCS.
+Quyết định số 975/QĐ-ĐT ngày 10/10/2018 quy định về việc hỗ trợ học bổng cho NCS của Trường Đại học Công nghệ.
+Bằng cử nhân hoặc thạc sĩ do cơ sở đào tạo nước ngoài cấp cho chương trình đào tạo toàn thời gian ở nước ngoài bằng ngôn ngữ phù hợp, hoặc bằng tốt nghiệp đại học/thạc sĩ ngành ngôn ngữ nước ngoài/sư phạm tiếng nước ngoài, hoặc chứng chỉ ngoại ngữ.
+Có, Trường Đại học Công nghệ có thành lập hội đồng xét học bổng cho NCS.
+Nghiên cứu sinh của Trường Đại học Công nghệ có thể tìm thấy mẫu đơn xin học bổng ở Phụ lục II.
+Thông báo về học bổng NCS được công bố bởi Phòng Công tác sinh viên của Trường Đại học Công nghệ.
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội.
+Sinh viên nộp hồ sơ tại Phòng Công tác sinh viên (Phòng 104-Nhà E3).
+Hạn cuối nộp hồ sơ là 09h00, thứ Hai, ngày 23/09/2024.
+Sinh viên cần gửi bản scan hồ sơ đến địa chỉ huongbtt@vnu.edu.vn.
+Trường Đại học Công nghệ được phép nộp tối đa 02 hồ sơ.
+Diễn đàn giáo dục AUN lần thứ 20 và ASEAN + 3 lần thứ 9 diễn ra tại Đại học Airlangga (UNAIR), Surabaya, Indonesia.
+Diễn đàn giáo dục AUN lần thứ 20 và ASEAN + 3 lần thứ 9 diễn ra từ ngày 22 – 27/10/2024.
+Chủ đề của diễn đàn giáo dục AUN lần thứ 20 là “Emancipatory Education as a Path towards an Emancipated Future”.
+Đại học Quốc gia Hà Nội gửi thông báo vào ngày 17/09/2024.
+Có, sinh viên tự chi trả kinh phí vé máy bay khứ hồi Việt Nam – Indonesia.
+Đại học Quốc gia Hà Nội thông báo về chương trình trao đổi sinh viên với Đại học Kyoto, Nhật Bản.
+Chương trình trao đổi sinh viên/học viên kỳ mùa Xuân 2025 tại Đại học Kyoto bao gồm KUINEP, GEA, và GESR.
+Thời gian học của chương trình trao đổi sinh viên/học viên tại Đại học Kyoto bắt đầu từ ngày 01 tháng 4 năm 2025.
+Hình thức tổ chức chương trình trao đổi sinh viên/học viên tại Đại học Kyoto là trực tiếp tại cơ sở đào tạo.
+Sinh viên/học viên tham gia chương trình trao đổi tại Đại học Kyoto được miễn học phí.
+Đối với chương trình KUINEP, điểm trung bình chung tích lũy (GPA) tối thiểu là 3.0 (thang điểm 4).
+Chứng chỉ ngoại ngữ tối thiểu để tham gia chương trình KUINEP là IELTS 6.5, TOEFL iBT 79 hoặc tương đương.
+Chương trình GEA dành cho sinh viên ĐHQGHN hoặc học viên cao học của ĐHQGHN.
+Yêu cầu về chứng chỉ tiếng Nhật để tham gia chương trình GEA là JLPT N1 hoặc cao hơn (đối với sinh viên/ học viên đăng ký học bằng tiếng Nhật).
+Chương trình GESRs dành cho học viên cao học của ĐHQGHN.
+Yêu cầu về chứng chỉ tiếng Anh để tham gia chương trình GESRs là TOEFL tối thiểu 79 (IBT) hoặc tương đương.
+Hồ sơ đăng ký tham gia chương trình trao đổi sinh viên cần có đơn đăng ký, bảng điểm, chứng chỉ ngoại ngữ, hộ chiếu scan, và minh chứng hoạt động ngoại khóa (nếu có).
+Hồ sơ đăng ký chương trình trao đổi sinh viên cần được nộp tại Phòng Công tác sinh viên (Phòng 104-E3).
+Thời hạn nộp hồ sơ đăng ký chương trình trao đổi sinh viên là trước 15h00, thứ Ba, ngày 04/09/2024.
+Sinh viên/học viên cần lưu các tài liệu thành từng file PDF đã được dịch sang tiếng Anh hoặc tiếng Nhật và lưu theo mẫu "Tên sinh viên_Tên file".
+Đại học Quốc gia Hà Nội thông báo về chương trình trao đổi sinh viên với Đại học Kyoto, Nhật Bản.
+Chương trình trao đổi sinh viên/học viên kỳ mùa Thu 2025 tại Đại học Kyoto bao gồm KUINEP, GEA và GESR.
+Thời gian học của chương trình trao đổi sinh viên tại Đại học Kyoto bắt đầu từ tháng 10 năm 2025.
+Sinh viên tham gia chương trình trao đổi tại Đại học Kyoto được miễn học phí.
+Để tham gia chương trình KUINEP, sinh viên cần có điểm trung bình chung tích lũy (GPA) tối thiểu là 3.0 (thang điểm 4).
+Chứng chỉ tiếng Anh tối thiểu để tham gia chương trình KUINEP là IELTS 6.5 hoặc TOEFL iBT 79.
+Chương trình GEA yêu cầu sinh viên/học viên phải có chứng chỉ tiếng Nhật JLPT N1 hoặc cao hơn nếu đăng ký học bằng tiếng Nhật.
+Chương trình GESR yêu cầu học viên cao học phải có chứng chỉ tiếng Anh TOEFL tối thiểu là 79 (IBT).
+Hồ sơ đăng ký chương trình trao đổi sinh viên tại Đại học Kyoto cần có đơn đăng ký, bảng điểm, chứng chỉ ngoại ngữ, hộ chiếu và minh chứng hoạt động ngoại khóa (nếu có).
+Sinh viên cần nộp hồ sơ đăng ký chương trình trao đổi sinh viên tại Đại học Kyoto tại Phòng Công tác sinh viên (Phòng 104-E3).
+Hạn cuối nộp hồ sơ đăng ký chương trình trao đổi sinh viên tại Đại học Kyoto là 15h00, thứ Năm, ngày 16/01/2025.
+Sinh viên có thể tìm hiểu thông tin chi tiết về chương trình trao đổi sinh viên tại Đại học Kyoto tại website https://www.kyoto-u.ac.jp/en/education-campus/education-andadmissions/non-degree-programs/exchange-students
+Sinh viên cần lưu các tài liệu thành từng file PDF đã được dịch sang tiếng Anh hoặc tiếng Nhật.
+Sinh viên nên đặt tên file tài liệu theo mẫu: *Tên sinh viên_Tên file*. Ví dụ: “NguyenHaLinh_Academic Transcript”.
+Chương trình trao đổi sinh viên tại Đại học Waseda dành cho sinh viên của Trường Đại học Công nghệ, ĐHQGHN.
+Chương trình trao đổi sinh viên tại Đại học Waseda diễn ra vào kỳ mùa Xuân năm 2025.
+Thời gian học của chương trình trao đổi sinh viên tại Đại học Waseda là từ tháng 3 năm 2025 đến tháng 7 năm 2025.
+Hình thức tổ chức của chương trình trao đổi sinh viên tại Đại học Waseda là trực tiếp tại cơ sở đào tạo.
+Có, sinh viên tham gia chương trình trao đổi tại Đại học Waseda được miễn học phí.
+Có, sinh viên tham gia chương trình trao đổi tại Đại học Waseda được hỗ trợ tìm chỗ ở gần cơ sở đào tạo.
+Sinh viên cần nộp hồ sơ đăng ký chương trình trao đổi sinh viên tại Phòng Công tác sinh viên (Phòng 104-E3).
+Hạn cuối nộp hồ sơ đăng ký chương trình trao đổi sinh viên tại Đại học Waseda là 11h00, thứ Hai, ngày 30/09/2024.
+Điểm trung bình chung tích lũy tối thiểu để tham gia chương trình trao đổi tại Đại học Waseda (sử dụng tiếng Anh) là 3.0 (thang điểm 4).
+Chứng chỉ tiếng Anh tối thiểu để tham gia chương trình trao đổi tại Đại học Waseda (SPSE, SSS, SILS) là TOEFL (iBT) 80 hoặc IELTS 6.0.
+Chứng chỉ tiếng Anh tối thiểu để tham gia chương trình trao đổi tại Đại học Waseda (FSE) là TOEFL (iBT) 80 hoặc IELTS 6.5 hoặc TOEIC 730.
+Chứng chỉ tiếng Anh tối thiểu để tham gia chương trình trao đổi tại Đại học Waseda (SOC) là TOEFL (iBT) 61 hoặc TOEFL (ITP) 500 hoặc IELTS 5.0 hoặc TOEIC 620.
+Điểm trung bình chung tích lũy tối thiểu để tham gia chương trình trao đổi tại Đại học Waseda (CMS) là 3.5 (thang điểm 4).
+Chứng chỉ tiếng Anh tối thiểu để tham gia chương trình trao đổi tại Đại học Waseda (CMS) là TOEFL (iBT) 95 hoặc IELTS 7.0.
+Yêu cầu về năng lực tiếng Nhật để tham gia chương trình trao đổi tại Đại học Waseda là JLPT N1.
+Chương trình đào tạo ngành Hệ thống thông tin.
+Trường Đại học Công nghệ, ĐHQGHN.
+136 tín chỉ.
+29 tín chỉ (Không tính các học phần GDTC, GDQP-AN và Kĩ năng bổ trợ).
+18 tín chỉ.
+9 tín chỉ.
+22 tín chỉ.
+58 tín chỉ.
+34 tín chỉ.
+12/50 tín chỉ.
+5/21 tín chỉ.
+7 tín chỉ.
+PHI1004.
+PHI1005.
+INT2203.
+11 ngày.
+Indonesia.
+Vé máy bay khứ hồi, bảo hiểm, các bữa ăn không nêu trong chương trình, chi phí đi lại nội địa và chi phí cá nhân.
+3.0 trên thang điểm 4.
+IELTS 5.5.
+Phòng Công tác sinh viên (Phòng 104-E3).
+09h00, thứ Hai, ngày 28/10/2024.
+Tiếng Anh.
+Học phí, các chuyến thăm quan trong chương trình, chỗ ở kèm ăn sáng, một số bữa ăn và tiệc chiêu đãi, đưa đón sân bay theo nhóm.
+02 sinh viên.
+Đại học Quốc gia Hà Nội.
+Đại học Gadjah Mada.
+Năm học 2023 - 2024.
+Các ngoại ngữ khác.
+70.000 Yên Nhật.
+Danh sách điểm rèn luyện học kỳ I năm học 2024-2025 của sinh viên QH-2020 hệ kỹ sư và sinh viên dự kiến tốt nghiệp sớm, điểm rèn luyện toàn khóa của sinh viên dự kiến tốt nghiệp đợt 12.2024.
+Phòng Công tác Sinh viên (CTSV).
+P.104 E3.
+nthue153@vnu.edu.vn
+0243.754.8864.
+16h30 ngày 13/1/2025 (thứ Ba).
+Đại học Quốc gia Hà Nội.
+https://uet.vnu.edu.vn
+https://bit.ly/4k4J3ld
+dungnn09@vnu.edu.vn
+0243.202.6858
+Nguyễn Ngọc Dũng
+Chuẩn bị cho công tác xét tốt nghiệp của sinh viên năm 2025.
+Kết quả học tập, điều kiện tốt nghiệp.
+Giáo viên chủ nhiệm.
+Phòng Đào tạo.
+Kế hoạch tổ chức đánh giá kết quả rèn luyện học kỳ I năm học 2024-2025 và tổ chức Hội nghị đối thoại giữa lãnh đạo Nhà trường với đại biểu sinh viên.
+https://student.uet.vnu.edu.vn
+Từ 8h00 ngày 03/03/2025 đến 8h00 ngày 07/03/2025.
+Sẽ nhận điểm rèn luyện là 0 và xếp loại “Kém” cho kết quả rèn luyện.
+Văn phòng Khoa/Viện hoặc phòng Công tác sinh viên (Phòng 104-E3).
+07/03/2025.
+Chậm nhất là hạn cuối cùng nộp biên bản sinh hoạt lớp theo kế hoạch của Khoa/Viện.
+Từ 09h00 ngày 07/03/2025 đến ngày 19/03/2025.
+21/03/2025.
+nthue153@vnu.edu.vn
+Từ ngày 24/03/2025 đến 03/04/2025.
+04/04/2025.
+25/4/2025.
+Phòng Công tác Sinh viên (Phòng 104-E3).
+Không.
+27/02/2025
+Phòng Đào tạo
+Các sinh viên thuộc diện cảnh báo học vụ (có danh sách đính kèm).
+Các sinh viên có kết quả học tập chưa tốt (có danh sách đính kèm).
+Có danh sách sinh viên thuộc diện không tham gia học (có danh sách đính kèm).
+Cần tập trung học tập để cải thiện kết quả và gặp Giáo viên Chủ nhiệm.
+Để được tư vấn, hướng dẫn điều chỉnh cách học cho phù hợp, hiệu quả.
+Thông báo, đôn đốc sinh viên có tên trong các Danh sách thực hiện nội dung của thông báo.
+Học kỳ II năm học 2024-2025
+Để xem xét kết quả học tập của sinh viên.
+Tháng 03/2025.
+Trên trang https://baohiemxahoi.gov.vn/tracuu/pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx hoặc tại ứng dụng VssID.
+09 tháng, từ tháng 04/2025 đến hết tháng 12/2025.
+663.390 đồng.
+Ngân hàng BIDV Cầu Giấy, Hà Nội.
+2151409100.
+Trường Đại học Công nghệ, ĐHQGHN.
+<Mã người học> <Họ tên> Nộp BHYT 2025.
+Từ thứ Ba, ngày 04/03/2025 đến hết thứ Hai, ngày 10/03/2025.
+Tại Phòng Công tác sinh viên (phòng 104-E3).
+Từ thứ Ba, ngày 04/03/2025 đến hết thứ Hai, ngày 10/03/2025.
+Cơ quan BHXH Cầu Giấy.
+Không.
+Phòng Công tác sinh viên.
+Đợt 2.
+Trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Chuyên viên/chuyên gia khoa học dữ liệu/phân tích kinh doanh/quản lý dữ liệu lớn/thiết kế, xây dựng giải pháp và phát triển HTTT.
+Chuyên gia an ninh/an toàn HTTT.
+Kỹ sư dữ liệu (data engineer).
+Lập trình viên, quản trị viên HTTT, CSDL.
+Chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society).
+Nghiên cứu viên /giảng viên về Khoa học dữ liệu, HTTT và CNTT tại các Trường-Viện và các Phòng–Trung tâm nghiên cứu phát triển (R&D) tại các Tập đoàn công nghệ.
+Thạc sĩ, tiến sĩ.
+Vận dụng được kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật.
+Phát hiện, mô tả vấn đề, đề xuất giải pháp sử dụng kiến thức khoa học, CNTT, các công cụ và công nghệ tiên tiến.
+Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp.
+Chương trình đào tạo ngành Hệ thống thông tin.
+Phát triển chính phủ số, kinh tế số và xã hội số.
+Phân tích, đánh giá và ứng dụng được các kiến thức chuyên sâu của lĩnh vực Hệ thống thông tin về khoa học dữ liệu, tính toán hướng dữ liệu, an ninh không gian số theo định hướng phát triển chính phủ số, kinh tế số và xã hội số.
+Có, sinh viên có thể làm Giám đốc thông tin (CIO).
+Trường Đại học Công nghệ, ĐHQGHN thông báo về định mức và thu học phí của Học viên cao học/Nghiên cứu sinh.
+Học viên cao học/Nghiên cứu sinh nộp học phí qua ngân hàng bằng hình thức chuyển khoản.
+Tên người nhận là Trường Đại học Công nghệ, ĐHQGHN.
+Số tài khoản là 2151409100.
+Ngân hàng BIDV Cầu Giấy, Hà Nội.
+Nội dung chuyển khoản cần ghi: Mã người học, Họ tên, Nộp HP, K1, 24_25.
+Thời hạn nộp từ 01/11/2024 đến ngày 28/11/2024.
+Cần liên hệ phòng 101B-E3.
+Số điện thoại là 0243 7549401.
+Người học có thể bị cấm báo cáo tiến độ/cấm thi tất cả các học phần.
+Người học sẽ không được đăng ký môn học/ không được báo cáo tiến độ trong học kỳ tiếp theo.
+Người học sẽ bị xem xét buộc thôi học.
+Có, học viên phải hoàn thành tất cả các khoản nợ (nếu có).
+Học viên cao học/Nghiên cứu sinh.
+Tổng HP trong HKI – HP còn dư từ kì trước (nếu có) + HP nợ kì trước (nếu có).
+Hệ thống thông tin
+Information Systems
+7480104
+Cử nhân
+4 năm
+Cử nhân Hệ thống thông tin
+Chất lượng cao
+Đào tạo nhân lực chất lượng cao và bồi dưỡng nhân tài trình độ đại học ngành HTTT trong thời đại số hóa.
+Hai
+Tích hợp dịch vụ và quản lý dữ liệu lớn và Khoa học dữ liệu và phân tích kinh doanh
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên/năm.
+Bậc 4/6 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Tinh thần trách nhiệm với bản thân, gia đình, tổ chức và xã hội, về tinh thần phụng sự đất nước Việt Nam phát triển phồn vinh và hạnh phúc.
+136 tín chỉ.
+26 tín chỉ.
+19 tín chỉ.
+10 tín chỉ.
+30 tín chỉ.
+51 tín chỉ.
+19 tín chỉ.
+20 tín chỉ.
+05 tín chỉ.
+07 tín chỉ.
+Triết học Mác – Lênin.
+Giải tích 1.
+Giải tích 1.
+Nhập môn lập trình.
+Dự án (bắt buộc) và 3 tín chỉ từ danh sách các học phần tự chọn.
+Bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Vật lý cơ, nhiệt, điện và quang.
+Lập trình, thuật toán và độ phức tạp, kiến trúc và tổ chức máy tính, hệ điều hành, tính toán dựa trên mạng, ngôn ngữ lập trình, đồ họa và tính toán trực quan, hệ thống thông minh.
+Chuẩn quản lý dự án, các khái niệm, vòng đời dự án, chín vùng tri thức quản lý và 42 quy trình quản lý dự án.
+Chuyên viên thiết kế, phát triển và kiểm thử các HTTT, kiến trúc sư HTTT.
+Chuyên viên phát triển ứng dụng thương mại điện tử.
+Người quản trị HTTT, người quản trị hệ CSDL.
+Thạc sỹ, tiến sỹ.
+Kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Thiết kế cơ hội để cải tiến tổ chức dựa trên CNTT.
+Quản lý hoạt động CNTT đang diễn ra.
+Khả năng lập luận tư duy và giải quyết vấn đề.
+Trung thực và công bằng, tiết kiệm và liêm chính.
+Tác phong và hành vi chuyên nghiệp, tính kiên nhẫn, khẩn trương và sẵn sàng cung cấp kết quả, tài xoay xở và linh động.
+Trách nhiệm với xã hội, tuân thủ luật pháp, tính công bằng và tôn trọng sự đa dạng.
+Hệ thống thông tin
+Information Systems
+7480104
+Cử nhân
+4 năm
+Cử nhân ngành Hệ thống thông tin
+The Degree of Bachelor of Science in Information Systems
+Đào tạo nguồn nhân lực chất lượng cao bậc Đại học, có trình độ cao về chuyên môn.
+Kiến thức và kĩ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng kiến thức về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu và công nghệ thông tin.
+Khả năng tự học tự thích nghi, khả năng làm việc độc lập, khả năng làm việc trong môi trường công nghiệp.
+Áp dụng phương pháp dạy – học tiên tiến.
+Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Không được đề cập trong văn bản.
+Các doanh nghiệp lớn ở Việt Nam cũng như các nước trong khu vực.
+Có
+Chương trình đào tạo ngành Hệ thống thông tin (CLC TT23).
+148 tín chỉ.
+21 tín chỉ.
+22 tín chỉ.
+10 tín chỉ.
+30 tín chỉ.
+65 tín chỉ.
+Có.
+PHI1006.
+PHI1006 (Triết học Mác - Lênin).
+MAT1041 (Giải tích 1).
+INT1008 (Nhập môn lập trình).
+INT2211 (Cơ sở dữ liệu).
+INT2211 (Cơ sở dữ liệu).
+Có.
+Hệ thống Thông tin
+Information Systems
+52480104
+Cử nhân
+4 năm
+Cử nhân ngành Hệ thống Thông tin
+The Degree of Bachelor in Information Systems
+Đào tạo chuyên gia tích hợp giải pháp công nghệ thông tin và quy trình kinh doanh.
+Các khái niệm cơ bản liên quan đến quy trình của tổ chức.
+Kỹ năng phân tích và diễn giải dữ liệu.
+Kỹ năng cải tiến quy trình của tổ chức.
+Phẩm chất đạo đức tốt theo phương diện cá nhân, nghề nghiệp và xã hội.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên/năm.
+Trang bị kiến thức, kỹ năng và phẩm chất đạo đức cần thiết cho ngành.
+Chuẩn tương đương bậc 3 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Các kiến thức cơ bản về Vật lý đại cương.
+Vận dụng được các kiến thức liên quan đến Giải tích toán học và Đại số cao cấp.
+Phân tích, đánh giá và lập trình một ngôn ngữ lập trình bậc cao.
+Có, sinh viên được trang bị kiến thức liên quan đến cấu trúc dữ liệu và giải thuật.
+Kỹ thuật điện, điện tử tương tự, điện tử số.
+Có, sinh viên cần kiến thức liên quan đến cơ học và các cơ cấu truyền động chấp hành.
+Kỹ sư kỹ thuật, chuyên viên phân tích tư vấn, nghiên cứu viên và giảng viên.
+Các cơ sở nghiên cứu, thiết kế, các tổ chức, doanh nghiệp, khu công nghiệp.
+Có, sinh viên có thể tiếp tục học bậc sau đại học các chuyên ngành liên quan.
+Hoàn thành công việc phức tạp, phân tích tổng hợp đánh giá dữ liệu.
+Tư duy sáng tạo, tư duy phản biện, đề xuất sáng kiến.
+Đánh giá chất lượng công việc, hợp tác, chia sẻ thông tin.
+Truyền đạt vấn đề, lập luận, giao tiếp bằng văn bản và đa phương tiện, thuyết trình.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Kỹ thuật robot
+7520217
+Kĩ sư
+4,5 năm
+The Degree of Engineer in Robotics Engineering
+Đào tạo các kỹ sư có nền tảng căn bản về khoa học và công nghệ liên quan và có năng lực chuyên môn cao.
+Các doanh nghiệp công nghệ, công nghiệp, dịch vụ, đào tạo, các tổ chức chính phủ và phi chính phủ.
+Phẩm chất chính trị và đạo đức, ý thức phục vụ cộng đồng, có sức khỏe.
+Vận dụng các kiến thức cơ bản về toán và ngành Kỹ thuật Robot.
+Kỹ năng làm việc nhóm hiệu quả, đọc hiểu và giao tiếp tốt bằng tiếng Anh.
+Bộ Giáo dục và Đào tạo.
+Đại học Quốc gia Hà Nội.
+Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Robotics Engineering
+Trường Đại học Công nghệ, ĐHQGHN.
+Chương trình đào tạo ngành Kỹ thuật Robot.
+Trường Đại học Công nghệ, ĐHQGHN.
+4,5 năm.
+Kỹ sư.
+150 tín chỉ (chưa tính Giáo dục thể chất và Giáo dục Quốc phòng - An ninh).
+16 tín chỉ.
+Khối kiến thức chung.
+4 tín chỉ.
+Giải tích 1.
+Giải tích 2.
+Nhập môn lập trình.
+Khối kiến thức theo nhóm ngành.
+Vật lý đại cương 2.
+Khối kiến thức ngành.
+10 tín chỉ.
+Chương trình đào tạo ngành Kỹ thuật Robot.
+Trường Đại học Công nghệ, ĐHQGHN.
+150 tín chỉ.
+21 tín chỉ.
+19 tín chỉ.
+10 tín chỉ.
+31 tín chỉ.
+69 tín chỉ.
+38 tín chỉ.
+12/20 tín chỉ.
+13 tín chỉ.
+Triết học Mác – Lênin.
+Giải tích 1.
+Giải tích 1.
+Nhập môn lập trình.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Không được đề cập trực tiếp trong văn bản.
+Kỹ sư kỹ thuật, thiết kế, quản lý nhóm, dự án.
+Chuyên viên phân tích, tư vấn.
+Nghiên cứu viên và giảng viên.
+Tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Khoa học cơ bản và Công nghệ thông tin.
+Điện, điện tử, tự động hóa, lập trình điều khiển, và an toàn công nghiệp.
+Vận dụng tư duy logic, biện chứng để giải quyết vấn đề hiệu quả và sáng tạo.
+Đóng góp tạo ra những sản phẩm có giá trị phục vụ cộng đồng và phát triển lĩnh vực chuyên môn.
+Trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp.
+Kỹ thuật Robot, Kỹ thuật điện tử, Kỹ thuật viễn thông, Kỹ thuật cơ điện tử, Kỹ thuật điều khiển và tự động hóa.
+Các cơ sở nghiên cứu, thiết kế, các tổ chức, doanh nghiệp, khu công nghiệp.
+Lập kế hoạch, điều phối, quản lý nhóm làm việc hiệu quả.
+Thiết kế, thực thi/thí nghiệm giải pháp, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận.
+Kỹ thuật Robot
+Robotics Engineering
+Ngành đào tạo thí điểm
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật Robot
+The Degree of Engineer in Robotics Engineering
+Thiết kế, xây dựng hệ thống robot gồm cả phần cứng lẫn phần mềm.
+Khoa học cơ bản, toán học, cơ học, khoa học điện, điện tử và tin học.
+Đào tạo các kỹ sư với nền tảng mạnh về khoa học và công nghệ liên quan đến robot.
+Theo quy định của ĐHQGHN.
+Năm 2018.
+60 sinh viên.
+Xã hội, công nghiệp, kinh doanh, công nghệ và môi trường.
+Ba mức độ.
+160 tín chỉ.
+29 tín chỉ (chưa tính GDTC, GDQP-AN và kỹ năng bổ trợ).
+21 tín chỉ.
+12 tín chỉ.
+23 tín chỉ.
+75 tín chỉ.
+8 tín chỉ.
+10 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành bắt buộc.
+Công nghệ thông tin, Điện tử Hàng không hoặc Động lực học, Điều khiển và Cơ khí Hàng không.
+27 tín chỉ.
+152 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+21 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+19 tín chỉ
+10 tín chỉ
+29 tín chỉ
+73 tín chỉ
+26 tín chỉ
+24 tín chỉ
+05 tín chỉ
+18 tín chỉ
+PHI1006
+PHI1006
+MAT1041
+AER1001
+AER4050
+156 tín chỉ
+16 tín chỉ
+22 tín chỉ
+10 tín chỉ
+32 tín chỉ
+76 tín chỉ
+08 tín chỉ
+10 tín chỉ
+3 tín chỉ
+2 tín chỉ
+5 tín chỉ
+4 tín chỉ
+4 tín chỉ
+2 tín chỉ
+3 tín chỉ
+Cần trình bày được hệ thống tri thức khoa học những nguyên lý cơ bản của Chủ nghĩa Mác Lênin.
+Đạt trình độ tối thiểu tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Cần có khả năng phân tích, đánh giá và sử dụng một ngôn ngữ lập trình bậc cao.
+Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo.
+Cần trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Cần có trách nhiệm với công việc và trung thành với tổ chức.
+Cần có trách nhiệm với xã hội, tuân thủ luật pháp và có ý thức phục vụ.
+Kỹ sư thiết kế, chế tạo các thiết bị bay, vệ tinh.
+Kỹ sư thiết kế, lập trình các hệ thống điều khiển, hệ thống nhúng.
+Hiểu và vận dụng được các kiến thức cơ bản về vật lý cơ, nhiệt, điện và quang.
+Nắm được các kiến thức liên quan đến Giải tích toán học như tính giới hạn, tính đạo hàm, tính tích phân của các hàm một biến và hàm nhiều biến.
+Hiểu và vận dụng được các kiến thức liên quan đến Đại số cao cấp như ma trận và các phép biến đổi, giải các hệ phương trình nhiều biến số.
+Nắm được các kiến thức cơ bản trong kỹ thuật điện, điện tử; Có khả năng thiết kế các mạch điện, điện tử thông dụng.
+Có kiến thức cơ bản về viễn thám, hệ thống thông tin địa lý, các kỹ thuật xử lý ảnh viễn thám, phân tích không gian, phát triển ứng dụng 3D trên nền bản đồ địa lý, quản lý dữ liệu không gian, xây dựng hạ tầng thông tin không gian.
+Thành thạo các kỹ năng về cơ khí chế tạo, động lực học và mô hình hóa mô phỏng các thiết bị và hoạt động trong kỹ thuật hàng không vũ trụ, phân tích dữ liệu và nhận dạng hệ thống.
+Công nghệ Hàng không Vũ trụ
+Aerospace Engineering
+7519001
+Tiếng Việt
+Kĩ sư
+4,5 năm
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ
+The Degree of Engineer in Aerospace Engineering
+Cơ khí, Điện tử, Công nghệ thông tin và Điều khiển
+Có
+Có
+Có
+Có
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh của Trường Đại học Công nghệ.
+Có
+Công nghệ Hàng không Vũ trụ
+Aerospace Engineering
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ
+The Degree of Engineer in Aerospace Engineering.
+Áp dụng kiến thức về hàng không vũ trụ để cung cấp các sản phẩm theo nhu cầu xã hội.
+Các công nghệ tiên tiến và đề xuất giải pháp cho vấn đề hàng không vũ trụ.
+Vai trò lãnh đạo, trung tâm.
+Thiết bị bay, vệ tinh.
+Theo quy định tuyển sinh đại học của Đại học Quốc gia Hà Nội.
+Khoảng 60-100 sinh viên/ khóa học.
+Trường Đại học Công nghệ, ĐHQGHN
+Kỹ thuật thăm dò không gian.
+Hàng không – Vũ trụ, Điện tử hàng không, Công nghệ thông tin, Khoa học vật liệu, Cơ học kỹ thuật và tự động hóa.
+Công nghệ Hàng không Vũ trụ (Ngành đào tạo thí điểm)
+Aerospace Engineering
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ
+The Degree of Engineer in Aerospace Engineering
+Áp dụng kiến thức về hàng không vũ trụ để cung cấp sản phẩm theo nhu cầu xã hội.
+Phát triển các công nghệ tiên tiến và đề xuất giải pháp cho vấn đề hàng không vũ trụ.
+Hàng không – Vũ trụ, Điện tử hàng không, Công nghệ thông tin, Khoa học vật liệu, Cơ học kỹ thuật và tự động hóa.
+Thiết bị bay, vệ tinh.
+Kỹ thuật thăm dò không gian, công cụ và thiết bị viễn thông, viễn thám.
+Theo quy định của ĐHQGHN.
+Trường Đại học Công nghệ, ĐHQGHN
+Đại học
+Các lĩnh vực liên quan.
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ cần có kiến thức thực tế vững chắc và kiến thức lý thuyết chuyên sâu trong nhiều lĩnh vực khoa học công nghệ.
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ cần đạt chuẩn tương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (B1).
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần vận dụng kiến thức vật lý để học tập và nghiên cứu các học phần khác của các ngành kỹ thuật và công nghệ.
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần có khả năng phân tích và lập trình một ngôn ngữ lập trình.
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần hiểu biết về phương pháp tính toán số trong kỹ thuật.
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần nắm vững kiến thức cơ bản trong kỹ thuật điện, điện tử thông dụng.
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần nắm được kiến thức cơ sở về nhiệt động lực học, các động cơ nhiệt, quy luật nhiệt động học cân bằng.
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần có kiến thức cơ bản về hệ thống điều khiển, biết phân tích các yêu cầu và các yếu tố ảnh hưởng.
+Định hướng Công nghệ thông tin và Điện tử Hàng không trang bị kiến thức cơ bản về viễn thám, hệ thống thông tin địa lý.
+Định hướng Công nghệ thông tin và Điện tử Hàng không cần nắm vững kiến thức về đảm bảo an toàn, an ninh cho các hệ thống phần mềm trong lĩnh vực Hàng không Vũ trụ.
+Định hướng Động lực học, Điều khiển và Cơ khí Hàng không thành thạo các kỹ năng về cơ khí chế tạo, động lực học và mô hình hóa mô phỏng các thiết bị và hoạt động trong kỹ thuật hàng không vũ trụ.
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần có kỹ năng tổng hợp dữ liệu và thông tin, tổng hợp ý kiến tập thể và sử dụng những thành tựu mới về khoa học công nghệ để giải quyết những vấn đề thực tế hay trừu tượng.
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể đảm nhiệm vị trí kỹ sư thiết kế, chế tạo các thiết bị bay, vệ tinh.
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể tham gia các khóa học nâng cao ngắn hạn về Động lực học, Điều khiển và Cơ khí Hàng không.
+Sau khi tốt nghiệp ngành Công nghệ Hàng không Vũ trụ, sinh viên có khả năng làm việc độc lập, tự học, tự nghiên cứu và nâng cao trình độ chuyên môn nghiệp vụ.
+Chương trình đào tạo ngành Vật lý kỹ thuật.
+Trường Đại học Công nghệ, ĐHQGHN.
+Tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Thạc sĩ, tiến sĩ.
+Ngành Công nghệ Hàng không Vũ trụ.
+Kỹ sư thiết kế, chế tạo các thiết bị bay, vệ tinh.
+Thiết kế, lập trình các hệ thống điều khiển, hệ thống nhúng.
+Xây dựng hệ thống giám sát không gian, xử lý ảnh viễn thám.
+Kiến thức cơ bản của Toán học, khoa học cơ bản, CNTT và lập trình.
+Kiến thức chung về kỹ thuật điện và điện tử.
+Kiến thức chuyên môn về khí động lực học.
+Kiến thức về phân tích thiết kế hệ thống mạch Điện-Điện tử, kỹ thuật thiết kế cao tần; các kiến thức cơ bản trong lập trình vi xử lý, lập trình các hệ thống nhúng, điều khiển phần cứng; các nguyên lý truyền và phát thông tin giữa thiết bị bay và mặt đất.
+Kiến thức về cơ khí chế tạo, động lực học và mô hình hóa mô phỏng sự vận hành các thiết bị trong kỹ thuật hàng không vũ trụ, phân tích dữ liệu và nhận dạng hệ thống; các  kiến thứcvề xây dựng các hệ thống dẫn đường và điều khiển các thiết bị bay.
+Kiến thức cơ bản về viễn thám, hệ thống thông tin địa lý, các kỹ thuật xử lý ảnh viễn thám, phân tích không gian, quản lý dữ liệu không gian, xây dựng hạ tầng thông tin không gian; kỹ thuật thiết kế, chế tạo và điều khiển vệ tinh.
+Lập kế hoạch, điều phối, quản lý nhóm làm việc hiệu quả.
+Kỹ thuật máy tính
+Computer Engineering
+7480106
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật máy tính
+The Degree of Engineer in Computer Engineering
+Phần cứng và phần mềm
+Đào tạo kỹ sư có kiến thức chuyên môn cao, khả năng tự học, phẩm chất đạo đức và trách nhiệm xã hội.
+Khoa học cơ bản
+Giao tiếp, làm việc nhóm, phát hiện và giải quyết vấn đề, tư duy, phản biện, sáng tạo.
+Tốt, có khả năng hội nhập quốc tế.
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Kỹ thuật máy tính
+Có
+Kỹ thuật máy tính
+Computer Engineering
+7480106
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật máy tính
+The Degree of Engineer in Computer Engineering
+Thiết kế hệ thống dựa trên nền tảng máy tính bao gồm cả phần cứng lẫn phần mềm
+Kiến thức và kỹ năng cần có cho nghề nghiệp tương lai trong ngành Kỹ thuật máy tính
+Theo quy định của ĐHQGHN
+100 sinh viên/năm
+Sinh viên hiểu và biết được các kiến thức cơ bản và cần thiết của ngành Kỹ thuật Máy tính
+Sinh viên có khả năng vận dụng các kiến thức được học để phân tích, khai thác cũng như thiết kế máy tính và các hệ thống được xây dựng trên nền máy tính
+Sinh viên có khả năng phát triển các kiến thức của ngành Kỹ thuật Máy tính như đề xuất các khái niệm, các tri thức mới giúp nâng cao việc vận dụng Máy tính trong cuộc sống
+Nền tảng mạnh về khoa học và công nghệ liên quan
+Kỹ thuật máy tính
+Khoa học xã hội, khoa học chính trị và pháp luật, văn hóa, xã hội và nhân văn, rèn luyện thể chất và quốc phòng.
+Tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Kỹ sư thiết kế, kinh doanh, vận hành, khai thác, tư vấn; quản lý dự án, doanh nhân công nghệ; giảng viên/trợ giảng, nghiên cứu viên.
+Kỹ thuật máy tính, Công nghệ thông tin, Kỹ thuật điện tử, Kỹ thuật viễn thông, Kỹ thuật Robot, Kỹ thuật Cơ điện tử, Kỹ thuật điều khiển và tự động hóa.
+Điện tử và khoa học máy tính.
+Phát hiện, mô tả, phản biện vấn đề và đề xuất giải pháp.
+Giao tiếp hiệu quả, lập kế hoạch, điều phối, quản lý nhóm làm việc hiệu quả.
+Ý thức đóng góp tạo ra những sản phẩm có giá trị phục vụ cộng đồng và phát triển lĩnh vực chuyên môn.
+Pháp luật, đạo đức nghề nghiệp.
+Phân tích dữ liệu và kết quả.
+Thiết kế và chế tạo phần cứng, lập trình nhúng, IoT, các hệ thống thông minh.
+Bảo vệ được quan điểm cá nhân.
+Hỗ trợ đồng nghiệp.
+Tự định hướng và đưa ra kết luận chuyên môn.
+Có, sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có kiến thức về quản lý và điều hành.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính cần đạt trình độ ngoại ngữ tối thiểu bậc 3 theo khung năng lực ngoại ngữ Việt Nam.
+Sinh viên ngành Kỹ thuật Máy tính cần có kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang.
+Có, sinh viên ngành Kỹ thuật Máy tính được trang bị kiến thức về cấu trúc dữ liệu và giải thuật.
+Có, sinh viên ngành Kỹ thuật Máy tính cần nắm vững và sử dụng thành thạo một ngôn ngữ lập trình cơ bản.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có kiến thức chuyên sâu về Kiến trúc máy tính và hệ điều hành, Mạch tích hợp, Hệ thống mạng máy tính và truyền thông, Hệ thống nhúng, Đo lường và điều khiển.
+Có, sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có khả năng tự định hướng.
+Sinh viên ngành Kỹ thuật Máy tính cần có kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin.
+Có, sinh viên ngành Kỹ thuật Máy tính được trang bị kỹ năng làm việc nhóm.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể đảm nhiệm vị trí kỹ sư kỹ thuật, thiết kế, quản lý nhóm, dự án.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có năng lực làm việc tại các cơ sở nghiên cứu, thiết kế, các tổ chức, doanh nghiệp thuộc các lĩnh vực: Điện, Điện tử- Truyền thông, Công nghệ thông tin, Điều khiển và Tự động hóa.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể đảm nhiệm vị trí chuyên viên phân tích, tư vấn và kinh doanh.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể đảm nhiệm vị trí nghiên cứu viên và giảng viên.
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể học lên bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông.
+Có, sinh viên tốt nghiệp ngành Kỹ thuật Máy tính cần tuân thủ luật pháp.
+Chương trình đào tạo ngành Kỹ thuật máy tính.
+Trường Đại học Công nghệ, ĐHQGHN.
+150 tín chỉ.
+21 tín chỉ.
+19 tín chỉ.
+10 tín chỉ.
+31 tín chỉ.
+69 tín chỉ.
+38 tín chỉ.
+12/24 tín chỉ.
+06 tín chỉ.
+13 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+151 tín chỉ (chưa tính Giáo dục thể chất và Giáo dục Quốc phòng - An ninh).
+16 tín chỉ.
+Khối kiến thức chung.
+Triết học Mác - Lênin.
+Khối kiến thức theo lĩnh vực.
+Giải tích 1.
+Khối kiến thức theo khối ngành.
+Nhập môn lập trình.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành.
+Kỹ thuật điện.
+Khối kiến thức ngành.
+Có, đây là học phần bắt buộc thuộc khối kiến thức bổ trợ.
+Không đủ thông tin để trả lời.
+155 tín chỉ.
+29 tín chỉ (chưa tính GDTC, GDQP-AN và kỹ năng bổ trợ).
+16 tín chỉ.
+9 tín chỉ.
+38 tín chỉ.
+63 tín chỉ.
+10 tín chỉ.
+PHI1004.
+3 tín chỉ.
+PHI1004.
+POL1001.
+INT2203.
+INT1006.
+ELT3047.
+ELT3048.
+Kỹ thuật máy tính
+Computer Engineering
+52520214
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật máy tính
+The Degree of Engineer in Computer Engineering
+Thiết kế hệ thống dựa trên nền tảng máy tính bao gồm cả phần cứng lẫn phần mềm.
+Ba mức độ.
+Mức độ cơ bản, mức độ chuẩn và mức độ nâng cao.
+Theo quy định của ĐHQGHN.
+Đào tạo các kỹ sư với nền tảng mạnh về khoa học và công nghệ liên quan.
+Có khả năng vận dụng các kiến thức được học để phân tích, khai thác cũng như thiết kế máy tính và các hệ thống được xây dựng trên nền máy tính.
+Có khả năng phát triển các kiến thức của ngành Kỹ thuật Máy tính như đề xuất các khái niệm, các tri thức mới giúp nâng cao việc vận dụng Máy tính trong cuộc sống.
+Đáp ứng linh hoạt với ba mức độ đầu ra của kỹ sư tốt nghiệp.
+Chuẩn tương đương bậc 3 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Kiến thức về công nghệ, kinh tế, luật, xã hội, nhân văn.
+Kiến trúc máy tính và hệ điều hành, Mạch tích hợp, Hệ thống mạng máy tính và truyền thông, Hệ thống nhúng, Đo lường và điều khiển.
+Kỹ sư kỹ thuật, chuyên viên phân tích, nghiên cứu viên và giảng viên.
+Bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử - Viễn thông.
+Vận dụng kiến thức Toán và Vật lý, lập trình, thiết kế, quản lý công việc.
+Tư duy sáng tạo và phản biện, đề xuất sáng kiến.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Có trách nhiệm với xã hội, tuân thủ luật pháp, có ý thức phục vụ, nhiệt tình tham gia các hoạt động xã hội.
+Làm việc độc lập hoặc theo nhóm, tự học tập, chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm.
+Sử dụng công cụ xử lý thông tin, lập trình bậc cao, phân tích phương pháp lập trình.
+Tư duy phản biện, tư duy logic, tư duy phân tích, tổng hợp, tư duy toàn cục.
+Truyền đạt vấn đề và giải pháp, lập luận, giao tiếp bằng văn bản, thuyết trình.
+Kỹ năng thiết lập giả thiết, kỹ năng dùng thực nghiệm để khám phá kiến thức, kỹ năng áp dụng kiến thức vào thực tế.
+Công nghệ thông tin định hướng thị trường Nhật Bản
+Information Technologyfor Japanese market
+Công nghệ thông tin
+Information Technology
+7480201
+Cử nhân
+4 năm
+Cử nhân ngành Công nghệ Thông tin
+The Degree of Bachelor in Information Technology
+Các doanh nghiệp Nhật Bản và một số nước phát triển khác.
+Kiến thức cơ bản, quan trọng và hiện đại về công nghệ thông tin và truyền thông.
+Kỹ năng thực hành cao tập trung vào lĩnh vực công nghệ phần mềm.
+Các kỹ năng mềm quan trọng để làm việc trong môi trường doanh nghiệp CNTT nói chung và Nhật Bản nói riêng.
+Có, sinh viên được trang bị kỹ năng sử dụng tiếng Nhật.
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh của Trường Đại học Công nghệ.
+Công nghệ Thông tin.
+52480201.
+Cử nhân.
+4 năm.
+The Degree of Bachelor in Information Technology.
+Nhật Bản.
+Kỹ sư CNTT.
+Công nghệ phần mềm.
+Tiếng Nhật.
+Đại học Quốc gia Hà Nội.
+Đào tạo kỹ sư CNTT có thể đáp ứng yêu cầu công việc tại Nhật Bản và các nước phát triển.
+Các kỹ năng mềm quan trọng để làm việc trong môi trường doanh nghiệp CNTT nói chung và Nhật Bản nói riêng.
+Tại các cơ sở đào tạo trong nước và nước ngoài, đặc biệt là Nhật Bản.
+Cử nhân ngành Công nghệ Thông tin.
+Các quy trình xây dựng và triển khai các dự án phần mềm, quy trình tích hợp, quản lý và vận hành các hệ thống thông tin.
+Trường Đại học Công nghệ, ĐHQGHN
+135 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ)
+22 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục Quốc phòng – An ninh, Kỹ năng bổ trợ)
+15 tín chỉ
+7 tín chỉ
+Khối kiến thức chung
+Khối kiến thức theo lĩnh vực
+Khối kiến thức theo khối ngành
+Khối kiến thức theo nhóm ngành
+Khối kiến thức ngành
+Không có môn nào, Tiếng Nhật 1A không phải là môn tiên quyết.
+Giải tích 2 và Xác suất thống kê
+Cấu trúc dữ liệu và giải thuật, Lập trình nâng cao, Kiến trúc máy tính, Mạng máy tính, Lập trình hướng đối tượng, Công nghệ phần mềm, Chuyên đề Công nghệ Nhật Bản, Tiếng Nhật trong Công nghệ thông tin 1, Thực hành phát triển phần mềm.
+Seminar về công nghệ, đưa bài toán thực tế vào đầu kỳ học và cùng đánh giá kết quả, hoặc sinh viên học trực tiếp tại doanh nghiệp.
+Tại các doanh nghiệp CNTT Nhật Bản đối tác của Khoa CNTT.
+Công nghệ Thông tin
+Information Technology
+7480201
+Cử nhân
+4 năm
+Kiến thức cơ bản, quan trọng và hiện đại về Công nghệ Thông tin và truyền thông.
+Các kỹ năng thực hành cao, kỹ năng mềm và kỹ năng sử dụng ngoại ngữ tiếng Nhật.
+Theo quy định của Đại học Quốc gia Hà Nội.
+60 sinh viên/năm.
+Tại Nhật Bản và một số nước phát triển khác.
+Tại các cơ sở đào tạo trong nước và nước ngoài, đặc biệt là Nhật Bản.
+Công nghệ phần mềm.
+Phân tích, thiết kế, xây dựng, cài đặt, bảo trì, phát triển và quản lý các hệ thống, chương trình, dự án.
+Đào tạo kỹ sư CNTT có thể đáp ứng yêu cầu công việc tại Nhật Bản và các nước phát triển khác.
+Tiếng Nhật.
+Có.
+Có thể hiểu ý chính của báo cáo chuyên ngành và diễn đạt, xử lý tình huống chuyên môn thông thường bằng ngoại ngữ.
+Có.
+Văn hóa doanh nghiệp CNTT Nhật Bản.
+Doanh nghiệp Nhật Bản.
+Tương đương N3.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Mức 4.
+Trường Đại học Công nghệ, ĐHQGHN.
+N3.
+Kỹ sư cầu nối Nhật Bản.
+Hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính.
+PLO2.6.
+PLO2.8.
+Các chương trình đào tạo sau đại học.
+Pháp luật, đạo đức nghề nghiệp.
+Các doanh nghiệp Nhật Bản.
+Tư duy logic, biện chứng.
+Lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm.
+Kỹ năng tham mưu tư vấn và khả năng thực hiện nhiệm vụ với tư cách như một kỹ sư.
+Toán học, khoa học cơ bản và CNTT.
+Khoa học xã hội, khoa học chính trị và pháp luật, văn hóa, xã hội và nhân văn.
+Đào tạo kỹ sư CNTT đáp ứng yêu cầu cao về nghiên cứu và ứng dụng công nghệ thông tin của xã hội và sẵn sàng làm việc cho các doanh nghiệp Nhật Bản.
+Tối thiểu tương đương N3 theo Chuẩn đánh giá tiếng Nhật.
+Kỹ sư cầu nối Nhật Bản, Lập trình viên, Chuyên viên phân tích, thiết kế, phát triển hệ thống,...
+Kiến thức về văn hóa doanh nghiệp CNTT Nhật Bản.
+Vận dụng các kiến thức liên quan đến Giải tích toán học và Đại số cao cấp.
+Giải thích được các kiến thức cơ bản về thông tin, sử dụng được công cụ xử lý thông tin thông dụng và có khả năng phân tích, đánh giá và lập trình một ngôn ngữ lập trình.
+Có kỹ năng ngoại ngữ chuyên ngành ở mức có thể hiểu được các ý chính của một báo cáo hay bài phát biểu về các chủ đề quen thuộc trong công việc liên quan đến ngành được đào tạo.
+Thạc sĩ, tiến sĩ.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Biết hợp tác với các thành viên khác trong nhóm, biết cách chia sẻ thông tin trong nhóm và có kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.
+Biết truyền đạt vấn đề và giải pháp tới người khác tại nơi làm việc, chuyển tải, phổ biến kiến thức kỹ năng trong những việc thực hiện nhiệm vụ cụ thể hoặc phức tạp; biết cách lập luận, sắp xếp ý tưởng.
+Biết được các kiến thức cơ bản về Vật lý đại cương; Hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời sống.
+Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau; có kỹ năng phân tích, tổng hợp, đánh giá dữ liệu và thông tin, tổng hợp ý kiến tập thể và sử dụng những thành tựu mới về khoa học công nghệ để giải quyết những vấn đề thực tế hay trừu tượng trong lĩnh vực được đào tạo; có năng lực dẫn dắt chuyên môn để xử lý những vấn đề quy mô địa phương và vùng miền.
+Có khả năng phản biện, phê phán và sử dụng các giải pháp thay thế trong điều kiện môi trường không xác định hoặc thay đổi; Có tư duy logic; Có tư duy phân tích, tổng hợp; Có tư duy toàn cục.
+Biết sử dụng kiến thức trong công tác; Biết cách đề xuất các phương pháp mới, các hướng phát triển mới đưa lại lợi ích cho cộng đồng, xã hội, gắn với sự hài hòa, phát triển bền vững và các yếu tố văn hóa.
+Kiến trúc ứng dụng, Phát triển hệ thống, Thuê ngoài, Dịch vụ mạng, Nền tảng, Cơ sở dữ liệu, Nền tảng ứng dụng chung, An ninh, Hệ thống ứng dụng nghiệp vụ, Gói ứng dụng nghiệp vụ, Phần mềm ứng dụng, Quản lý hoạt động, Vận hành hệ thống, Vận hành, Dịch vụ hỗ trợ.
+147 tín chỉ.
+35 tín chỉ.
+22 tín chỉ.
+Tiếng Nhật 1A, 1B, 2A, 2B, 3A, 3B.
+Triết học Mác - Lênin.
+Giải tích 1.
+Giải tích 2.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Giới thiệu về Công nghệ thông tin.
+Nhập môn lập trình.
+Nhập môn lập trình.
+Cơ sở dữ liệu.
+Lập trình hướng đối tượng và Cơ sở dữ liệu.
+Nhập môn lập trình và Tiếng Nhật 2B.
+153 tín chỉ
+48 tín chỉ (Không tính các học phần GDTC, GDQP-AN và Kĩ năng bổ trợ)
+15 tín chỉ
+9 tín chỉ
+22 tín chỉ
+59 tín chỉ
+10 tín chỉ
+PHI1004
+40 giờ
+MAT1093
+INT1006
+INT1006
+INT2207
+INT2204, INT2207
+9 giờ
+Kỹ thuật giao thông và xây dựng.
+159 tín chỉ.
+Các phần mềm chuyên ngành trong thiết kế và tính toán kết cấu trong xây dựng và giao thông.
+Vật lý cơ – nhiệt, điện và quang.
+Cơ học môi trường liên tục, cơ học lý thuyết.
+Cơ học vật rắn biến dạng, sức bền vật liệu, cơ học kết cấu, thủy lực, cơ học đất.
+Tính toán, thiết kế và thi công.
+Đọc bản vẽ, trình bày, sắp xếp nội dung hồ sơ công trình.
+Kỹ năng phối hợp giữa các bên liên quan như chủ đầu tư, tư vấn giám sát, tư vấn quản lý dự án, tư vấn thiết kế và nhà thầu.
+Bậc 3.
+Cán bộ kỹ thuật, cán bộ thi công, giám sát các công trình và quản lý dự án.
+Các cơ quan thuộc Bộ Xây dựng, các cơ quan thuộc Bộ Giao thông vận tải.
+Trình độ sau đại học, nghiên cứu sinh.
+Kết cấu công trình; vật liệu mới trong xây dựng; địa kỹ thuật công trình; quy hoạch giao thông vùng và giao thông đô thị.
+Trách nhiệm cao với công việc; Có ý thức trong an toàn lao động, thi công; Trung thành với tổ chức.
+150 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+21 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ).
+19 tín chỉ.
+21 tín chỉ.
+73 tín chỉ.
+PHI1006.
+PHI1006.
+35 giờ.
+MAT1093, EPN1096.
+CTE3028.
+30 giờ.
+CTE2022.
+CTE2010.
+CTE2026, CTE2011.
+8 tín chỉ.
+Công nghệ Kỹ thuật Xây dựng
+Civil Engineering
+7510103
+Kỹ sư
+4.5 năm
+Kỹ sư Công nghệ Kỹ thuật Xây dựng
+Engineer in Civil Engineering
+Các tổng công ty, doanh nghiệp xây dựng trong và ngoài nước; các bộ ngành và công ty; viện nghiên cứu, trường đại học.
+Quản lý xây dựng, quy hoạch; nghiên cứu khoa học và giảng dạy.
+Theo quy định tuyển sinh đại học của Đại học Quốc gia Hà Nội.
+100 sinh viên/ Khóa học.
+Thiết kế các công trình Xây dựng dân dụng, công nghiệp
+Lập đề cương khảo sát, thiết kế; tiến hành khảo sát, thiết kế cơ sở, lập dự án đầu tư, thiết kế kỹ thuật, lập bản vẽ thi công, lập dự toán và tổng dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu và giám sát thi công các công trình xây dựng
+Lập thủ tục đầu tư xây dựng cơ bản, lập hồ sơ mời thầu, phân tích đánh giá hồ sơ dự thầu, giám sát chủ đầu tư, nghiệm thu, thanh quyết toán công trình
+Lập hồ sơ dự thầu, thi công xây dựng, lắp đặt thiết bị, lập hồ sơ bản vẽ hoàn công và làm các thủ tục thanh quyết toán công trình
+Kỹ sư
+150 tín chỉ
+Bậc 3
+Cán bộ kỹ thuật, cán bộ thi công, giám sát các công trình và quản lý dự án
+Sau đại học, nghiên cứu sinh
+Đọc bản vẽ, trình bày, sắp xếp nội dung hồ sơ công trình
+Thao tác sử dụng máy móc, trang thiết bị trong khảo sát, thi công công trình
+Khai thác thông tin và xử lý dữ liệu liên quan đến lĩnh vực xây dựng qua mạng Internet, thư viện điện tử, sách, báo, tạp chí chuyên ngành
+Phối hợp giữa các bên liên quan như chủ đầu tư, tư vấn giám sát, tư vấn quản lý dự án, tư vấn thiết kế và nhà thầu
+Thích ứng với biến đổi khí hậu, tiết kiệm năng lượng, phát triển bền vững, văn hóa và môi trường trong các công trình xây dựng, giao thông
+Công nghệ, kinh tế, môi trường, xã hội, văn hóa
+Trung thực, lễ độ, khiêm tốn, nhiệt tình
+Có trách nhiệm với công việc, trung thành với tổ chức, có ý thức trong an toàn lao động, thi công, nhiệt tình và say mê với công việc
+Có trách nhiệm với xã hội, tuân thủ luật pháp, có ý thức phục vụ, nhiệt tình tham gia các hoạt động xã hội
+Quản lý thời gian, nguồn lực, dự án
+Công nghệ Kỹ thuật Xây dựng – Giao thông (Ngành đào tạo thí điểm)
+Civil and Transportation Engineering
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Công nghệ Kỹ thuật Xây dựng – Giao thông/Chuyên ngành xây dựng dân dụng và công nghiệp; Kỹ sư ngành Công nghệ Kỹ thuật Xây dựng – Giao thông/Chuyên ngành cầu đường
+The Degree of Engineer in Civil and Transportation Engineering/ Specilized in Civil and Industrial Construction; The Degree of Engineer in Civil and Transportation Engineering/Specilized in Road and Bridge Construction.
+Đào tạo cho sinh viên kiến thức về kỹ thuật, công nghệ, thiết kế, thi công, vận hành và quản lý các dự án cơ sở hạ tầng xã hội.
+Các tổng công ty, doanh nghiệp xây dựng và giao thông trong và ngoài nước; làm công tác quản lý xây dựng, quy hoạch trong các bộ ngành và công ty; nghiên cứu khoa học và giảng dạy cho các viện nghiên cứu, trường đại học.
+Các kiến thức về thiết kế các công trình Xây dựng dân dụng, công nghiệp và hạ tầng giao thông
+Các kiến thức về lập đề cương khảo sát, thiết kế; tiến hành khảo sát, thiết kế cơ sở, lập dự án đầu tư, thiết kế kỹ thuật, lập bản vẽ thi công, lập dự toán và tổng dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu và giám sát thi công các công trình xây dựng.
+Các kiến thức về lập thủ tục đầu tư xây dựng cơ bản, lập hồ sơ mời thầu, phân tích đánh giá hồ sơ dự thầu, giám sát chủ đầu tư, nghiệm thu, thanh quyết toán công trình.
+Các kiến thức về phát triển bền vững và ảnh hưởng của biến đổi khí hậu cũng như thích ứng với biến đổi khí hậu trong xây dựng – giao thông.
+Các kiến thức về đo đạc, kiểm tra, thí nghiệm và xử lý được số liệu trong công tác thí nghiệm vật liệu xây dựng, thí nghiệm cơ học địa kỹ thuật, công tác trắc địa.
+Các kiến thức về lập hồ sơ dự thầu, thi công xây dựng, lắp đặt thiết bị, lập hồ sơ bản vẽ hoàn công và làm các thủ tục thanh quyết toán công trình.
+Theo quy định tuyển sinh đại học của ĐHQGHN.
+Chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng.
+Trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.
+Có, sinh viên được sử dụng thành thạo BIM.
+Cán bộ kỹ thuật, cán bộ thi công, giám sát các công trình và quản lý dự án.
+Các cơ quan thuộc Bộ Xây dựng, Bộ Giao thông vận tải, các Ban Quản lý dự án, các Sở Xây dựng, Sở Giao thông vận tải.
+Chuyên gia tư vấn, giám sát, thanh tra, kiểm tra các dự án kỹ thuật hạ tầng.
+Thạc sĩ, nghiên cứu sinh.
+Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình thủy; Kỹ thuật xây dựng công trình biển; Kỹ thuật xây dựng công trình ngầm; Kỹ thuật xây dựng công trình giao thông; Kỹ thuật xây dựng công trình đặc biệt; Kỹ thuật cơ sở hạ tầng; Địa kỹ thuật xây dựng; Kinh tế xây dựng; Quản lý xây dựng.
+Có, sinh viên cần có khả năng làm việc độc lập, sáng tạo hoặc theo nhóm.
+Có, sinh viên có khả năng tự học, tự nghiên cứu và nâng cao trình độ.
+PLO 10: Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện tính trung thực, chịu trách nhiệm cá nhân, hỗ trợ đồng nghiệp.
+Có, chương trình hướng đến xây dựng năng lực tự học suốt đời và tư duy khởi nghiệp sáng tạo.
+Có, sinh viên có thể làm việc trong lĩnh vực giao thông và cơ sở hạ tầng.
+Cán bộ kỹ thuật, cán bộ giảng dạy, nghiên cứu trong lĩnh vực xây dựng, giao thông và kỹ thuật hạ tầng.
+Có, sinh viên được trang bị kiến thức về Kiến trúc, Phát triển bền vững và liên ngành trong lĩnh vực xây dựng.
+150 tín chỉ
+16 tín chỉ
+22 tín chỉ
+19 tín chỉ
+21 tín chỉ
+72 tín chỉ
+Khối kiến thức chung
+Khối kiến thức theo lĩnh vực
+Khối kiến thức theo khối ngành
+Khối kiến thức theo nhóm ngành
+Khối kiến thức ngành bắt buộc
+Khối kiến thức bổ trợ
+Khối kiến thức định hướng chuyên sâu (bắt buộc)
+Khối kiến thức định hướng chuyên sâu (tự chọn)
+10 tín chỉ
+159 tín chỉ.
+29 tín chỉ (không tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh và Kĩ năng bổ trợ).
+76 tín chỉ.
+6 tín chỉ.
+10 tín chỉ.
+PHI1004.
+PHI1005.
+50 giờ.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành bắt buộc.
+Khối kiến thức bổ trợ.
+32 tín chỉ.
+Chuyên ngành xây dựng dân dụng và công nghiệp.
+CTE4050.
+Công nghệ Kỹ thuật xây dựng
+7510103
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Công nghệ Kỹ thuật xây dựng
+Các tổng công ty, doanh nghiệp Xây dựng, Giao thông trong và ngoài nước
+Lập đề cương khảo sát, triển khai hồ sơ thiết kế, lập dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu các công trình xây dựng, giao thông
+Tham gia giám sát thi công, nghiệm thu, thanh quyết toán công trình, quản lý vận hành công trình xây dựng, giao thông
+Đo đạc, kiểm tra, thí nghiệm và xử lý được số liệu trong công tác thí nghiệm vật liệu xây dựng, thí nghiệm cơ học địa kỹ thuật, công tác trắc địa
+Có tư duy phản biện, làm việc độc lập, làm việc theo nhóm, biết lập kế hoạch, điều phối, quản lí các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động trong lĩnh vực Công nghệ kỹ thuật xây dựng;
+Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Trí tuệ nhân tạo
+Artificial Intelligence
+7480207
+Cử nhân
+4 năm
+Cử nhân ngành Trí tuệ nhân tạo
+The Degree of Bachelor in Artificial Intelligence
+Đào tạo nguồn nhân lực đại học có trình độ cao về chuyên môn, có năng lực phát triển các hệ thống trí tuệ nhân tạo và phân tích dữ liệu tiên tiến.
+Theo Đề án tuyển sinh hàng năm được ĐHQGHN phê duyệt.
+Các thí sinh đạt giải chính thức kỳ thi Olympic, học sinh giỏi quốc gia, quốc tế các môn Toán, Tin học, Vật lí.
+Có, học sinh chuyên Toán, Tin học, Vật lí có giải cấp Tỉnh.
+Có, SAT, A-Level.
+Các kiến thức và kĩ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng trí tuệ nhân tạo và công nghệ thông tin.
+Khả năng tự học tự thích nghi, khả năng làm việc độc lập, khả năng làm việc trong môi trường công nghiệp trong và ngoài nước.
+Đội ngũ giảng viên giỏi.
+Trí tuệ nhân tạo.
+123 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+21 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+19 tín chỉ.
+31 tín chỉ.
+42 tín chỉ.
+03 tín chỉ.
+07 tín chỉ.
+3 tín chỉ.
+Triết học Mác – Lênin.
+Giải tích 1.
+Giải tích 2.
+Nhập môn lập trình.
+Cấu trúc dữ liệu và giải thuật.
+Xác suất thống kê và Cấu trúc dữ liệu và giải thuật.
+Trí tuệ nhân tạo.
+7480207.
+Cử nhân.
+4 năm.
+The Degree of Bachelor in Artificial Intelligence.
+Đào tạo nguồn nhân lực cử nhân có trình độ cao về chuyên môn, có năng lực phát triển các hệ thống TTNT và phân tích dữ liệu tiên tiến.
+Các kiến thức và kỹ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng TTNT.
+Tạo điều kiện tốt nhất để phát triển kiến thức, kỹ năng cũng như các phẩm chất nghề nghiệp.
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Artificial Intelligence.
+Trí tuệ nhân tạo.
+Toán, khoa học và kĩ thuật máy tính.
+Cán bộ thiết kế, phát triển và bảo trì các hệ thống trí tuệ nhân tạo và khoa học dữ liệu.
+Giảng viên, nghiên cứu viên tại các trường đại học, viện nghiên cứu.
+Bậc 3/6.
+Thiết kế, thực thi, đánh giá và bảo trì giải pháp trí tuệ nhân tạo và khoa học dữ liệu.
+Chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm chuyên môn.
+Trung thực và chuyên nghiệp.
+Thạc sĩ, tiến sĩ.
+Nhận dạng và đề xuất giải pháp giải quyết các vấn đề trí tuệ nhân tạo và khoa học dữ liệu phức tạp, liên ngành.
+Vận dụng thành thạo kĩ năng số đáp ứng yêu cầu học tập và công việc.
+Giao tiếp hiệu quả trong môi trường chuyên nghiệp.
+Lập kế hoạch, điều phối, quản lí các nguồn lực, đánh giá và cải thiện hiệu quả các hoạt động của nhóm.
+Khoa học xã hội, khoa học chính trị và pháp luật.
+Vận dụng các kiến thức và kĩ năng khởi nghiệp, tạo việc làm cho mình và cho người khác.
+124 tín chỉ.
+16 tín chỉ.
+44 tín chỉ.
+3 tín chỉ.
+7 tín chỉ.
+PHI1006.
+PHI1006.
+4 tín chỉ.
+MAT1041.
+INT1008.
+AIT1001.
+INT1008.
+MAT1101 và INT2210.
+AIT4002.
+Có, sinh viên có thể chọn 5 tín chỉ thuộc các CTĐT khác của Trường Đại học Công nghệ hoặc của các đơn vị đào tạo khác trong ĐHQGHN.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Không được đề cập rõ ràng trong văn bản.
+Thạc sỹ, tiến sĩ.
+Cán bộ thiết kế, phát triển và bảo trì các hệ thống TTNT&KHDL; Cán bộ nghiên cứu phát triển (R&D); Cán bộ quản lý các hệ thống ứng dụng TTNT.
+Trợ giảng, giảng viên, nghiên cứu viên.
+Tương đương năng lực ngoại ngữ bậc 3/6 trong Khung năng lực ngoại ngữ Việt Nam.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội.
+Kỹ sư tại các công trình xây dựng.
+Nghiên cứu viên và giảng viên.
+Bậc sau đại học các chuyên ngành thuộc lĩnh vực Cơ kỹ thuật.
+Khả năng giao tiếp bằng tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam).
+Vận dụng các nguyên tắc đạo đức và cam kết tuân thủ đạo đức nghề nghiệp.
+Khả năng xác định, xây dựng và giải quyết các vấn đề kỹ thuật phức tạp.
+Khả năng sử dụng các kiến thức chuyên sâu của Cơ kỹ thuật để xác định; phân tích, nghiên cứu và đề xuất giải pháp giải quyết các vấn đề thực tế thuộc lĩnh vực Cơ kỹ thuật.
+Kiến thức cơ bản của Toán học, Khoa học tự nhiên, Công nghệ thông tin.
+Nhà máy cơ khí chế tạo, nhà máy thủy điện, điện hạt nhân.
+Kỹ năng giao tiếp hiệu quả trong các hoạt động kỹ thuật phức tạp.
+Chuyên viên phân tích, tư vấn và kinh doanh.
+Kỹ năng kỹ thuật, kỹ năng tự học và nghiên cứu độc lập.
+Kỹ sư kỹ thuật, thiết kế, quản lý nhóm, dự án.
+Có khả năng làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi hoặc môi trường có áp lực cao.
+155 tín chỉ.
+29 tín chỉ (Không tính các học phần GDTC, GDQP-AN và Kĩ năng bổ trợ).
+18 tín chỉ.
+6 tín chỉ.
+22 tín chỉ.
+80 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành bắt buộc.
+Khối kiến thức bổ trợ.
+10 tín chỉ.
+Thủy khí công nghiệp và môi trường.
+Cơ học kỹ thuật biển.
+Cơ điện tử.
+150 tín chỉ.
+16 tín chỉ.
+22 tín chỉ.
+6 tín chỉ.
+14 tín chỉ.
+92 tín chỉ.
+45 tín chỉ.
+7/23 tín chỉ.
+27 tín chỉ.
+18 tín chỉ.
+4 tín chỉ.
+5 tín chỉ.
+13 tín chỉ.
+Không.
+Không.
+150 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+21 tín chỉ (chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+19 tín chỉ
+6 tín chỉ
+14 tín chỉ
+90 tín chỉ
+43 tín chỉ
+7 tín chỉ
+27 tín chỉ
+5 tín chỉ
+13 tín chỉ
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực
+Khối kiến thức theo khối ngành
+Khối kiến thức theo nhóm ngành
+Kiến thức pháp luật liên quan đến lĩnh vực được đào tạo.
+Tối thiểu tương đương bậc 3/6 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Vật lý cơ, nhiệt, điện và quang.
+Giải tích toán học và Đại số cao cấp.
+Phương pháp tính toán số trong kỹ thuật.
+Xác suất và thống kê ứng dụng.
+Cơ khí, Xây dựng, Giao thông, Thủy lợi, Môi trường, Dầu khí.
+Cơ sở nghiên cứu, thiết kế, các tổ chức sản xuất, kinh doanh.
+Phụ trách dịch vụ sau bán hàng, phát triển mẫu mã sản phẩm.
+Các cơ sở giáo dục đại học và các cơ sở nghiên cứu.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình.
+Có trách nhiệm với công việc, trung thành với tổ chức, nhiệt tình và say mê với công việc.
+Có trách nhiệm với xã hội, tuân thủ luật pháp, có ý thức phục vụ, nhiệt tình tham gia các hoạt động xã hội.
+Bậc sau đại học các chuyên ngành thuộc lĩnh vực Cơ kỹ thuật.
+Kỹ năng thiết kế, phân đoạn qui trình thiết kế.
+Cơ kỹ thuật
+Engineering Mechanics
+7520101
+Kỹ sư
+4.5 năm
+Kỹ sư ngành Cơ kỹ thuật
+The Degree of Engineer in Engineering Mechanics
+Kiến thức cơ bản vững chắc và kiến thức chuyên môn toàn diện.
+Kỹ năng thực hành cơ bản và năng lực làm việc độc lập, sáng tạo.
+Tham gia thiết kế, chế tạo, vận hành, tư vấn hay phát triển các hệ thống, thiết bị và máy móc.
+Kỹ năng giao tiếp (cả ngoại ngữ) và sử dụng các công cụ công nghệ thông tin.
+Hành vi, thái độ, tác phong làm việc chuyên nghiệp, có đạo đức nghề nghiệp, có trách nhiệm xã hội và tuân thủ pháp luật.
+Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Cơ kỹ thuật.
+Engineering Mechanics.
+52520101.
+Kỹ sư.
+5 năm.
+Kỹ sư ngành Cơ kỹ thuật.
+The Degree of Engineer in Engineering Mechanics.
+Trang bị kiến thức chuyên môn, kỹ năng thực hành, khả năng làm việc độc lập, sáng tạo và giải quyết vấn đề.
+Cập nhật tri thức công nghệ mới và nâng cao tri thức khoa học cơ bản và chuyên ngành.
+Theo quy định của Đại học Quốc gia Hà Nội.
+100 chỉ tiêu.
+Kiến thức chuyên môn toàn diện và kỹ năng thực hành cơ bản.
+Khả năng làm việc độc lập, sáng tạo và giải quyết vấn đề.
+Có, chương trình đào tạo cập nhật tri thức công nghệ mới về cơ kỹ thuật tiên tiến.
+Đào tạo nguồn nhân lực có trình độ cao.
+Cơ kỹ thuật
+7520101
+Kỹ sư
+4.5 năm
+Kỹ sư ngành Cơ kỹ thuật
+Trang bị kiến thức chuyên môn toàn diện, kỹ năng thực hành cơ bản, khả năng làm việc độc lập, sáng tạo và giải quyết vấn đề thuộc ngành Cơ kỹ thuật.
+Tư duy logic, năng lực sáng tạo, năng lực tự học và khả năng làm việc ở nhiều vị trí khác nhau.
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, đạo đức nghề nghiệp và tinh thần làm việc theo nhóm.
+Theo quy định của Đại học Quốc gia Hà Nội.
+100 chỉ tiêu/năm.
+Engineering Mechanics
+Kỹ sư
+Khả năng tự nghiên cứu nâng cao trình độ chuyên môn, nghiệp vụ
+Có
+Có
+Chuẩn Khung trình độ Quốc gia Việt Nam theo Quyết định số 1982/QĐ-TTg năm 2016.
+150 tín chỉ.
+Bậc 6/8.
+Tương đương bậc 3 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Cơ khí, Xây dựng, Giao thông, Thủy lợi, Môi trường, Dầu khí…
+Kỹ sư kỹ thuật, chuyên viên phân tích, nghiên cứu viên và giảng viên.
+Bậc sau đại học các chuyên ngành thuộc lĩnh vực Cơ kỹ thuật.
+Mạng máy tính, quản lý và chuyên nghiệp trong công nghệ; công nghệ phần mềm, vật liệu tiên tiến trong công nghệ.
+Vận dụng kiến thức vào tính toán, đánh giá, phân tích các quá trình thủy khí động lực ứng dụng trong công nghiệp và môi trường.
+Mô phỏng, phân tích, đánh giá các công trình ngoài khơi và ven bờ, tính toán, mô phỏng, đánh giá, dự báo các quá trình thủy thạch động lực và môi trường biển.
+Đánh giá phân tích thiết kế hệ thống hoặc quá trình; sử dụng các công cụ hiện đại để phát triển các hệ thống cơ điện tử.
+Khí động lực học và công nghệ phóng đẩy, cơ học cấu trúc, cơ học bay, công nghệ vệ tinh.
+Có.
+Trung thực, lễ độ, khiêm tốn, nhiệt tình, có trách nhiệm với công việc, trung thành với tổ chức, có trách nhiệm với xã hội, tuân thủ luật pháp, có ý thức phục vụ, nhiệt tình tham gia các hoạt động xã hội.
+Các công trình xây dựng, các nhà máy cơ khí chế tạo, nhà máy thủy điện, điện hạt nhân, cũng như các doanh nghiệp liên quan đến xây dựng, giao thông, cơ sở hạ tầng.
+152 tín chỉ.
+Bậc 3.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Có.
+Vị trí phát triển và triển khai các nguồn năng lượng tái tạo như năng lượng mặt trời, năng lượng gió, năng lượng từ nước, hay năng lượng sinh học.
+Phân tích và cải thiện hiệu suất năng lượng của các hệ thống và đề xuất các biện pháp tiết kiệm năng lượng.
+Đảm bảo việc chuyển giao năng lượng từ các nguồn sản xuất đến người dùng cuối cùng một cách hiệu quả và ổn định.
+Phối hợp với các bộ phận liên quan để đảm bảo các dự án được hoàn thành đúng tiến độ và đạt được hiệu quả kinh tế.
+Trong các trung tâm nghiên cứu, trường đại học hoặc các công ty công nghệ.
+Tại các cơ sở giáo dục đào tạo phổ thông và đại học.
+Trong các công ty tư vấn hoặc công ty năng lượng.
+Các chuyên ngành về năng lượng tái tạo, năng lượng truyền thống, vật liệu và linh kiện, khoa học vật liệu, vật lí ứng dụng…
+Kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng.
+Kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật.
+Kiến thức cơ bản về quản lý điều hành hoạt động chuyên môn.
+Tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam).
+Có khả năng đề xuất giải pháp về lĩnh vực kỹ thuật Năng lượng bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại.
+Có khả năng xây dựng kế hoạch và quản lý tiết kiệm năng lượng của mạng lưới phân phối và công ty, thiết kế và vận hành hệ thống cung cấp điện và năng lượng nhiệt và giải quyết các nhiệm vụ tài chính.
+Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện (có) tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp
+Kỹ thuật năng lượng
+Energy Engineering
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật năng lượng
+The Degree of Engineer in Energy Engineering
+Đào tạo nguồn nhân lực kỹ sư ngành Kỹ thuật năng lượng nắm vững kiến thức về năng lượng, có khả năng thực hành tốt và ứng dụng kiến thức vào thực tế.
+Các tập đoàn trong nước, công ty nước ngoài hoạt động trong lĩnh vực năng lượng, các trường đại học và viện nghiên cứu liên quan.
+Khoa học vật liệu, vật lý và công nghệ hiện đại, quá trình chuyển hóa năng lượng.
+Năng lượng mặt trời, Biến đổi và tích trữ các nguồn năng lượng mới, Quản lý và an toàn năng lượng.
+Nghiên cứu, phân tích, thiết kế, triển khai, quản trị các công nghệ và hệ thống năng lượng.
+Kỹ thuật triển khai và vận hành, quản trị kỹ thuật năng lượng, nghiên cứu phát triển, giảng dạy và nghiên cứu.
+Theo quy định của ĐHQGHN.
+Có
+Phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, đạo đức nghề nghiệp.
+156 tín chỉ
+29 tín chỉ (Không tính các học phần GDTC, GDQP-AN và Kỹ năng bổ trợ)
+83 tín chỉ
+49 tín chỉ
+10 tín chỉ
+PHI1004
+POL1001
+3 tín chỉ
+MAT1093
+15 giờ
+EMA2050
+EMA2038
+EMA2038
+EPN2014
+6/12 tín chỉ
+Kỹ thuật năng lượng
+Energy Engineering
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật năng lượng
+The Degree of Engineer in Energy Engineering
+Kỹ thuật, quản lý, chuyển giao và ứng dụng công nghệ mới
+Tập đoàn công nghiệp, công ty kỹ thuật – sản xuất, cơ quan quản lý, viện nghiên cứu, trường đại học
+Theo quy định của ĐHQGHN
+60 sinh viên/năm
+Kỹ thuật năng lượng
+Energy Engineering
+7520406
+Kỹ sư
+4,5 năm
+Kỹ sư ngành Kỹ thuật Năng lượng
+The Degree of Engineer in Energy Engineering
+Kỹ sư về quản lý năng lượng, quản lý kỹ thuật, quản lý sản xuất, thiết kế dây chuyền, chuyên giao công nghệ, ứng dụng thiết bị công nghệ mới.
+Kiến thức đa ngành về khoa học cơ bản, khoa học vật liệu, vật lý và tin học.
+Kỹ năng sử dụng thành thạo các công cụ định lượng và các phần mềm chuyên dụng.
+Năng lực tự học, tự nghiên cứu, tích lũy kinh nghiệm để nâng cao trình độ chuyên môn phù hợp với nhu cầu xã hội và thích nghi với các môi trường làm việc khác nhau.
+Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ.
+Bảo vệ môi trường.
+Bậc 3.
+Vật lý cơ, nhiệt, điện và quang.
+Khoa học vật liệu.
+Năng lực dẫn dắt.
+Kỹ năng hoàn thành công việc phức tạp.
+Kỹ năng mô hình hóa và mô phỏng.
+Tư duy logic.
+Trung thực.
+Có trách nhiệm với công việc.
+Có trách nhiệm với xã hội.
+Cán bộ kỹ thuật.
+Công ty nước ngoài.
+Năng lượng mặt trời.
+Thạc sĩ, tiến sĩ.
+152 tín chỉ.
+16 tín chỉ.
+85 tín chỉ.
+Khối kiến thức chung.
+Khối kiến thức theo lĩnh vực.
+Khối kiến thức theo khối ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức ngành.
+14 tín chỉ.
+Năng lượng mặt trời.
+Biến đổi và tích trữ các nguồn năng lượng mới.
+Quản lý và An toàn năng lượng.
+Khối kiến thức bổ trợ.
+Khối kiến thức tốt nghiệp.
+Không.
+150 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+21 tín chỉ (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ).
+19 tín chỉ.
+38 tín chỉ.
+72 tín chỉ.
+48 tín chỉ.
+10 tín chỉ.
+3 tín chỉ.
+Triết học Mác – Lênin (PHI1006).
+Giải tích 1 (MAT1041).
+Vật lý đại cương 1 (EPN1095).
+Năng lượng mặt trời, Biến đổi và tích trữ các nguồn năng lượng mới, Quản lý và An toàn năng lượng.
+14 tín chỉ.
+Vật lý thiết bị và linh kiện (EPN2066) và Cơ sở, kỹ thuật và hệ thống năng lượng 3 (EET2028).
+Cơ sở quản lý năng lượng (EET2011), Cơ sở kinh tế năng lượng (EET2023) và Thực tập kỹ thuật năng lượng 2 (EET2022).
