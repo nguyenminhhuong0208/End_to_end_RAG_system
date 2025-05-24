@@ -29,7 +29,6 @@ class Retrieval:
             print("The vector store does not exist at:", self.faiss_vector_path)
             return None
         
-/kaggle/working/End_to_end_RAG_system/vector_embeddingaiss_data_600_100
     def top_retrieval(self, question):
         """Top k relevant chunks based on query
         Args:
