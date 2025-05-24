@@ -39,7 +39,7 @@ class Retrieval:
         if self.vectorstore == None:
             raise ValueError("Vectorstore has not been loaded.")
         retrievel_instance = self.vectorstore.as_retriever(search_kwargs={"k": self.top_k})
-        relevant_docs = retrievel_instance.get_relevant_documents(question)
+        relevant_docs = retrievel_instance.invoke(question)
         context = "\n\n".join([doc.page_content for doc in relevant_docs])
 
         return context
