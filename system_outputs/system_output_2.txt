@@ -1,0 +1,2869 @@
+"149 tín chỉ (không tính các học phần Giáo dục thể chất, Giáo dục quốc phòng - an ninh và Kỹ năng bổ trợ) hoặc 134 tín chỉ (không tính các học phần Giáo dục thể"
+21 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+- Định hướng chuyên sâu về Hệ thống cơ điện tử:
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Các học phần có mã học phần thêm chữ ""E"" được giảng dạy bằng tiếng Anh. "
+Không biết
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ tại Trường Đại học Công nghệ cần có kiến thức về tin học bao gồm:
+Sinh viên ngành Công nghệ Hàng không Vũ trụ tại Trường Đại học Công nghệ cần có các kỹ năng nghề nghiệp sau:
+"Sinh viên ngành Công nghệ Hàng không Vũ trụ tại Trường Đại học Công nghệ cần có phẩm chất đạo đức cá nhân tốt, chuẩn mực trong lời nói, hành vi, thân thiện với bạn bè đồng nghiệp, có tinh thần tự học"
+Không biết
+Không biết
+Sinh viên ngành Công nghệ Hàng không Vũ trụ sau khi tốt nghiệp tại Trường Đại học Công nghệ có khả năng tham mưu tư vấn và có năng lực thực hiện nhiệm vụ với tư cách như một kỹ sư trong lĩnh vực Hàng không Vũ
+"Kỹ sư ngành Công nghệ Hàng không Vũ trụ sau khi tốt nghiệp tại Trường Đại học Công nghệ có thể tham gia các khóa học nâng cao ngắn hạn về Điều khiển, từ đó có thể áp dụng kiến thức về hệ thống điều khiển"
+Không biết
+Không biết
+""
+Tôi không biết
+"Có kiến thức cơ bản về viễn thám, hệ thống thông tin địa lý, các kỹ thuật xử lý ảnh viễn thám, phân tích không gian, phát triển ứng dụng 3D trên nền bản đồ địa lý, quản"
+Không biết
+"- Phát triển và triển khai các nguồn năng lượng tái tạo như năng lượng mặt trời, năng lượng gió, năng lượng từ nước, hay năng lượng sinh học."
+Kỹ sư quản lý năng lượng đảm bảo việc chuyển giao năng lượng từ các nguồn sản xuất đến người dùng cuối cùng một cách hiệu quả và ổn định. Vị trí này quản lý các dự án năng lượng từ khâu lập kế hoạch
+Kỹ sư năng lượng đảm bảo việc chuyển giao năng lượng từ các nguồn sản xuất đến người dùng cuối cùng một cách hiệu quả và ổn định. 
+Kỹ sư chuyên ngành quản lý dự án năng lượng có trách nhiệm phối hợp với các bộ phận liên quan để đảm bảo các dự án được hoàn thành đúng tiến độ và đạt được hiệu quả kinh tế. 
+"Chuyên viên nghiên cứu và phát triển năng lượng thường làm việc trong các trung tâm nghiên cứu, trường đại học hoặc các công ty công nghệ. "
+Tôi không biết
+"Người học sau tốt nghiệp ngành Kỹ thuật năng lượng thường làm việc trong các công ty tư vấn hoặc công ty năng lượng, cung cấp dịch vụ tư vấn về tiết kiệm năng lượng, cải thiện hiệu suất năng lượng và đưa ra các giải"
+"Kỹ sư ngành Kỹ thuật năng lượng có thể học lên bậc cao học ở các chuyên ngành liên quan đến năng lượng mới, vật liệu và linh kiện nano, vật liệu điện tử, và các chuyên ngành khác như năng lượng"
+Không biết
+Không biết
+PLO3: Vận dụng được kiến thức cơ bản về quản lý điều hành hoạt động chuyên môn.
+PLO10: Có trình độ tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam). 
+"PLO11: Có khả năng đề xuất giải pháp về lĩnh vực kỹ thuật Năng lượng bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại. "
+"PLO13: Có khả năng xây dựng kế hoạch và quản lý tiết kiệm năng lượng của mạng lưới phân phối và công ty, thiết kế và vận hành hệ thống cung cấp điện và năng lượng nhiệt và giải quyết các nhiệm vụ tài"
+Không biết
+"Chương trình đào tạo ngành Công nghệ Nông nghiệp yêu cầu tổng cộng 151 tín chỉ, bao gồm:"
+21 tín chỉ
+Không biết
+PHI1006
+Học phần Nhập môn Công nghệ Nông nghiệp (AGT2000) thuộc khối kiến thức theo khối ngành. 
+19
+Không biết
+Không biết
+Không biết
+16 tín
+Không biết
+|  | Row 57: 45. | INT2204 | Lập trình hướng đối tượngObject-Oriented Programming | 3 | 30 | 15 |  | INT1008
+AGT3120 | Công nghệ sinh học phân tửMolecular Biology Technology | 4 | 45 | 15 |  | AGT2103AGT2111 Row 56: 4
+Không biết
+Tôi không biết
+Information Systems
+4 năm
+7480104
+Cử nhân Hệ thống thông tin (Chương trình đào tạo chất lượng cao) 
+Thời gian đào tạo ngành Hệ thống thông tin (CLC TT23) tại Trường Đại học Công nghệ là 4 năm. 
+Cử nhân Hệ thống thông tin (Chương trình đào tạo chất lượng cao) 
+Chương trình Hệ thống thông tin (CLC TT23) tại Trường Đại học Công nghệ thuộc hệ đào tạo chất lượng cao. 
+Mục tiêu của chương trình Hệ thống thông tin (CLC TT23) tại Trường Đại học Công nghệ là đào tạo toàn diện cả về chuyên môn lẫn phẩm chất nhân lực chất lượng cao và bồi dưỡng nhân tài trình độ đại
+Chương trình Hệ thống thông tin (CLC TT23) tại Trường Đại học Công nghệ định hình theo 3 hướng chuyên sâu:
+Tôi không biết
+"Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. Dự kiến quy mô tuyển sinh: Theo phân bố chỉ tiêu hàng năm của Đại học Quốc gia Hà Nội và Trường Đại học Công nghệ, dự kiến tuyển 6"
+Không biết
+Tôi không biết
+- Trung thực;
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kiến thức cơ bản về các nguyên lý cơ bản, các quy luật tự nhiên và xã hội trong lĩnh vực được đào tạo để phát triển kiến thức mới"
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể sử dụng kiến thức chuyên sâu về Hệ thống cơ điện tử để thiết kế hệ thống. Cụ thể, sinh viên biết và sử dụng thành thạo"
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kỹ năng phát hiện, mô tả, phản biện vấn đề và đề xuất giải pháp về lĩnh vực chuyên môn bằng cách áp dụng các kiến thức khoa"
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có kỹ năng giao tiếp tốt. Cụ thể, theo PO3 (Phương thức đánh giá 3) trong ngữ cảnh, sinh viên cần"
+Tôi không biết
+Không biết
+Không có thông tin cụ thể trong ngữ cảnh về những điều cần tuân thủ trong công việc của sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông. 
+"- Kỹ sư thiết kế các sản phẩm trong các lĩnh vực liên quan đến Điện tử Viễn thông như Mạng, Truyền thông, Xử lý tín hiệu, Điện tử y sinh, Vi điện tử, Hệ thống nhúng, Hệ"
+Sinh
+"- Kỹ sư thiết kế, kinh doanh, vận hành, khai thác, tư vấn các sản phẩm trong các lĩnh vực liên quan đến Điện tử Viễn thông như Mạng, Truyền thông, Xử lý tín hiệu,"
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể làm việc trong lĩnh vực IoT (Internet of Things) với các vị trí như:
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể làm việc trong lĩnh vực xử lý tín hiệu. Cụ thể, họ có thể trở thành kỹ sư thiết kế, kinh doanh, vận hành"
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông có thể làm việc trong lĩnh vực điện tử y sinh. Cụ thể, họ có thể trở thành kỹ sư thiết kế, vận hành, khai thác,"
+"Chương trình đào tạo ngành Cơ kỹ thuật - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+""
+Tổng số tín chỉ của chương trình đào tạo ngành Kỹ thuật Robot là 150 tín chỉ.
+21 tín chỉ
+21 tín chỉ
+80 tín chỉ
+80 tín chỉ
+Số tín chỉ khối kiến thức ngành của chương trình đào tạo ngành Kỹ thuật Robot là 80 tín chỉ. 
+6 tín chỉ
+6 tín chỉ
+21 tín chỉ
+PHI1006
+Không biết
+Không biết
+Không biết
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+4 năm
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông tin,"
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông tin,"
+Không biết
+Không biết
+Không biết
+Tôi không biết
+"- Có khả năng làm việc độc lập, tự học, tự nghiên cứu và nâng cao trình độ."
+"- Có khả năng làm việc độc lập, tự học, tự nghiên cứu và nâng cao trình độ."
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên cứu triển khai các ứng"
+"Chuẩn đầu ra PLO1.3 của ngành Công nghệ Thông tin chất lượng cao đề cập đến kiến thức nền tảng trong lĩnh vực máy tính, bao gồm:"
+Không biết
+Không có thông tin trong ngữ cảnh về tên tiếng Anh của ngành đào tạo được đề cập. 
+5 năm
+Kỹ sư ngành Cơ kỹ thuật
+Thời gian đào tạo ngành Cơ kỹ thuật là 4.5 năm. 
+The Degree of Engineer in Engineering Mechanics
+A: The Degree of Engineer in Engineering Mechanics
+Mục tiêu chung của chương trình đào tạo ngành Cơ kỹ thuật là:
+Mục tiêu cụ thể của chương trình đào tạo ngành Cơ kỹ thuật là:
+Không biết
+Không biết
+"- Sinh viên ngành Cơ kỹ thuật của Trường Đại học Công nghệ được trang bị kiến thức cơ bản về khoa học xã hội, chính trị và pháp luật."
+"- Có khả năng học tập, nâng cao trình độ sau khi tốt nghiệp."
+"Không có thông tin cụ thể về việc chương trình đào tạo ngành Cơ kỹ thuật của Trường Đại học Công nghệ có cập nhật tri thức công nghệ mới hay không trong ngữ cảnh được cung cấp. Do đó, tôi không thể đưa ra câu trả"
+"Trường Đại học Công nghệ đào tạo nguồn nhân lực ngành Cơ kỹ thuật có trình độ đại học, kéo dài 4 năm. "
+"Trường Đại học Công nghệ, ĐHQGHN"
+"Văn bản này đề cập đến học bổng thạc sĩ tại Trường Đại học Korea, Hàn Quốc do Quỹ Pony Chung tài trợ năm 2025. "
+20 suất học bổng Vietcombank được trao tặng cho 20 sinh viên có tên trong danh sách kèm theo. 
+20
+Câu trả lời: Quyết định về việc tặng học bổng được đưa ra dựa trên Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022 của Hội đồng trường
+Không biết
+Trưởng phòng Công tác Sinh viên.  
+"Căn cứ Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014 của Giám đốc Đại học Quốc gia Hà Nội, quy định về tổ chức và"
+Thời gian đào tạo
+Không biết
+Không biết
+Không biết
+Tôi không biết
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản của Trường Đại học Công nghệ có thể làm việc trong các doanh nghiệp Nhật Bản. 
+Không biết
+Có
+Không biết
+Không biết
+Không biết
+Có
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Tôi không biết
+- Kỹ năng về vật lý hiện đại
+Có kỹ năng phát hiện vấn đề; Có kỹ năng đánh giá và phân tích vấn đề; Có kỹ năng giải quyết vấn đề chuyên môn; Có kỹ năng mô hình hóa và mô phỏng
+Tôi không biết
+Tôi không biết
+Không biết
+"Cử nhân ngành Vật lý kỹ thuật có khả năng học tập và nghiên cứu tiếp ở các bậc học cao hơn (thạc sĩ, tiến sĩ) thuộc các lĩnh vực về vật liệu và linh kiện micro-nano, vật lý"
+"Sinh viên tốt nghiệp ngành Vật lý kỹ thuật cần có kiến thức lý thuyết chuyên sâu về vật lý hiện đại, công nghệ nano và ứng dụng. Họ phải nắm vững kỹ thuật và có kiến thức thực tế để có thể giải quyết các"
+Sinh viên tốt nghiệp ngành Vật lý kỹ thuật cần có kiến thức về giải tích toán học như sau:
+"PO3: Có kỹ năng giao tiếp, làm việc nhóm, phát hiện và giải quyết vấn đề, tư duy, phản biện, sáng tạo. "
+Không biết
+"- Nắm được các kiến thức cơ bản về khoa học vật liệu, các nguyên lý trong vật lý, cơ học, nhiệt động học, hóa học để giải được một số bài toán ứng dụng về năng lượng."
+Tôi không biết
+Information Technology
+"4,5 năm"
+Không biết
+Information Technologyfor Japanese market
+"4,5 năm"
+Kỹ sư
+"Thời gian đào tạo của chương trình Công nghệ kỹ thuật sinh học là 4,5 năm. "
+Văn bằng sau tốt nghiệp của ngành Công nghệ sinh học có tên tiếng Việt là Kỹ sư ngành Công nghệ sinh học. 
+Kỹ sư ngành Công nghệ nông nghiệp
+Không biết
+Đối tượng tuyển sinh của Trường Đại học Công nghệ cần đáp ứng các điều kiện sau:
+Không biết
+"Ngành Công nghệ sinh học thuộc Trường Đại học Công nghệ đào tạo ra kỹ sư có kiến thức chuyên sâu về Công nghệ kỹ thuật sinh học, bao gồm các lĩnh vực như Công nghệ Enzyme và Protein, Kỹ thuật chỉnh sửa"
+Mục tiêu chung của chương trình đào tạo Kỹ sư ngành Công nghệ sinh học là:
+Người tốt nghiệp ngành Công nghệ sinh học có thể làm việc ở các vị trí sau:
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính cần đạt trình độ ngoại ngữ như sau:
+Sinh viên ngành Kỹ thuật Máy tính cần nắm vững kiến thức về các lĩnh vực sau ngoài chuyên môn:
+- Kiến thức rộng: Hiểu và vận dụng thành thạo các kiến thức nền tảng cơ bản của ngành; tạo tiền đề tốt để có thể nắm vững các kiến thức theo các định hướng chuyên sâu của ngành Kỹ thuật Máy
+"Giảng viên, nghiên cứu sinh về nhóm ngành Máy tính và Công nghệ thông tin; Chuyên gia nghiên cứu và phát triển về Máy tính và Công nghệ thông tin; Lập trình viên hệ thống và cơ sở dữ liệu; Lập trình"
+"Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể học tiếp lên các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông hoặc nghiên cứu triển khai các ứng dụng của ngành Kỹ thuật Máy tính trong"
+- Có hiểu biết và khả năng áp dụng kiến thức chuyên sâu và kiến thức thực tế để giải quyết quyết công việc phức tạp của lĩnh vực Kỹ thuật máy tính (PO2).
+- Kỹ năng giao tiếp
+Trung thực;
+- Trách nhiệm với công việc
+- Trách nhiệm với xã hội
+"Có khả năng làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi; Biết chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm; Có khả năng hướng dẫn, giám sát những người khác thực hiện nhiệm"
+- Hiểu và vận dụng thành thạo các kiến thức nền tảng cơ bản của ngành
+"- Tư duy logic tốt, có năng lực sáng tạo để giải quyết các bài toán ứng dụng cụ thể, có năng lực tự học để nắm bắt tri thức, công nghệ, kỹ năng mới trong phát triển các hệ thống/dịch vụ mạng và"
+"- Có kỹ năng giao tiếp, làm việc nhóm, phát hiện và giải quyết vấn đề, tư duy, phản biện, sáng tạo."
+- Thực hành thành thạo nguyên tắc nghiên cứu và điều tra.
+156 tín chỉ
+156
+156
+156
+156
+76 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Computer Science
+Khoa học Máy tính
+4 năm
+Cử nhân ngành Khoa học máy tính
+Thời gian đào tạo ngành Khoa học Máy tính tại Trường Đại học Công nghệ là 4 năm. 
+Cử nhân ngành Khoa học Máy tính
+"Mục tiêu chung của chương trình đào tạo ngành Khoa học Máy tính tại Trường Đại học Công nghệ là nhằm đào tạo những sinh viên giỏi về chuyên môn và cao về kỹ năng, đáp ứng được nhu cầu sử dụng lao động"
+"- Kiến thức tổng hợp về toán, khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ."
+Sinh viên ngành Khoa học Máy tính tại Trường Đại học Công nghệ được trang bị các kiến thức chuyên sâu sau:
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần có phẩm chất đạo đức tốt, có mức độ tự chủ và trách nhiệm với xã hội (theo PO5). Ngoài ra, sinh viên cũng cần có"
+Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. 
+Dự kiến quy mô tuyển sinh ngành Khoa học Máy tính của Trường Đại học Công nghệ là 100 sinh viên/năm. 
+"Bồi dưỡng phẩm chất chính trị tốt, có ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền, có tinh thần làm"
+- Trung thực
+Không biết
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+Tất
+"Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể làm việc ở vị trí Nhân viên phân tích dữ liệu sinh học và tin sinh học, áp dụng kiến thức về công nghệ sinh học, phân tích dữ"
+PLO8: Hoàn thành năng lực ngoại ngữ tương đương bậc 3/6 Khung năng lực ngoại ngữ của Việt Nam. 
+"Sinh viên tốt nghiệp ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có thể học lên bậc sau đại học các chuyên ngành thuộc lĩnh vực công nghệ nông nghiệp, công nghệ thông tin, cơ điện tử, điện tử viễn thông"
+"Có, chương trình đào tạo ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có trang bị kiến thức về trí tuệ nhân tạo. Điều này được thể hiện qua tiêu chí PLO2, trong đó yêu cầu người học phải"
+"- Nghiên cứu viên, giảng viên tại các Trường Đại học, Viện nghiên cứu thực hiện giảng dạy kiến thức công nghệ sinh học, phân tích dữ liệu và trí tuệ nhân tạo trong sinh học; thực hiện cải tiến các quá trình"
+- Các sản phẩm nông nghiệp công nghệ cao
+"Trường Đại học Công nghệ cung cấp cho sinh viên ngành Công nghệ Sinh học kiến thức cơ bản về Khoa học Máy tính, bao gồm:"
+"Chuẩn đầu ra PLO8 của ngành Công nghệ Sinh học tại Trường Đại học Công nghệ liên quan đến kỹ năng ngoại ngữ. Cụ thể, PLO8 yêu cầu sinh viên phải đạt trình độ tiếng Anh tương đương trình"
+"Có, ngành Công nghệ Sinh học tại Trường Đại học Công nghệ có trang bị kiến thức về khoa học dữ liệu. Cụ thể, học phần AGT3560 ""Khoa học dữ liệu cho Khoa học sự"
+Không biết
+"Sinh viên ngành Công nghệ Sinh học tại Trường Đại học Công nghệ được trang bị kiến thức về công nghệ thông tin để nâng cao hiệu quả ứng dụng các quá trình sinh học trong công nghệ sinh học, năng lực sử dụng thành"
+Không có thông tin trong ngữ cảnh về việc tốt nghiệp ngành Công nghệ Sinh học có cần có kiến thức về quản lý chất lượng hay không. 
+"- Nghiên cứu viên, giảng viên tại các Trường Đại học, Viện nghiên cứu thực hiện giảng dạy kiến thức công nghệ sinh học, phân tích dữ liệu và trí tuệ nhân tạo trong sinh học; thực hiện cải tiến các quá trình"
+Information Technology
+Không có thông tin trong ngữ cảnh về tên tiếng Anh của ngành đào tạo được nhắc đến. 
+7460108
+Cử nhân khoa học ngành Khoa học dữ liệu
+4 năm
+Cử nhân khoa học ngành Khoa học dữ liệu
+The Degree of Bachelor of Science in Data Science
+Không biết
+Trường Đại học Công nghệ tuyển sinh ngành Khoa học dữ liệu theo hình thức tuyển sinh theo quy định của Đại học Quốc gia Hà Nội. Dự kiến quy mô tuyển sinh: Theo phân bố chỉ tiêu hàng năm của Đại học Quốc gia
+"Không có thông tin cụ thể về điều kiện học vấn của đối tượng tuyển sinh tại Trường Đại học Công nghệ trong ngữ cảnh được cung cấp. Do đó, tôi không thể đưa ra câu trả lời chính xác và đầy đủ dựa trên thông"
+Không biết
+120 sinh viên / khóa. 
+Information Technologyfor Japanese
+Không có thông tin trong ngữ cảnh về tên tiếng Anh của chương trình đào tạo được nhắc đến trong văn bản. 
+"- Nghiên cứu viên, giảng viên tại các Trường Đại học, Viện nghiên cứu thực hiện giảng dạy kiến thức công nghệ sinh học, phân tích dữ liệu và trí tuệ nhân tạo trong sinh học; thực hiện cải tiến các quá trình"
+Trường Đại học Công nghệ (ĐHQGHN) đào tạo các ngành học hiện đại bao gồm:
+"Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo cần có kiến thức nền tảng về Khoa học Máy tính, bao gồm các môn như cơ sở toán, lập trình, cấu trúc dữ liệu và giải thuật, học máy,"
+"Trong môi trường quản lý, sản xuất, kinh doanh: Cán bộ thiết kế, phát triển và bảo trì các hệ thống trí tuệ nhân tạo và khoa học dữ liệu; Cán bộ nghiên cứu phát triển (R"
+"Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc ở vị trí giảng viên, nghiên cứu viên tại các trường đại học, viện nghiên cứu. "
+Không biết
+S3. Thiết kế giải pháp trí tuệ nhân tạo và khoa học dữ liệu;
+Không biết
+"- Tốt nghiệp chương trình đào tạo có kiến thức lý thuyết chuyên sâu trong lĩnh vực CNTT; nắm vững kỹ thuật và có kiến thức thực tế để có thể giải quyết các công việc phức tạp, cả nội tại trong lĩnh vực C"
+"Sinh viên đã tốt nghiệp có thể học các bậc cao hơn như thạc sĩ, tiến sĩ. "
+- Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo cần có kỹ năng liên quan đến các vấn đề như:
+- Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo cần có kỹ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng trí tuệ nhân tạo nói riêng và công nghệ thông tin nói chung của xã hội trong xu thế toàn
+Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo cần có kỹ năng giao tiếp hiệu quả trong môi trường chuyên nghiệp (S8). 
+Tôi không biết
+Sinh
+Sinh viên ngành Trí tuệ nhân tạo cần có kỹ năng liên quan đến khởi nghiệp bao gồm:
+Không biết
+Công nghệ Thông tin
+"4,5 năm"
+Danh hiệu tốt nghiệp của sinh viên ngành Kỹ thuật Robot là Kỹ sư ngành Kỹ thuật Robot. 
+"4,5 năm"
+Tên văn bằng tốt nghiệp ngành Kỹ thuật Robot bằng tiếng Việt là Kỹ sư ngành Kỹ thuật Robot. 
+Mục tiêu chung của chương trình đào tạo ngành
+- Trang bị cho sinh viên những kiến thức cơ bản và cần thiết của ngành Kỹ thuật Robot.
+Sinh viên ngành Kỹ thuật Robot cần phát triển sự hiểu biết về các lĩnh vực khoa học sau:
+Mục tiêu của chương trình đào tạo ngành Kỹ thuật Robot là:
+Hình thức tuyển sinh vào ngành Kỹ thuật Robot là theo quy định của Đại học Quốc gia Hà Nội (ĐHQGHN). 
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Kỹ thuật Robot cần hiểu về các tương tác giữa ngành Kỹ thuật Robot với xã hội, công nghiệp, kinh doanh, công nghệ và môi trường. "
+Có 3 mức độ đầu ra cho kỹ sư tốt nghiệp ngành Kỹ thuật Robot:
+C
+Electronics and Communications Engineering Technology
+7510302
+Trình độ đào tạo của ngành Công nghệ kỹ thuật Điện tử - Viễn thông là Cử nhân. 
+Thời gian đào tạo ngành Công nghệ kỹ thuật Điện tử - Viễn thông là 4 năm. 
+Cử nhân Công nghệ kỹ thuật Điện tử - Viễn thông (Chương trình đào tạo chất lượng cao)  
+The Degree of Bachelor in Electronic and Communication Engineering Technology (Honors Program)  
+Mục tiêu chung của chương trình đào tạo ngành Công nghệ kỹ thuật Điện tử - Viễn thông là:
+Hình thức tuyển sinh của Trường Đại học Công nghệ đối với ngành Công nghệ kỹ thuật Điện tử - Viễn thông theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+- Hiểu biết về khoa học cơ bản để tiếp nhận kiến thức mới và học tập suốt đời.
+Không biết
+"Chương trình đào tạo ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cung cấp môi trường quản lý, giảng dạy, học tập hiện đại tiên tiến hiệu quả, cùng với đội ngũ giảng viên giỏi và áp dụng phương pháp dạy –"
+Không biết
+Không biết
+Tổng số tín chỉ của chương trình đào tạo ngành Kỹ thuật Năng lượng tại Trường Đại học Công nghệ là 150 tín chỉ.
+21 tín chỉ
+"- Đối với chương trình đào tạo ngành Kỹ thuật Năng lượng tại Trường Đại học Công nghệ, khối kiến thức ngành chiếm 38 tín chỉ."
+Không biết
+Không biết
+Không biết
+"Học phần Khoa học vật liệu đại cương (EPN2029) thuộc khối kiến thức theo nhóm ngành trong chương trình đào tạo ngành Kỹ thuật Năng lượng tại Trường Đại học Công nghệ. Cụ thể, the"
+Không biết
+Tôi không biết
+| Bức xạ và biến đổi năng lượng mặt trờiSolar Radiation and Energy Conversion | 2 | 25 | 5 |  | EPN2014
+Học phần Công nghệ năng lượng Hydro và pin nhiên liệu (EET3013) thuộc định hướng chuyên sâu về Biến đổi và tích trữ các nguồn năng lượng mới của ngành Kỹ thuật Năng lượng tại Trường Đại học Công nghệ
+Không biết
+Không biết
+Đồ án tốt nghiệp (10) thuộc khối kiến thức Đồ án tốt nghiệp. 
+Không
+Không biết
+"Phát triển hệ thống, Thương"
+"Theo thông tin được cung cấp trong ngữ cảnh, sinh viên ngành Vật lý kỹ thuật sau khi tốt nghiệp cần có trình độ tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng"
+Không biết
+Sinh viên tốt nghiệp ngành Vật lý kỹ thuật có thể học tiếp lên các bậc học sau:
+"Sau khi tốt nghiệp, sinh viên ngành Vật lý kỹ thuật có thể trở thành chuyên viên trong các lĩnh vực sau:"
+"Cử nhân VLKT có đủ năng lực để làm việc tại các cơ sở đào tạo như trường đại học, viện nghiên cứu, hoặc chuyển tiếp đào tạo bậc sau đại học ở trong nước và nước ngoài về lĩnh vực liên quan. C"
+Không biết
+PLO2: Vận dụng (3) được kiến thức của khoa học cơ bản và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật;
+"PLO10: Phát hiện, mô tả vấn đề và đề xuất giải pháp về lĩnh vực kỹ thuật Vật lý bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại;"
+"PLO14: Có năng lực phân tích vấn đề, tư duy logic và khả năng giải quyết vấn đề trong các lĩnh vực kỹ thuật năng lượng."
+"Có khả năng tư duy logic, biện chứng để giải quyết hiệu quả vấn đề thực tế. "
+"Sinh viên ngành Vật lý Kỹ thuật cần có ý thức về khả năng vận dụng các kiến thức và kỹ năng khởi nghiệp, tạo việc làm cho mình và cho người khác theo chuẩn đầu ra PLO18. "
+"Sinh viên ngành Vật lý Kỹ thuật cần vận dụng kiến thức trong các lĩnh vực như vật liệu mới, vi điện tử, đo lường, y sinh và môi trường. Cụ thể, họ sẽ học về công nghệ nano và"
+"Một trong những lĩnh vực nghiên cứu sau đại học phù hợp với cử nhân ngành Vật lý kỹ thuật là vật liệu và linh kiện micro-nano, vật lý chất rắn, khoa học vật liệu, tại các trường đại học,"
++ Tên tiếng Việt: Kỹ sư ngành Công nghệ Kỹ thuật xây dựng
+150 tín chỉ
+PLO9: Có trình độ tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam). 
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ có thể làm việc ở các vị trí sau:
+"Có thể học tiếp lên trình độ sau đại học, nghiên cứu sinh tại các cơ sở đào tạo trong nước cũng như các trường đại học Nước ngoài về lĩnh vực kỹ thuật xây dựng, kỹ thuật hạ tầng như: kết cấu công trình;"
+Không biết
+Không biết
+Không biết
+Tôi không biết
+"Trường Đại học Công nghệ trang bị cho sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng kỹ năng vận dụng kiến thức, kỹ năng vào thực tiễn, bao gồm:"
+"Trường Đại học Công nghệ trang bị cho sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng kiến thức về kỹ thuật xây dựng, bao gồm:"
+Không biết
+Không biết
+Không biết
+"- Có kiến thức và kỹ năng về tư vấn đầu tư xây dựng công trình: Lập đề cương khảo sát, triển khai hồ sơ thiết kế, lập dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự th"
+Không biết
++ Tên Tiếng Việt: Kỹ sư ngành Kỹ thuật Robot
+Tôi không biết
+Tôi không biết
+Không biết
+Không biết
+Sinh viên ngành Kỹ thuật Robot cần có những kiến thức cơ bản sau để giải quyết các bài toán kỹ thuật:
+"Sinh viên ngành Kỹ thuật Robot cần có kiến thức về điện, điện tử, tự động hóa, lập trình điều khiển, và an toàn công nghiệp để phục vụ yêu cầu thực tế trong các hệ thống Robot thông minh."
+"Sinh viên ngành Kỹ thuật Robot cần có khả năng tổng hợp và phân tích các vấn đề về kỹ thuật Robot, sử dụng thành thạo các công cụ phần mềm, phần cứng có liên quan trong lĩnh vực để vận hành, thiết"
+"Sinh viên tốt nghiệp ngành Kỹ thuật Robot cần thể hiện ý thức phục vụ cộng đồng, có sức khỏe đáp ứng yêu cầu xây dựng và bảo vệ tổ quốc. Điều này được nêu rõ trong Mục tiêu cụ thể PO1 của"
+"Sinh viên tốt nghiệp ngành Kỹ thuật Robot cần có phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin,"
+"Sinh viên tốt nghiệp ngành Kỹ thuật Robot có thể học sau đại học chuyên ngành Kỹ thuật Robot, Kỹ thuật điện tử, Kỹ thuật viễn thông, Kỹ thuật cơ điện tử, Kỹ thuật điều khiển và tự"
+Không biết
+Không có thông tin cụ thể về kỹ năng cần có trong công việc nhóm của sinh viên ngành Kỹ thuật Robot trong ngữ cảnh được cung cấp. 
+Tôi không biết
+"Chương trình đào tạo chất lượng cao theo thông tư 23 của Trường Đại học Công nghệ là ""Hệ thống thông tin"" (Information Systems)."
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu chất lượng cao của Trường Đại học Công nghệ có thể tiếp tục học tập lên các chương trình đào tạo sau đại học tại các Trường Đại học trong và ngoài nước;
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu chất lượng cao của Trường Đại học Công nghệ có thể làm công việc quản trị viên đối với các hệ thống/dịch vụ mạng cho các doanh nghiệp, tổ chức"
+Không biết
+Không biết
+"PLO1.5. Áp dụng kiến thức chuyên ngành tiên tiến theo một trong ba định hướng: Quản trị và an ninh mạng, Phát triển ứng dụng Internet và Điện toán đám mây, Truyền thông dữ liệu để đánh giá"
+- Có kỹ năng làm việc độc lập hoặc theo nhóm
+- Trung thực;
+Không biết
+"Mục tiêu của chương trình đào tạo ngành Mạng máy tính và truyền thông dữ liệu chất lượng cao (CLC) của Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội (ĐHQGHN) là:"
+- Tiếng Việt: Kỹ sư Mạng máy tính và Truyền thông dữ liệu
+Không biết
+Không biết
+Tôi không biết
+Information Technology
+Không biết
+Văn bằng tốt nghiệp ngành Công nghệ nông nghiệp là Kỹ sư ngành Công nghệ nông nghiệp. 
+"Thời gian đào tạo ngành Công nghệ nông nghiệp là 4,5 năm. "
+"4,5 năm"
+Mục tiêu chung của chương trình đào tạo ngành Công nghệ nông nghiệp là:
+"Kỹ sư ngành Công nghệ Nông nghiệp có thể làm việc ở các doanh nghiệp, cơ quan nhà nước và các tổ chức quốc tế về nông nghiệp, nông nghiệp công nghệ cao, công nghệ hoặc khởi nghiệp. "
+Không biết
+"4,5 năm"
+"Có, ngành Công nghệ nông nghiệp là chương trình đào tạo thí điểm với mã số 7519002. "
+"Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội đào tạo các ngành học hiện đại đáp ứng nhu cầu phát triển nguồn nhân lực trong bối cảnh cách mạng công nghiệp lần thứ tư, bao gồm các ngành thuộc các lĩnh vực công"
+1. Chuẩn đầu ra về kiến thức:
+Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu có thể học lên các bậc học sau:
+"Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu cần có kiến thức cơ bản về lĩnh vực Mạng máy tính và truyền thông dữ liệu, bao gồm:"
+- Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông;
+"- Quản trị viên đối với các hệ thống/dịch vụ mạng cho các doanh nghiệp, tổ chức nhà nước, các nhà cung cấp dịch vụ. "
+- Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông
+- Chuyên viên về an ninh/an toàn hệ thống mạng và truyền thông;
+- Chuyên viên tư vấn dịch vụ Công nghệ thông tin và truyền thông;
+Không biết
+Không biết
+Có
+"Sinh viên tốt nghiệp ngành Mạng máy tính và truyền thông dữ liệu cần có kiến thức chuyên ngành tiên tiến về Mạng và truyền thông máy tính, đáp ứng yêu cầu về nghiên cứu, ứng dụng trong lĩnh vực mạng và truyền thông máy"
+- Tư duy logic tốt
+University of Engineering and Technology
+Tổng số tín chỉ của chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ là 159 tín chỉ.
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng với các khối kiến thức chung như sau:
+17 tín chỉ hoặc 19 tín chỉ hoặc 22 tín chỉ
+15
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng với tổng số tín chỉ là 150 tín chỉ.
+Không biết
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Information Technology
+Computer Networks and Data Communications
+"4,5 năm"
+Danh hiệu tốt nghiệp của ngành Mạng máy tính và Truyền thông dữ liệu là Kỹ sư. 
+"Thời gian đào tạo ngành Mạng máy tính và Truyền thông dữ liệu là 4,5 năm. "
+The Degree of Engineer in
++ Tiếng Việt: Kỹ sư Mạng máy tính và Truyền thông dữ liệu
+"Mục tiêu chung của chương trình đào tạo ngành Mạng máy tính và Truyền thông dữ liệu (MMT&TTDL) chất lượng cao (CLC) tại Trường ĐHCN, ĐHQGHN là:"
+- Kiến thức lý thuyết chuyên sâu trong lĩnh vực CNTT
+- Phẩm chất chính trị
+"- Sinh viên ngành Mạng máy tính và Truyền thông dữ liệu có phẩm chất chính trị, đạo đức nghề nghiệp."
+"Sinh viên ngành Mạng máy tính và Truyền thông dữ liệu có khả năng làm việc ở nhiều vị trí khác nhau trong các đơn vị, doanh nghiệp phát triển và ứng dụng CNTT hàng đầu trong nước. "
+"Trường Đại học Công nghệ dựa vào Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng"
+4
+– Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông;
+"PO4: Có trình độ ngoại ngữ và công nghệ thông tin tốt, có khả năng hội nhập quốc tế."
+"- Kiến thức cơ bản về Khoa học Máy tính như cơ sở toán, lập trình, cấu trúc dữ liệu và giải thuật, học máy, khoa học dữ liệu và trí tuệ nhân tạo."
+"Toán học là một phần quan trọng trong chương trình đào tạo ngành Khoa học Máy tính tại Trường Đại học Công nghệ. Sinh viên sẽ được trang bị các kiến thức cơ bản về toán học, bao gồm:"
+Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần trang bị kiến thức về lập trình với nhiều ngôn ngữ và môi trường lập trình tiên tiến. Điều này được thể hiện qua việc sinh viên được chú trọng
+"- Cán bộ thiết kế, phát triển và bảo trì các hệ thống trí tuệ nhân tạo và khoa học dữ liệu."
+- Trưởng nhóm phát triển phần mềm
+"Có, sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần trang bị kỹ năng làm việc nhóm. Điều này được thể hiện rõ trong phần ""Về thái độ"" của chương trình đào tạo, nơi nhấn"
+"Có, sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần trang bị kỹ năng giao tiếp. Điều này được nêu rõ trong phần ""Về thái độ"" của chương trình đào tạo, cụ thể"
+- Trung thực
+- Trách nhiệm với công việc
+Không biết
+Không biết
+Không biết
+Có
+Tôi không biết
+Tổng số tín chỉ của chương trình đào tạo ngành Cơ kỹ thuật tại Trường Đại học Công nghệ là 155 tín chỉ. 
+""
+Khối kiến thức theo lĩnh vực của ngành Cơ kỹ thuật tại Trường Đại học Công nghệ chiếm 22 tín chỉ (theo ngữ cảnh đầu tiên) hoặc 19 tín chỉ (theo ngữ cảnh thứ hai). 
+155 tín
+155 tín
+6 tín chỉ
+Tôi không biết
+Tôi không biết
+155 tín chỉ (the
+Tôi không biết
+Không biết
+Không biết
+Không biết
+Không
+Có
+Đại học Quốc gia Singapore (NUS) 
+Chương trình trao đổi sinh viên/học viên kỳ mùa Thu 2025 tại Đại học Kyoto bao gồm các chương trình sau:
+Thời gian học của chương trình trao đổi sinh viên tại Đại học Kyoto bắt đầu từ tháng 4 năm 2025. 
+Có
+"Theo ngữ cảnh được cung cấp, để tham gia chương trình KUINEP, sinh viên cần có điểm trung bình chung tích lũy (GPA) đạt từ 3.0 trở lên (thang điểm"
+"- Đối với chương trình KUINEP, chứng chỉ tiếng Anh tối thiểu để tham gia là TOEFL (iBT) 92 hoặc IELTS 6.5 hoặc TOEIC 900."
+Có
+79 (IBT) hoặc tương đương
+- Đơn đăng ký tham dự chương trình của ĐHQGHN (mẫu trong tài liệu kèm theo);
+"Phòng Công tác sinh viên (Phòng 104-Nhà E3) trước 09h00, thứ Hai, ngày 23/09/2024. "
+Không biết
+A: Sinh viên có thể tìm hiểu thông tin chi tiết về chương trình trao đổi sinh viên tại Đại học Kyoto thông qua website: https://www.kyoto-u.ac.jp/en/education-campus/education-andadmissions/non-degree-pro
+- Sinh viên lưu các tài liệu thành từng file PDF để hoàn thiện hồ sơ online.
+Sinh viên nên đặt tên file tài liệu theo mẫu: *Tên sinh viên_Tên file*. Ví dụ: “NguyenHaLinh_Academic Transcript” để gửi đối tác khi có yêu cầu. 
+152 tín chỉ
+21 tín chỉ
+22 tín chỉ
+4 năm
+4 năm
+4 năm
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Có
+Không biết
+"Sinh viên ngành Kỹ thuật Máy tính cần có kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang. Họ cũng cần hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong"
+Có
+Không biết
+Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có kiến thức chuyên sâu về các lĩnh vực sau:
+Không biết
+- Sinh viên ngành Kỹ thuật Máy tính cần có hiểu biết và khả năng áp dụng kiến thức chuyên sâu và kiến thức thực tế để giải quyết công việc phức tạp của lĩnh vực Kỹ thuật máy tính (PO2).
+Có
+Không biết
+Không có thông tin cụ thể về các cơ sở nghiên cứu mà sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể làm việc. Thông tin được cung cấp chỉ đề cập đến các vị trí công tác có thể đảm nhận sau khi tốt
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính có thể học lên bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên cứu triển khai các ứng dụng của ngành K"
+"Có, sinh viên tốt nghiệp ngành Kỹ thuật Máy tính cần tuân thủ luật pháp. Theo ngữ cảnh cung cấp, sinh viên tốt nghiệp chương trình đào tạo có kiến thức quản lý, điều hành, kiến thức pháp luật liên quan"
+4 năm
+4 năm
+148
+""
+10 tín chỉ
+136 tín chỉ
+136 tín chỉ
+9 tín chỉ
+10 tín chỉ
+8 tín chỉ
+Không biết
+Không biết
+PHI1004
+Tôi không biết
+INT2210
+""
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng với các khối kiến thức chung như sau:
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng với tổng số tín chỉ là 150 tín chỉ.
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+A: 1.3. Kiến thức theo khối ngành
+V
+V
+Không biết
+Không biết
+CTE3018 | Thiết kế nhà bê tông cốt thépDesign of reinforced concrete constructions | 2 | 20 | 10 |  | CTE4008
+A
+Information Technology
+信息工程
+INT3401E
+Cử nhân ngành Trí tuệ nhân tạo
+Thời gian đào tạo ngành Trí tuệ nhân tạo là 4 năm. 
+Cử nhân ngành Trí tuệ nhân tạo. 
+Cử nhân ngành Trí tuệ nhân
+"Mục tiêu chung của chương trình Trí tuệ nhân tạo tại Trường Đại học Công nghệ, ĐHQGHN là đào tạo nguồn nhân lực đại học có trình độ cao về chuyên môn, có năng lực phát triển các hệ thống"
+Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+Có
+Không biết
+Sinh viên ngành Trí tuệ nhân tạo được trang bị các kiến thức và kỹ năng sau:
+Sinh viên ngành Trí tuệ nhân tạo được đào tạo những kỹ năng bổ trợ sau:
+"Đội ngũ giảng viên của chương trình Trí tuệ nhân tạo của Trường Đại học Công nghệ bao gồm những người có trình độ cao và kinh nghiệm trong lĩnh vực này. Cụ thể, họ là giảng viên về nhóm ngành"
+Không biết
+Materials and Microelectronics Engineering
+7510402
+Không có thông tin trong ngữ cảnh.
+4 năm
+Danh hiệu tốt nghiệp của chương trình đào tạo Công nghệ Vật liệu và Vi điện tử là Kỹ sư. 
+Không biết
+Văn bằng sau tốt nghiệp của ngành Công nghệ Vật liệu bằng tiếng Việt là Kỹ sư ngành Công nghệ vật liệu. 
+Văn bằng sau tốt nghiệp của ngành Công nghệ Vật liệu bằng tiếng Anh là The Degree of Engineer in Materials Engineering. 
+Trường Đại học Công nghệ tuyển sinh ngành Công nghệ Vật liệu và Vi điện tử thông qua hình thức xét tuyển dựa trên kết quả thi tốt nghiệp THPT và điểm xét tuyển vào đại học. 
+"Không có thông tin cụ thể về điều kiện học vấn của đối tượng tuyển sinh tại Trường Đại học Công nghệ trong ngữ cảnh được cung cấp. Do đó, tôi không thể đưa ra câu trả lời chính xác và đầy đủ dựa trên thông"
+Không biết
+Không biết
+Sinh viên tốt nghiệp chương trình Công nghệ Vật liệu và Vi điện tử có những kiến thức sau:
+"- Khả năng tổng hợp, phân tích và liên kết (4) kiến thức trong các lĩnh vực được đào tạo liên quan tới công nghệ vật liệu và vi điện tử để tham gia nghiên cứu, đánh giá và phát triển các hệ"
+Information Systems
+4 năm
++ Tiếng Việt: Cử nhân ngành Công nghệ kỹ thuật cơ điện tử
+Thời gian đào tạo ngành Công nghệ kỹ thuật cơ điện tử là 4 năm. 
+4 năm
+"Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật cơ điện tử được đào tạo theo định hướng toàn diện, bao gồm:"
+Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật cơ điện tử cần có kỹ năng thực hành cao thông qua việc tham gia Đồ án chuyên ngành Cơ điện tử và Khóa luận tốt nghiệp. Họ cũng được học tập và nghiên cứu
+Mục tiêu của chương trình đào tạo ngành Công nghệ kỹ thuật cơ điện tử là:
+"Để phù hợp với môi trường làm việc năng động, người học ngành Công nghệ kỹ thuật cơ điện tử cần có những năng lực sau:"
+Không biết
+Không có thông tin trong ngữ cảnh để trả lời câu hỏi này. 
+- Có khả năng phát hiện vấn đề và mối tương quan giữa các vấn đề trong lĩnh vực công nghệ cơ điện tử;
+"Trường Đại học Công nghệ tuân theo quy định của Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hàng năm của Trường Đại học Công nghệ. "
+"Trường Đại học Công nghệ tuân theo hướng dẫn của Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hàng năm của Trường Đại học Công nghệ. "
+4 năm  
+Không có thông tin trong ngữ cảnh.
+5 năm
+Kỹ sư ngành Cơ kỹ thuật
+Thời gian đào tạo ngành Cơ kỹ thuật tại Trường Đại học Công nghệ là 5 năm. 
+The Degree of Engineer in Engineering Mechanics
+Mục tiêu chung của chương trình đào tạo ngành Cơ kỹ thuật là:
+Chương trình đào tạo ngành Cơ kỹ thuật trang bị cho sinh viên các năng lực sau:
+- Đảm bảo sinh viên ra trường có:
+Hình thức tuyển sinh ngành Cơ kỹ thuật của Trường Đại học Công nghệ được thực hiện theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+4.5 năm
+Kỹ sư ngành Cơ kỹ thuật
+Tôi không biết
+"Có, sinh viên tốt nghiệp ngành Cơ Kỹ Thuật có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ Cơ điện tử, Tự động hóa, Cơ kỹ thuật; Nghiên cứu triển khai các"
+"Không có thông tin cụ thể về việc chương trình đào tạo ngành Cơ Kỹ thuật có cập nhật các tri thức công nghệ mới hay không trong ngữ cảnh được cung cấp. Do đó, tôi không thể đưa ra câu trả lời chính xác và"
+Information Technology
+信息工程
+"4,5 năm"
+Kỹ sư
+"Thời gian đào tạo ngành Kỹ thuật Máy tính là 4,5 năm. "
+Văn bằng sau tốt nghiệp ngành Kỹ thuật Máy tính có tên tiếng Việt là Kỹ sư ngành Kỹ thuật máy tính. 
+The Degree of Bachelor in Computer Science
+Chương trình đào tạo ngành Kỹ thuật Máy tính trang bị kiến thức chuyên môn trên những lĩnh vực sau:
+Mục tiêu của chương trình đào tạo ngành Kỹ thuật Máy tính là:
+"Sinh viên tốt nghiệp ngành Kỹ thuật Máy tính cần có hiểu biết về lĩnh vực CNTT nói chung, bao gồm các kiến thức nền tảng cơ bản và các kiến thức bổ sung như công nghệ phần mềm, cơ sở"
+- Có hiểu biết về khoa học cơ bản để tiếp nhận kiến thức mới và học tập suốt đời.
+"Theo thông tin trong ngữ cảnh, sinh viên tốt nghiệp ngành Kỹ thuật Máy tính cần có trình độ ngoại ngữ và công nghệ thông tin tốt, có khả năng hội nhập quốc tế (PO4). Cụ thể, họ cần:"
+"Trường Đại học Công nghệ dựa thông tin tuyển sinh của Trường Đại học Công nghệ dựa trên quy định của Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công"
+Trường Đại học Công nghệ (ĐHQGHN) đào tạo các ngành học hiện đại bao gồm:
+"Có, người tốt nghiệp ngành Kỹ thuật máy tính cần có phẩm chất đạo đức tốt. Theo ngữ cảnh cung cấp, phẩm chất đạo đức là một trong những yêu cầu quan trọng đối với sinh viên tốt nghiệp ngành Kỹ thuật máy"
+Không biết
+Không biết
+- Trang bị các kiến thức cơ bản và chuyên sâu về Công nghệ Thông tin.
+Không có thông tin cụ thể về kỹ năng tin học cần thiết cho sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao tại trường Đại học Công nghệ trong ngữ cảnh được cung cấp. 
+Không biết
+Không biết
+Không biết
+Tôi không biết
+Không có thông tin cụ thể về việc sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao tại trường Đại học Công nghệ có thể làm gì với ngôn ngữ lập trình trong ngữ cảnh được cung cấp. 
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao tại trường Đại học Công nghệ có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên"
+"Có, sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao tại trường Đại học Công nghệ cần có phẩm chất đạo đức sau:"
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể làm việc ở vị trí tham mưu tư vấn và kỹ sư trong lĩnh vực Công nghệ Thông tin, đáp ứng các yêu cầu cao về nghiên cứu"
+"Chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản trang bị kiến thức về văn hóa doanh nghiệp CNTT Nhật Bản để sinh viên có thể vận dụng vào thực tế. Cụ thể, sinh viên được tr"
+Không biết
+Tôi không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần có kỹ năng sử dụng ngoại ngữ tiếng Nhật để giao tiếp hiệu quả trong môi trường làm việc tại Nhật Bản. 
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể học tập nâng cao tại các cơ sở đào tạo trong nước và nước ngoài, đặc biệt là Nhật Bản. "
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần có phẩm chất đạo đức sau:
+Không có thông tin cụ thể về kỹ năng làm việc nhóm của sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản trong ngữ cảnh được cung cấp. 
+Sinh viên tốt nghiệp ngành Công
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần có kiến thức lý thuyết chuyên sâu về vật lý hiện đại, công nghệ nano và ứng dụng. Họ cũng cần nắm vững kỹ thuật và có kiến thức thực tế"
+- Làm việc độc lập
+Có khả năng làm việc độc
+Không có thông tin cụ thể về năng lực sáng tạo của sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản trong ngữ cảnh được cung cấp. 
+Không biết
+136 tín chỉ
+""
+Không biết
+Không biết
+Không biết
+Không biết
+Cấu trúc dữ liệu và giải thuậtData Structures and Algorithms | 4 | 45 | 30 | 125 | INT1008 | CSN Row 34: 28. | AIT2
+"Học phần ""Lập trình hướng đối tượng"" thuộc khối kiến thức chung theo nhóm ngành AI, DS trong chương trình đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ. "
+Không biết
+Không biết
+Không biết
+Khối kiến thức ngành | 51 |  |  |  |  | Row 37: V.1 | Các học phần bắt buộc | 12 |  |  |  |  | Row 38:
+Không biết
+Không biết
+Khóa luận tốt nghiệp (*) thuộc khối kiến thức chung (LLCT) trong chương trình đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ. 
+Trường Đại học Công nghệ đào tạo ngành Công nghệ Nông nghiệp 151 tín chỉ (theo chương trình đào tạo thí điểm). 
+Không biết
+"Sinh viên ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ cần có kiến thức về:"
+"Không có thông tin cụ thể về việc sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ cần có kiến thức về thực vật, động vật và lĩnh vực nào khác trong ngữ cảnh được cung cấp. "
+Không biết
+"Sinh viên ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ được trang bị kiến thức về hệ sinh thái nông nghiệp. Cụ thể, họ sẽ học về các định hướng chuyên ngành như hệ sinh thái nông nghiệp, đất can"
+Không biết
+"Theo ngữ cảnh được cung cấp, sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ có thể làm công việc liên quan đến giống cây trồng như sau:"
+"Sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ có thể đảm nhiệm vị trí cán bộ quản lý ở các Sở/Bộ Khoa học Công nghệ và Sở/Bộ Nông nghiệp và Phát triển Nông thôn"
+- Công nghệ nông nghiệp
+"- Thiết kế, lập trình, chế tạo, khai thác, vận hành, bảo trì các hệ thống thiết bị công nghệ sử dụng trong nông nghiệp và quản lý hệ thống nông nghiệp công nghệ cao dựa trên nền tảng kỹ thuật"
+"Sinh viên ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ cần có kỹ năng tư duy logic tốt, có năng lực sáng tạo để giải quyết các bài toán ứng dụng cụ thể, và có năng lực tự học để nắm bắt tri"
+"Không có thông tin cụ thể về kỹ năng nghiên cứu của sinh viên ngành Công nghệ Nông nghiệp, Trường Đại học Công nghệ trong ngữ cảnh được cung cấp. "
+Không biết
+- Trung thực
+Tổng số tín chỉ của chương trình đào tạo ngành Kỹ thuật điều khiển và tự động hóa là 150 tín chỉ. 
+""
+- Khối kiến thức theo lĩnh vực: 19 tín chỉ
+150 tín chỉ
+150 tín chỉ
+80 tín chỉ
+Tôi không biết.  
+PHI1006
+PHI1006
+Không biết
+Không biết
+Không biết
+Tôi không biết
+Không biết
+Không biết
+134 tín
+""
+""
+87
+10 tín
+Không biết
+Không biết
+Không biết
+A: Vật lý lượng tử thuộc khối kiến thức theo nhóm ngành trong chương trình đào tạo ngành Công nghệ Vật liệu của Trường Đại học Công nghệ. 
+Không biết
+"Học phần Vật liệu ứng dụng trong vi điện tử (EPN3075) là học phần bắt buộc thuộc chuyên sâu Công nghệ vật liệu của Trường Đại học Công nghệ. Điều này được xác nhận từ thông tin trong ngữ cảnh,"
+Học phần Công nghệ chế tạo pin mặt trời (EPN3055) là học phần tự chọn thuộc chuyên sâu Công nghệ vật liệu của Trường Đại học Công nghệ. 
+"Học phần Kỹ thuật CMOS (EPN3082) là học phần bắt buộc thuộc chuyên sâu Công nghệ vi điện tử của Trường Đại học Công nghệ. Điều này được xác nhận từ thông tin trong ngữ cảnh, cụ thể là"
+"Học phần Công nghệ vi cơ điện tử (EMA2028) là học phần bắt buộc thuộc chuyên sâu Công nghệ vi điện tử của Trường Đại học Công nghệ. Điều này được xác nhận từ thông tin trong ngữ cảnh, cụ thể là"
+Không biết
+151 tín chỉ
+21 tín chỉ
+22 tín chỉ
+10 tín chỉ
+10 tín chỉ
+22 tín chỉ
+Không biết
+A
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Trường Đại học Công nghệ – ĐHQGHN tổ chức đào tạo các ngành học hiện đại đáp ứng nhu cầu phát triển nguồn nhân lực trong bối cảnh cách mạng công nghiệp lần thứ tư bao gồm các ngành thuộc các lĩnh vực công nghệ
+Chương trình trao đổi sinh viên DiscoverNUS kỳ mùa Thu năm 2025 được tổ chức trực tiếp tại cơ sở đào tạo của Đại học Quốc gia Hà Nội. 
+983/ĐHQGHN-HT&PT
+Nhật Bản
+"Chương trình ""FINSPARK-Unleash your Maverick"" hướng đến đối tượng là các tài năng trẻ trong lĩnh vực tài chính, công nghệ và đổi mới sáng tạo. Mục đích của chương trình là nuôi dưỡng và kết nối các tài"
+"Trước 15h00,"
+"Chương trình trao đổi sinh viên/ học viên kỳ mùa Thu năm 2025 được tổ chức tại Đại học Kyoto, Nhật Bản. "
+Thời gian tham dự chương trình AsTW 20
+Từ ngày 17/2/2025 – 27/2/2025 
+Không biết
+A: 3861/ĐHQGHN-HT&PT
+Chương trình trao đổi sinh viên tại Đại học Waseda kỳ mùa Xuân trong năm 2025 được ĐHQGHN thông báo vào ngày 07/08/2024. 
+A: 3693/ĐHQGHN-ĐT
+Không biết
+- Kỹ năng chuyên môn
+"150 tín chỉ (không tính các học phần Giáo dục thể chất, Giáo dục quốc phòng - an ninh) "
+Không biết
+Chuẩn đầu ra về ngoại ngữ của sinh viên ngành Cơ kỹ thuật là:
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật sau khi ra trường có thể làm việc ở những lĩnh vực sau:
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật sau khi ra trường có thể làm việc ở những vị trí như sau:
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật có thể tiếp tục học ở bậc sau đại học các chuyên ngành thuộc lĩnh vực Cơ kỹ thuật và Nghiên cứu triển khai các ứng dụng của ngành cơ kỹ thuật trong thực tế.
+Kiến thức bổ trợ
+Sinh viên ngành Cơ kỹ thuật định hướng chuyên sâu về Thủy khí công nghiệp và môi trường sẽ:
+Sinh viên ngành Cơ kỹ thuật định hướng chuyên sâu về Cơ học kỹ thuật biển sẽ:
+- Biết phát hiện vấn đề và mối tương quan giữa các vấn đề trong lĩnh vực công nghệ cơ điện tử;
+Tôi không biết
+"Có, sinh viên tốt nghiệp ngành Cơ kỹ thuật cần kỹ năng quản lý dự án. Theo ngữ cảnh, họ có thể làm việc trong các vị trí như Kỹ sư kỹ thuật, thiết kế, quản lý nhóm, dự án, và cần"
+"- Trung thực, khách quan, thúc đẩy công bằng và nhân đạo"
+Sinh viên tốt nghiệp ngành Cơ khí kỹ thuật sau khi ra trường có thể làm việc ở những vị trí như sau:
+Không biết
+Cử nhân ngành Trí tuệ nhân tạo
+"Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Robot, Điều khiển và Tự động hóa, Điện tử – Viễn thông, Cơ Điện tử, Công nghệ"
+"Cán bộ thiết kế, phát triển và bảo trì các hệ thống trí tuệ nhân tạo và khoa học dữ liệu; Cán bộ nghiên cứu phát triển (R&D) tại các công ty, tập đoàn công nghệ; cán bộ quản"
+"Trợ giảng, giảng viên, nghiên cứu viên tại các trường đại học, viện nghiên cứu. "
+"Sinh viên ngành Trí tuệ nhân tạo cần có kỹ năng ngoại ngữ ở mức độ tương đương với yêu cầu của chương trình cao học Khoa học Cơ bản và Kỹ thuật, Cao học Khoa học Sáng tạo và"
+"Có, sinh viên ngành Trí tuệ nhân tạo cần kiến thức về khoa học xã hội. Theo ngữ cảnh, sinh viên được trang bị kiến thức tổng hợp về toán, khoa học tự nhiên, khoa học xã hội và"
+Không
+Có
+Tôi không biết
+"Có, sinh viên ngành Trí tuệ nhân tạo cần có khả năng làm việc độc lập. Điều này được nêu rõ trong ngữ cảnh: ""Sinh viên thuộc chương trình Trí tuệ nhân tạo sẽ được trang bị các kiến"
+"Có, sinh viên ngành Trí tuệ nhân tạo được trang bị các kỹ năng cần thiết để tự học, tự thích nghi và làm việc độc lập, phù hợp với xu hướng toàn cầu hóa và yêu cầu của thị trường lao động"
+"Có, sinh viên ngành Trí tuệ nhân tạo cần tuân thủ đạo đức nghề nghiệp. Theo ngữ cảnh, sinh viên tốt nghiệp ngành Trí tuệ nhân tạo có phẩm chất đạo đức cá nhân tốt, chuẩn mực trong lời nói"
+Có
+"Có, sinh viên ngành Trí tuệ nhân tạo cần phải có khả năng sử dụng các ngôn ngữ lập trình. Theo thông tin được cung cấp, sinh viên sẽ được trang bị ""Lập trình thành thạo một số ngôn ngữ"
+"Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ cần có kiến thức về nhiều lĩnh vực khoa học công nghệ, bao gồm:"
+Không biết
+Không có thông tin cụ thể trong ngữ cảnh về việc sinh viên ngành Công nghệ Hàng không Vũ trụ cần vận dụng kiến thức nào để học tập và nghiên cứu các học phần khác của các ngành kỹ thuật và công nghệ. 
+"Sinh viên ngành Công nghệ Hàng không Vũ trụ cần có khả năng phân tích và lập trình các ngôn ngữ lập trình nhúng trong hệ thống điều khiển, đặc biệt là các ngôn ngữ lập trình nhúng trong hệ thống điều khiển của thiết bị"
+"Sinh viên ngành Công nghệ Hàng không Vũ trụ cần hiểu và vận dụng được các phương pháp tính toán số trong kỹ thuật, bao gồm việc tính toán hoặc giải số các bài toán trong khoa học kỹ thuật trên máy tính. Cụ"
+"Sinh viên ngành Công nghệ Hàng không Vũ trụ cần nắm vững kiến thức cơ bản về kỹ thuật điện, điện tử thông dụng, bao gồm:"
+"Sinh viên ngành Công nghệ Hàng không Vũ trụ cần nắm được kiến thức cơ sở về nhiệt động lực học, các động cơ nhiệt, quy luật nhiệt động học cân bằng, và các định luật liên quan. "
+Sinh viên ngành Công nghệ Hàng không Vũ trụ cần có kiến thức cơ bản về hệ thống điều khiển để phân tích các yêu cầu và các yếu tố ảnh hưởng. 
+Tôi không biết
+Không biết
+"Thành thạo các kỹ năng về cơ khí chế tạo, động lực học và mô hình hóa mô phỏng các thiết bị và hoạt động trong kỹ thuật hàng không vũ trụ, phân tích dữ liệu và nhận dạng hệ thống. Thiết kế,"
+- Kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành Công nghệ Hàng không Vũ trụ trong những bối cảnh khác nhau.
+"- Kỹ sư thiết kế, chế tạo các thiết bị bay, vệ tinh"
+"Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể học nâng cao về lĩnh vực điều khiển thông qua các khóa học ngắn hạn như ""Điều khiển và Cơ khí Hàng không"". "
+"Sinh viên ngành Công nghệ Hàng không Vũ trụ sau khi tốt nghiệp có khả năng tự học và nâng cao trình độ chuyên môn thông qua việc tham gia các khóa học nâng cao ngắn hạn về Công nghệ thông tin, Điện tử Hàng"
+Information Technology
+7510302
+Cử nhân Công nghệ kỹ thuật Điện tử – Viễn thông (Chương trình đào tạo chất lượng cao) hoặc The Degree of Bachelor in Electronic and Communication Engineering Technology (Honors Program) 
+Thời gian đào tạo ngành Công nghệ kỹ thuật điện tử – viễn thông là 4 năm. 
+""
+"- Khả năng áp dụng các kiến thức nền tảng và chuyên ngành để phân tích, thiết kế, triển khai, cài đặt và quản trị các hệ thống/dịch vụ mạng và truyền thông dữ liệu;"
+"Theo thông tin được cung cấp trong ngữ cảnh, sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – viễn thông cần có trình độ ngoại ngữ và công nghệ thông tin tốt, có khả năng hội nhập quốc tế. Cụ thể"
+"Trường Đại học Công nghệ tuyển sinh dựa trên Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo, hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ."
+Electronics and Communications Engineering Technology
+Mục tiêu của chương trình đào tạo ngành Công nghệ Kỹ thuật Điện tử - Viễn thông bao gồm:
+- Có hiểu biết về khoa học cơ bản để tiếp nhận kiến thức mới và học tập suốt đời.
+"Có, sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần kiến thức về khoa học cơ bản. Theo thông tin được cung cấp, sinh viên tốt nghiệp chương trình đào tạo có hiểu biết về khoa"
+Không biết
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+"Có, sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điện tử - Viễn thông cần có khả năng tự nghiên cứu khoa học. Điều này được thể hiện qua các yêu cầu về kỹ năng học tập và nâng cao trình độ sau"
+152 tín chỉ
+26 tín chỉ
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Tổng số tín chỉ của chương trình đào tạo ngành Kỹ thuật Năng lượng tại Trường Đại học Công nghệ là 150 tín chỉ.
+21 tín chỉ
+"- Đối với chương trình đào tạo ngành Kỹ thuật Năng lượng tại Trường Đại học Công nghệ, tổng số tín chỉ của chương trình là 156 tín chỉ (theo ngữ cảnh đầu tiên)."
+"- Đối với chương trình đào tạo ngành Kỹ thuật năng lượng (khóa 7) tại Trường Đại học Công nghệ, sinh viên phải hoàn thành 37 tín chỉ học phần bắt buộc thuộc khối kiến thức ngành (không tính các"
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Chương trình đào tạo ngành Cơ kỹ thuật - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+"Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+150 tín chỉ (chưa tính các học phần Giáo dục
+Sinh viên tốt nghiệp chương trình Kỹ thuật Robot sẽ nhận bằng Kỹ sư ngành Kỹ thuật Robot (tên tiếng Việt) hoặc The Degree of Engineer in Robotics Engineering (tên tiếng Anh). 
+"Chương trình đào tạo ngành Kỹ thuật Robot yêu cầu 150 tín chỉ, chưa tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, và kỹ năng bổ trợ. "
+19 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Học phần Nhập môn lập trình Robot (RBE1002) thuộc khối kiến thức CNTT (Khoa học và Công nghệ thông tin) của chương trình Kỹ thuật Robot. 
+Không biết
+A: Khối kiến thức CNTT
+150 tín chỉ
+Không có thông tin trong ngữ cảnh.
+4 năm
+Cử nhân ngành Vật lý kỹ thuật
+Thời gian đào tạo ngành Vật lý kỹ thuật là 4 năm. 
+Engineering Physics
+"Trường Đại học Công nghệ đào tạo cử nhân ngành Vật lý kỹ thuật theo hướng công nghệ nano và công nghệ ứng dụng trong các lĩnh vực vật liệu mới, vi điện tử, đo lường, y sinh và môi trường, vật liệu"
+Cử nhân tốt nghiệp ngành Vật lý kỹ thuật có thể làm việc trong các lĩnh vực sau:
+Hình thức tuyển sinh của Trường Đại học Công nghệ là theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+Engineering Physics
+156 tín chỉ
+29 tín chỉ
+156
+156
+156
+76 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Môn học ""Giới thiệu về Khoa học Vật liệu"" (Introduction to Materials Science) thuộc khối kiến thức theo nhóm ngành, cụ thể là môn học EPN2029, nằm trong nhóm ngành 24 với"
+Không biết
+a. Định hướng chuyên sâu về Cơ điện tử
+32 tín chỉ
+"Chương trình đào tạo ngành Kỹ thuật năng lượng tại Trường Đại học Công nghệ yêu cầu tổng cộng 150 tín chỉ, chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng – An ninh và Kỹ năng bổ"
+"- Khối kiến thức chung trong chương trình đào tạo ngành Kỹ thuật năng lượng tại Trường Đại học Công nghệ chiếm 21 tín chỉ (không tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ"
+- Khối kiến thức theo lĩnh vực: 19 tín chỉ
+- Khối kiến thức theo khối ngành và nhóm ngành: 38 tín chỉ
+- Khối kiến thức ngành: 38 tín chỉ
+"- Đối với chương trình đào tạo ngành Kỹ thuật năng lượng (khóa 7) tại Trường Đại học Công nghệ, sinh viên phải hoàn thành 37 tín chỉ thuộc khối kiến thức ngành (không bao gồm các học phần"
+Không biết
+Không biết
+| Mã số học phần tiên quyết
+Không biết
+Không biết
+Không có thông tin về các chuyên ngành cụ thể của ngành Kỹ thuật năng lượng tại Trường Đại học Công nghệ trong ngữ cảnh được cung cấp. 
+Tôi không biết
+Không biết
+Không biết
+Trường Đại học Công nghệ – ĐHQGHN thông báo về chương trình học bổng K – T năm học 2024-2025. Thông tin chi tiết về học bổng dành cho sinh viên đại học hệ chính
+Học bổng K-T dành cho sinh viên hệ chính quy của Trường Đại học Công nghệ. 
+Không biết
+Không biết
+Không biết
+Giá trị của một suất học bổng K-T tại Trường Đại học Công nghệ là 60.000.000 đồng/khóa học cho nghiên cứu sinh từ thạc sĩ và 80.000.
+Không biết
+"Sinh viên nộp hồ sơ học bổng K-T bản gốc tại địa chỉ: Phòng Công tác sinh viên (P.104-E3), trường ĐH Công nghệ, ĐHQGHN, 144 Xuân Thủy,"
+hang
+"- Tất cả các giấy tờ trên yêu cầu xếp theo thứ tự, đựng trong túi hồ sơ riêng có kích thước 25cm x 34cm."
+Không biết
+Không biết
+Hồ sơ đăng ký học bổng K-T cần được đựng trong túi hồ sơ có kích thước 25cm x 34cm. 
+Không biết
+https://forms.gle/wRVC9Qw2vrXreC5j6
+158 tín chỉ
+34 tín chỉ
+22 tín chỉ
+10 tín chỉ
+22 tín chỉ
+Không biết
+Không biết
+"- Học phần ""Giải tích 1"" thuộc khối kiến thức chung theo lĩnh vực của ngành Khoa học máy tính (CLC TT23) tại Trường Đại học Công nghệ. "
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+156 tín chỉ
+"- Đối với chương trình đào tạo ngành Công nghệ Hàng không Vũ trụ, Trường Đại học Công nghệ, khối kiến thức chung trong ĐHQGHN là 29 tín chỉ (chưa tính GDTC, GDQP-AN và kỹ"
+21 tín chỉ
+12 tín chỉ
+32 tín chỉ
+76 tín chỉ
+76 tín chỉ
+76 tín chỉ
+76 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+02/05/1985
+Không biết
+Không biết
+Kỹ thuật điện tử
+4 năm
+4 năm
+Nghiên cứu phát triển hệ thống truyền thông băng tần S cho trạm mặt đất kết nối với vệ tinh quỹ đạo thấp NanoSatellite
+Không biết
+Không biết
+"Có, theo quyết định số 2254/QĐ-ĐHQG, ngày 17 tháng 10 năm 2024 của Hiệu trưởng Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội,"
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+- Kiến thức lý thuyết chuyên sâu trong lĩnh vực CNTT
+Không biết
+- Có khả năng tham mưu tư vấn
+Có
+- Phẩm chất đạo đức cá nhân:
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có thể làm những công việc sau:
+"Có, sinh viên tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ có thể tiếp tục học tập lên các chương trình đào tạo sau đại học tại các Trường đại học trong và ngoài nước. Điều này giúp sinh viên nâng cao"
+- Lập trình viên hệ thống và cơ sở dữ liệu
+Không biết
+Sinh viên tốt nghiệp ngành
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần có kỹ năng giao tiếp tốt. Cụ thể, họ cần có khả năng làm việc theo nhóm, giao tiếp hiệu quả với đồng nghiệp và khách"
+"Có, sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ có cần kỹ năng quản lý. Theo ngữ cảnh, sinh viên tốt nghiệp có khả năng phát triển lên trưởng nhóm phát triển phần mềm, quản lý hệ thống thông"
+"Có, sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ cần kiến thức về Vật lý. Theo ngữ cảnh, sinh viên tốt nghiệp chương trình đào tạo có kiến thức lý thuyết chuyên sâu về vật lý hiện đại,"
+- Trách nhiệm với xã hội
+"Có năng lực làm việc độc lập, thích nghi với các môi trường làm việc khác nhau; tự học tập, tích lũy kiến thức, kinh nghiệm để nâng cao trình độ chuyên môn nghiệp vụ; Có khả năng tự định"
+Trường Đại học Công nghệ ĐHQGHN đào tạo các ngành sau:
+124 tín chỉ
+16 tín chỉ
+13
+"- Đối với chương trình đào tạo ngành Trí tuệ nhân tạo tại Trường Đại học Công nghệ, số tín chỉ của khối kiến thức theo khối ngành là 10 tín chỉ."
+9 tín chỉ
+Không biết
+Không biết
+3 tín chỉ
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Chương trình đào tạo ngành Công nghệ thông tin - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+Tổng số tín chỉ của chương trình
+"Sinh viên tốt nghiệp chương trình Công nghệ vật liệu và Vi điện tử có thể làm cán bộ kỹ thuật trong lĩnh vực vật liệu, điện tử và vi điện tử, đáp ứng nhu cầu thị trường và khách hàng. Họ cũng có thể th"
+""
+"Sinh viên tốt nghiệp chương trình Công nghệ vật liệu và Vi điện tử có thể học lên bậc học thạc sĩ hoặc tiến sĩ trong các lĩnh vực về Vật liệu và linh kiện micro-nano, Vật lý chất rắn,"
+"Theo thông tin được cung cấp trong ngữ cảnh, sinh viên tốt nghiệp chương trình Công nghệ vật liệu và Vi điện tử cần có trình độ tiếng Anh tương đương năng lực ngoại ngữ bậc 3/6 trong Khung năng lực ngoại ngữ"
+Vận dụng (3) được kiến
+Chuẩn đầu ra PLO7 của chương trình Công nghệ vật liệu và Vi điện tử thể hiện kỹ năng:
+PHI1006
+A: INT1008
+ELT2030
+EPN3055
+A: EPN3077
+A
+PEC1008
+Không biết
+"URL: https://uet.vnu.edu.vn/dao-tao-dai-hoc/ Title: Đào tạo đại học - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+Trường Đại học Công nghệ trực thuộc Đại học Quốc gia Hà Nội. 
+Thời gian đào tạo
+Cử nhân ngành Công nghệ Thông tin
+Thời gian đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ là 4 năm. 
+4 năm
+Không biết
+Phương thức tuyển sinh của Trường Đại học Công nghệ là theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+""
+Không biết
+"- Sinh viên ngành Khoa học máy tính (CLC TT23) cần có kiến thức cơ bản về Khoa học Máy tính, bao gồm:"
+- Không biết
+"Không có thông tin cụ thể trong ngữ cảnh về việc sinh viên ngành Khoa học máy tính (CLC TT23) có cần phải có kiến thức làm dự án thực trong môi trường doanh nghiệp hay không. Tuy nhiên, dự"
+- Có hiểu biết về khoa học cơ bản để tiếp nhận kiến thức mới và học tập suốt đời.
+PO1: Có hiểu biết về khoa học cơ bản để tiếp nhận kiến thức mới và học tập suốt đời.
+- Trung thực
+- Trung thực
+Không biết
+Tôi không biết
+Sinh viên tốt nghiệp ngành Khoa học máy tính (CLC TT23) có khả năng học tập nâng cao trình độ như sau:
+Không biết
+Không biết
+"Sinh viên ngành Khoa học máy tính (CLC TT23) cần có kiến thức về Toán rời rạc để xây dựng các thuật toán, tối ưu các giải pháp trong công nghệ. "
+"144 Xuân Thuỷ, Cầu Giấy, Hà Nội"
+4 năm
+Không biết
+Không biết
+Không biết
+Không biết
+Có
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không có thông tin cụ thể về tên ngành đào tạo được nhắc đến trong văn bản. Văn bản chỉ đề cập đến các lĩnh vực đào tạo mà không nêu rõ tên ngành cụ thể. 
+"4,5 năm"
++ Tên tiếng Việt: Kỹ sư ngành Kỹ thuật Robot
+"4,5 năm"
+4 năm
+Mục tiêu chung của chương trình đào tạo ngành Kỹ thuật Robot là:
+"Kỹ sư ngành Kỹ thuật Robot có thể làm việc tại các cơ sở nghiên cứu, thiết kế, các tổ chức, doanh nghiệp, khu công nghiệp thuộc các lĩnh vực: Robot, Điều khiển và Tự động hóa, Điện,"
+"Sinh viên ngành Kỹ thuật Robot cần có phẩm chất chính trị tốt, ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền"
+"- Sinh viên tốt nghiệp ngành Kỹ thuật Robot cần có khả năng vận dụng các kiến thức được học để phân tích, khai thác cũng như thiết kế các hệ thống robot và các hệ thống điều khiển tự động hóa trên nền tảng"
+"- Vận dụng các kiến thức cơ bản về toán và ngành Kỹ thuật Robot bao gồm cơ khí, lập trình điều khiển, xử lý tín hiệu, thiết kế hệ thống và các kỹ năng để giải quyết các vấn đề liên quan"
+Thời gian đào tạo ngành Kỹ
+Theo quy định của Đại học Quốc Gia Hà Nội (ĐHQGHN). 
+Theo quy định của Đại học Quốc gia Hà Nội (ĐHQGHN). 
+"4,5 năm"
+Không biết
+Không biết
+Không biết
+Không biết
+"Sinh viên ngành Truyền thông và Mạng máy tính cần nắm vững kiến thức về cấu trúc dữ liệu. Cụ thể, theo ngữ cảnh cung cấp, sinh viên ngành MMT&TTDL cần trang bị kiến thức cơ sở"
+Không biết
+Tôi không biết
+Sinh viên ngành Truyền thông và Mạng máy tính cần có kiến thức chuyên sâu về:
+"Sinh viên ngành Truyền thông và Mạng máy tính cần có kiến thức chuyên sâu về các phương thức truyền thông di động, truyền thông vô tuyến, truyền thông quang, các cơ chế truyền thông kỹ thuật số và các phương thức mã hóa"
+- Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông;
+"- Tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông."
+Sinh viên tốt nghiệp ngành Truyền thông và Mạng máy tính cần có các phẩm chất đạo đức sau:
+Không biết
+- Tư duy logic tốt
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng của Trường Đại học Công nghệ có kiến thức chuyên sâu về kỹ thuật xây dựng, bao gồm cả nội tại trong lĩnh vực kỹ thuật xây dựng và tích hợp kiến thức về"
+"Sinh viên ngành Công nghệ Kỹ thuật Xây dựng của Trường Đại học Công nghệ cần tích lũy 150 tín chỉ, bao gồm:"
+Không biết
+Không biết
+"- Nắm vững, hiểu và áp dụng các kiến thức cơ bản về cơ học kỹ thuật như: cơ học vật rắn biến dạng, sức bền vật liệu, cơ học kết cấu, thủy lực, cơ học đất,..;"
+Không biết
+"- Lập đề cương khảo sát, triển khai hồ sơ thiết kế, lập dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự thầu các công trình xây dựng, giao thông."
+- Kỹ năng lập đề cương khảo sát
+Không biết
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng của Trường Đại học Công nghệ có thể làm việc ở vị trí sau khi tốt nghiệp:
+Không biết
+"Sinh viên tốt nghiệp có thể học tiếp chương trình thạc sĩ, nghiên cứu sinh tại các cơ sở đào tạo trong nước cũng như các trường đại học nước ngoài về lĩnh vực Xây dựng và Quản lý Xây dựng như: Kỹ"
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng của Trường Đại học Công nghệ có thể học sau đại học chuyên sâu về các lĩnh vực sau:
+Không biết
+158 tín chỉ
+21 tín chỉ
+15
+10 tín chỉ
+""
+10 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Tổng số tín chỉ của chương trình đào tạo ngành Mạng máy tính và truyền thông dữ liệu tại Trường Đại học Công nghệ là 165 tín chỉ. 
+21 tín chỉ
+A: PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Tổng số tín chỉ của chương trình đào tạo ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ là 135 tín chỉ.
+""
+19 tín chỉ
+11 tín chỉ
+12 tín chỉ
+67 tín chỉ
+67 tín chỉ
+Không biết
+134 tín
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+""
+4 năm
+52510302
+"Trình độ đào tạo của ngành Công nghệ Kỹ thuật Điện tử, Truyền thông tại Trường Đại học Công nghệ là Cử nhân. Thời gian đào tạo là 4 năm. "
+"Thời gian đào tạo ngành Công nghệ Kỹ thuật Điện tử, Truyền thông tại Trường Đại học Công nghệ là 4 năm. "
++ Tiếng Việt: Cử nhân Công nghệ kỹ thuật Điện tử – Viễn thông
+"Hình thức tuyển sinh ngành Công nghệ Kỹ thuật Điện tử, Truyền thông tại Trường Đại học Công nghệ theo quy định của Đại học Quốc gia Hà Nội. "
+Không biết
+Information Technology
+"4,5 năm"
+"4,5"
+Danh hiệu tốt nghiệp của sinh viên ngành Kỹ thuật năng lượng là Kỹ sư. 
+"Thời gian đào tạo ngành Kỹ thuật năng lượng của Trường Đại học Công nghệ là 4,5 năm. "
+The Degree of Engineer in Energy Engineering
+"4,5 năm"
+Kỹ sư tốt nghiệp ngành Kỹ thuật Năng lượng có thể đảm nhận các vị trí sau:
+"- Kiến thức lý thuyết chuyên sâu về năng lượng, năng lượng tái tạo, công nghệ kỹ thuật năng lượng và ứng dụng."
+Sinh viên tốt nghiệp ngành Kỹ thuật năng lượng cần có kỹ năng sau:
+"Mục tiêu MT4 của chương trình đào tạo ngành Kỹ thuật năng lượng là: Năng lực tự học, tự nghiên cứu, tích lũy kinh nghiệm để nâng cao trình độ. "
+Không biết
+Câu trả lời: Công nghệ Kỹ thuật Xây dựng
+Câu trả lời: Civil Engineering
+""
+Danh hiệu tốt nghiệp của sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ là Kỹ sư. 
+"Thời gian đào tạo ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ là 4,5 năm. "
+Kỹ sư ngành Công nghệ Kỹ thuật Xây dựng
+A: 4.
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ có thể làm việc ở các vị trí sau:
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ có thể đảm nhận các vị trí công tác sau:
+4 năm
+Không biết
+Không biết
+"- Có kiến thức và kỹ năng về tư vấn đầu tư xây dựng công trình: Lập đề cương khảo sát, triển khai hồ sơ thiết kế, lập dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự th"
+"- Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ được trang bị kiến thức về tư vấn đầu tư xây dựng công trình, bao gồm:"
+"- Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ được trang bị kiến thức về thi công và quản lý dự án xây dựng công trình, bao gồm:"
+Engineering Mechanics
+4.5 năm
+5
+A
+5 năm
+""
+4.5
+- Có khả năng vận dụng được các kiến thức cơ bản Cơ học Kỹ thuật trong các vấn đề Kỹ thuật đơn giản.
+Tôi không biết
+"Kỹ sư Cơ Kỹ thuật của Trường Đại học Công nghệ có khả năng làm việc tại các cơ sở nghiên cứu, thiết kế, các tổ chức sản xuất, kinh doanh trong các lĩnh vực: Cơ khí, Xây dựng,"
+PLO8: Có khả năng giao tiếp bằng tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam).
+Không biết
+"Theo Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ"
+"Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội đào tạo các ngành học hiện đại đáp ứng nhu cầu phát triển nguồn nhân lực trong bối cảnh cách mạng công nghiệp lần thứ tư, bao gồm các ngành thuộc các lĩnh vực công"
+Tôi không biết
+Không biết
+Không
+"Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – truyền thông có thể học tiếp lên bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên cứu triển khai các"
+Có trách nhiệm với công việc; Trung thành với tổ chức; Nhiệt tình và say mê với công việc. 
+Tôi không biết
+Không biết
+Không biết
+Có
+Có
+Có
+Không biết
+Tôi không biết
+Có
+Tổng số tín chỉ của chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản tại Trường Đại học Công nghệ là 153 tín chỉ. 
+35 tín chỉ
+- Khối kiến thức theo lĩnh vực: | 22 tín chỉ
+- Khối kiến thức theo lĩnh vực: | 22 tín chỉ
+- Khối kiến thức theo nhóm ngành của chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản tại Trường Đại học Công nghệ chiếm 22 tín chỉ.
+- 22 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Tôi không biết
+A: 539/UBND-KGVX ngày 19/02/2025  
+A: 480/SYT-NVY ngày 07/02/2025
+Không có thông tin trong ngữ cảnh về việc khuyến cáo người học nên làm gì khi đến nơi tập trung đông người. 
+Không biết
+"Không có thông tin trong ngữ cảnh về việc khuyến cáo người học nên làm gì hàng ngày để vệ sinh mũi, họng. "
+"Văn bản này khuyến cáo người học nên tập trung học tập để cải thiện kết quả trong học kỳ này, đồng thời gặp Giáo viên Chủ nhiệm để được tư vấn, hướng dẫn điều chỉnh cách học cho phù hợp, hiệu quả. Ngoài ra"
+Không có thông tin trong ngữ cảnh về việc khuyến cáo người học nên làm gì đối với các bệnh có vắc xin phòng bệnh. 
+"Không có thông tin cụ thể về việc khuyến cáo người học nên làm gì khi có biểu hiện bệnh như ho, sốt trong văn bản này. Văn bản chủ yếu tập trung vào việc phòng chống bệnh Cúm, Sởi và các"
+Trang tin điện tử của Cục Y tế dự phòng – Bộ Y tế được đề cập trong văn bản để lựa chọn tài liệu truyền thông về các bệnh truyền nhiễm. 
+https://vncdc.gov.vn/phong-chong-benh-truyen-nhiem-nc5611.html
+Người học nên thông báo ngay với phòng Công tác sinh viên nếu phát hiện sớm dịch bệnh trong nhà trường. 
+A: https://hanoicdc.gov.vn/612/video.html
+"Không có thông tin cụ thể về bệnh viện nào được khuyến cáo trong văn bản dành cho người học khi có biểu hiện bệnh. Văn bản chỉ đề cập đến việc thông báo cho phòng Công tác sinh viên nếu phát hiện dịch bệnh, nhưng không n"
+https://www.youtube.com/watch?v=xoSP63lHrZA&t=19s
+"Nhà trường đề nghị người học thực hiện 1 nội dung để phòng chống dịch bệnh, đó là:"
+"Trường Đại học Công nghệ, ĐHQGHN thông báo về định mức học phí và ban hành các quyết định thu học phí của các Học viên cao học/Nghiên cứu sinh trong học kỳ I năm học 2024-"
+Học viên cao học/Nghiên cứu sinh của Trường Đại học Công nghệ nộp học phí bằng hình thức tín chỉ. 
+21514
+2151409100
+4 năm
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Hậu quả của việc nợ học phí sau kỳ thi học kỳ tại Trường Đại học Công nghệ là:
+Không biết
+Không biết
+Các sinh viên thuộc diện cảnh báo học vụ và các sinh viên bị nhắc nhở vì kết quả học tập chưa tốt. 
+Học phí cần nộp được tính như sau:
+Không biết
+Không biết
+Toán học là một trong những môn học cơ bản và cần thiết trong ngành Kỹ thuật Robot. Sinh viên ngành Kỹ thuật Robot cần có kiến thức về toán học để có thể áp dụng các phương pháp toán học vào việc thiết kế
+"Sinh viên ngành Kỹ thuật Robot trường Đại học Công nghệ cần có khả năng vận dụng kiến thức về CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật, cụ thể là:"
+Không biết
+"Sinh viên ngành Kỹ thuật Robot trường Đại học Công nghệ cần vận dụng kiến thức cơ bản về điện, điện tử, tự động hóa, lập trình điều khiển, và an toàn công nghiệp để phục vụ yêu cầu thực tế trong các hệ"
+Có
+Không biết
+Sinh viên tốt nghiệp ngành Kỹ thuật Robot trường Đại học Công nghệ có thể làm việc tại các cơ sở sau:
+Có
+- Mức độ cơ bản: Sinh viên hiểu và biết được các kiến thức cơ bản và cần thiết của ngành Kỹ thuật Robot.
+"- Phẩm chất chính trị và đạo đức, ý thức phục vụ cộng đồng, có sức khỏe đáp ứng yêu cầu xây dựng và bảo vệ tổ quốc (PO1)"
+Không biết
+Sin
+"- Phẩm chất đạo đức cá nhân: Lễ độ, khiêm tốn, nhiệt tình, trung thực, kiên trì, linh hoạt, hiểu biết về bản thân, ham tìm hiểu và học tập suốt đời."
+Computer Science
+Khoa học Máy tính
+4 năm
+Cử nhân ngành Khoa học Máy tính (Chương trình đào tạo chất lượng cao) 
+Thời gian đào tạo ngành Khoa học Máy tính tại Trường Đại học Công nghệ là 4 năm. 
+Cử nhân ngành Khoa học Máy tính
+Cử nhân Khoa học Máy tính (Chương trình đào tạo chất lượng cao) 
+"Chương trình Khoa học Máy tính chất lượng cao của Trường Đại học Công nghệ tập trung vào việc đào tạo những sinh viên giỏi về chuyên môn và kỹ năng, đáp ứng nhu cầu sử dụng lao động CNTT của thị trường"
+Sinh viên ngành Khoa học Máy tính tại Trường Đại học Công nghệ được đào tạo chuyên sâu theo bốn định hướng chuyên sâu sau:
+Hình thức tuyển sinh ngành Khoa học Máy tính của Trường Đại học Công nghệ theo quy định của Đại học Quốc gia Hà Nội. 
+4 năm
+Không biết
+Không biết
+- Có hiểu biết về khoa học cơ bản để tiếp nhận kiến thức mới và học tập suốt đời (PO1).
+Có
+Tổng số tín chỉ của chương trình đào tạo ngành Cơ kỹ thuật là 155 tín chỉ (theo thông tin từ URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-co-ky-thuat
+"- Đối với chương trình đào tạo ngành Cơ kỹ thuật tại Trường Đại học Công nghệ, ĐHQGHN, khối kiến thức chung chiếm 21 tín chỉ (không tính các học phần Giáo dục thể chất, Giáo dục quốc phòng"
+11 tín chỉ
+155 tín chỉ (theo chương trình
+155 tín chỉ
+"- Đối với chương trình đào tạo ngành Cơ kỹ thuật tại Trường Đại học Công nghệ, ĐHQGHN (URL: https://uet.vnu.edu.vn/chuong-trinh-dao-tao-nganh-co-ky-thuat-15"
+Không biết
+Không biết
+Không biết
+V.1 | Khối kiến thức ngành | 90 |  |  |  |
+Không biết
+10 tín chỉ
+Không biết
+Không biết
+V.3.1.1.
+Information Technology
+- 52480201
+Không biết
+Thời gian đào tạo chương trình Công nghệ Thông tin là 4 năm. 
+""
+Chương trình đào tạo Công nghệ Thông tin định hướng tới thị trường Nhật Bản. 
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+"- Các kiến thức cơ bản, quan trọng và hiện đại về Công nghệ Thông tin và truyền thông, tập trung nhiều vào các quy trình xây dựng và triển khai các dự án phần mềm, quy trình tích hợp, quản lý và"
+Sinh viên tốt nghiệp chương trình Công nghệ Thông tin cần có kỹ năng sử dụng ngoại ngữ tiếng Nhật để giao tiếp hiệu quả trong môi trường doanh nghiệp CNTT nói chung và Nhật Bản nói riêng. 
+Hình thức tuyển sinh vào Trường Đại học Công nghệ được thực hiện theo quy định của Đại học Quốc gia Hà Nội. 
+Mục tiêu của chương trình đào tạo Công nghệ thông tin định hướng thị trường Nhật Bản của Trường Đại học Công nghệ là:
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin của Trường Đại học Công nghệ có thể tiếp tục học tập nâng cao ở các trường đại học trong và ngoài nước, hoặc tiếp tục nghiên cứu, thực hành trau dồi kỹ năng,"
+Cử nhân ngành Công nghệ Thông tin
+"Chương trình đào tạo ngành Công nghệ Thông tin của Trường Đại học Công nghệ tập trung nhiều vào các quy trình xây dựng và triển khai các dự án phần mềm, quy trình tích hợp, quản lý và vận hành các hệ thống thông tin"
+Nhật Bản
+Không biết
+Không biết
+Không biết
+Tôi không biết
+Không biết
+Không biết
+Bản sao bằng đại học (đối với thí sinh đăng ký chương trình sau đại học);  
+Không biết
+Chứng minh tài chính trong hồ sơ đăng ký chương trình trao đổi sinh viên cần được cấp sau ngày 01/01/2025. Số tiền phải lớn hơn 1.440.000
+Số tiền tối thiểu cần có trong chứng minh tài chính khi đăng ký trao đổi sinh viên một năm là 1.440.000 JPY. 
+Sinh viên năm thứ hai hoặc năm thứ ba được tham gia chương trình ngôn ngữ Nhật Bản bậc đại học. 
+Sinh viên tham gia chương trình ngôn ngữ Nhật Bản bậc đại học cần có điểm trung bình chung tích lũy tối thiểu là 2.5 (thang điểm 4). 
+Tôi
+- Cao học Khoa học Chính trị
+Không có thông tin trong ngữ cảnh.
+7520401
+Cử nhân ngành Vật lý kỹ thuật
+Thời gian đào tạo ngành Vật lý kỹ thuật là 4 năm. 
+Engineering Physics
+"Ngành Vật lý kỹ thuật đào tạo về các kiến thức và kỹ năng về vật lý hiện đại, công nghệ nano và ứng dụng trong các lĩnh vực vật liệu mới, vi điện tử, đo lường, y sinh và môi trường."
+Sinh viên tốt nghiệp ngành Vật lý kỹ thuật có thể làm việc ở những vị trí như sau:
+Không biết
+Engineering Physics
+"Cử nhân tốt nghiệp ngành Vật lý kỹ thuật có thể đảm nhận các vị trí về kỹ thuật, quản lý, chuyển giao và ứng dụng công nghệ, thiết kế, chế tạo, thử nghiệm thiết bị, công nghệ, hoặc sản"
+Mục tiêu của chương trình đào tạo ngành Vật lý kỹ thuật là:
+"Cử nhân ngành Vật lý kỹ thuật có khả năng học tập và nghiên cứu tiếp ở các bậc học cao hơn (thạc sĩ, tiến sĩ) thuộc các lĩnh vực về vật liệu và linh kiện micro-nano, vật lý"
+4 năm
+"Cử nhân ngành Vật lý Kỹ thuật có kiến thức về ứng dụng trong các lĩnh vực vật liệu mới, vi điện tử, đo lường, y sinh và môi trường. "
+4 năm
+23/07/1979
+"Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội"
+"Nghiên cứu sinh Vũ Xuân Mạnh bảo vệ luận án tiến sĩ ngành Khoa học Tự nhiên, cụ thể là ngành Công nghệ Thông tin (CNTT)."
+Không biết
+"Sinh ngày 23/07/1979 tại Thái Bình. Tên đề tài luận án: Nghiên cứu, thiết kế, chế tạo chip vi lỏng có gắn cảm biến dựa trên công nghệ MEM"
+"144 Xuân Thuỷ, Cầu Giấy, Hà Nội"
+"Đề tài luận án tiến sĩ của nghiên cứu sinh Vũ Xuân Mạnh là: Nghiên cứu, thiết kế, chế tạo chip vi lỏng có gắn cảm biến dựa trên công nghệ MEMS và hạt nano siêu thuận từ định hướng"
+"144 Xuân Thuỷ, Cầu Giấy, Hà Nội"
+Buổi bảo vệ luận án của NCS Vũ Xuân Mạnh thuộc cấp Đại học Quốc gia. 
+Thạc sỹ
+Trường Đại học Công nghệ trực thuộc Đại học Quốc gia Hà Nội (ĐHQGHN).
+"Bằng cách phân tích các thông báo được cung cấp, có thể thấy rằng các thông báo này được đăng tải bởi Tuyết Nga. Cụ thể, mỗi thông báo đều bắt đầu bằng ""Bởi Tuyết Nga"" hoặc"
+Phòng Đào tạo
+A: 4 năm
+"Thứ Hai, ngày 28/10/2"
+A: 539/UBND-KGVX ngày 19/02/2025  
+Phòng Công tác Sinh viên (CTSV) của Trường Đại học Công nghệ thông báo về kế hoạch đánh giá kết quả rèn luyện. 
+Phòng Đào tạo (ĐT) yêu cầu sinh viên kiểm tra kết quả học tập để xét tốt nghiệp. 
+Lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024 của Trường Đại học Công nghệ dành cho các đối tượng sau:
+Phòng Đào tạo thông báo về điểm rèn luyện của sinh viên. 
+A: Sinh viên thuộc khóa QH-2020 của hệ kỹ sư được thông báo điểm rèn luyện học kỳ I năm học 2024-2025. 
+Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần có kiến thức lý thuyết chuyên sâu trong lĩnh vực CNTT; nắm vững kỹ thuật và có kiến thức thực tế để có thể giải quyết các công việc
+"PO4: Có trình độ ngoại ngữ và công nghệ thông tin tốt, có khả năng hội nhập quốc tế."
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần nắm vững kiến thức về cấu trúc dữ liệu. Cụ thể, theo ngữ cảnh được cung cấp, sinh viên được trang bị các kiến thức"
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần có kỹ năng lập trình. Theo ngữ cảnh, sinh viên được trang bị kiến thức cơ bản về lập trình, cấu trúc dữ liệu và giải thuật,"
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần nắm vững kiến thức về trí tuệ nhân tạo thông qua các học phần lựa chọn, bao gồm các kiến thức về học máy, xử lý ngôn ngữ"
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ có khả năng làm việc tại nhiều vị trí việc làm thuộc lĩnh vực CNTT, đáp ứng các yêu cầu về nghiên cứu và ứng dụng CNTT trong"
+- Trưởng nhóm phát triển phần mềm
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ có thể tiếp tục học lên các chương trình đào tạo sau đại học tại các Trường Đại học trong và ngoài nước, hoặc tiếp tục nghiên cứu, thực hành tr"
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần có kỹ năng phát hiện và giải quyết vấn đề, tư duy, phản biện, sáng tạo. "
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính của Trường Đại học Công nghệ cần có kỹ năng nghiên cứu, xây dựng sản phẩm phục vụ cho mục đích khoa học hoặc đời sống. Điều này được nêu rõ trong phần năng lực"
+"Có kỹ năng tổng hợp dữ liệu và thông tin, tổng hợp ý kiến tập thể và sử dụng những thành tựu mới về khoa học công nghệ để giải quyết những vấn đề thực tế hay trừu tượng trong lĩnh vực được đào tạo;"
+- Trung thực
+- Trung thực
+- Trách nhiệm với xã hội
+134 tín chỉ hoặc 149 tín chỉ tùy theo chương trình đào tạo cụ thể. 
+21 tín chỉ
+13
+""
+""
+13
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+A: MAT1041
+Không biết
+Không biết
+Không biết
+""
+Tổng số tín chỉ của chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản tại Trường Đại học Công nghệ là 153 tín chỉ. 
+35 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Học phần Chuẩn kỹ năng của CNTTIT thuộc khối kiến thức chung trong chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản tại Trường Đại học Công nghệ. 
+Không biết
+Không biết
+Không biết
+Không biết
+Các sinh viên sẽ đến các doanh nghiệp CNTT Nhật Bản đối tác của Khoa để học tập và làm việc trong môi trường các dự án thực tế đang triển khai tại đơn vị. 
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN).
+"Phòng Công tác sinh viên (Phòng 104-Nhà E3) trước 09h00, thứ Hai, ngày 23/09/2024. "
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Chủ đề của diễn đàn giáo dục AUN lần thứ 20 là “Emancipatory Education as a Path towards an Emancipated Future”. 
+A: 17/09/2024
+"Có, sinh viên tự chi trả kinh phí vé máy bay khứ hồi Việt Nam – Indonesia, bảo hiểm du lịch và các chi phí còn lại. "
+Information Technology
+信息工程
+"4,5 năm"
+Kỹ sư
+"Thời gian đào tạo ngành Kỹ thuật máy tính là 4,5 năm. "
+The Degree of Engineer in Computer Engineering
++ Tiếng Việt: Cử nhân ngành Công nghệ Thông tin
+- Có hiểu biết và khả năng áp dụng kiến thức chuyên sâu và kiến thức thực tế để giải quyết quyết công việc phức tạp của lĩnh vực Kỹ thuật máy tính.
+Chương trình đào tạo kỹ sư ngành Kỹ thuật máy tính được xây dựng để đáp ứng linh hoạt với ba mức độ đầu ra của kỹ sư tốt nghiệp. 
+– Mức độ cơ bản : Sinh viên hiểu và biết được các kiến thức cơ bản và cần thiết của ngành Kỹ thuật Máy tính;
+Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. 
+Mục tiêu chung của chương trình đào tạo ngành Kỹ thuật máy tính là:
+"Sinh viên ở mức độ chuẩn của ngành Kỹ thuật máy tính có khả năng vận dụng các kiến thức được học để phân tích, khai thác cũng như thiết kế máy tính và các hệ thống được xây dựng trên nền máy tính."
+"Sinh viên ở mức độ nâng cao của ngành Kỹ thuật máy tính có khả năng phát triển các kiến thức của ngành Kỹ thuật Máy tính như đề xuất các khái niệm, các tri thức mới giúp nâng cao việc vận dụng"
+Mục tiêu của chương trình đào tạo ngành Kỹ thuật máy tính là:
+""
+39 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Học phần Cơ sở dữ liệu (Database) thuộc khối kiến thức theo lĩnh vực trong chương trình đào tạo ngành Khoa học Máy tính (chương trình chuẩn quốc tế) của Trường Đại học Công nghệ. Cụ thể, theo Table"
+Không biết
+Không biết
+"Có, sinh viên chương trình đào tạo ngành Khoa học Máy tính (chương trình chuẩn quốc tế) của Trường Đại học Công nghệ phải làm Khóa luận tốt nghiệp. Theo thông tin được cung cấp, khóa luận tốt nghiệp là một"
+Không biết
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Hệ thống thông tin của Trường Đại học Công nghệ cần có kiến thức về vật lý hiện đại, công nghệ nano và ứng dụng. Cụ thể, họ cần nắm vững kiến thức lý thuyết chuyên sâu về các lĩnh"
+"Sinh viên tốt nghiệp ngành Hệ thống thông tin của Trường Đại học Công nghệ cần nắm vững kiến thức nền tảng về các nguyên lý cơ bản, các quy luật tự nhiên và xã hội trong lĩnh vực được đào tạo để phát triển kiến thức"
+- Không có thông tin cụ thể về kiến thức quản lý dự án HTTT mà sinh viên tốt nghiệp ngành Hệ thống thông tin cần có trong ngữ cảnh được cung cấp. 
+Không biết
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Hệ thống thông tin của Trường Đại học Công nghệ có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên cứu triển khai"
+"PLO1.1. Diễn giải (2) được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và"
+Không biết
+- Quản lý dự án
+Không biết
+- Trung thực
+- Trung thực
+- Trách nhiệm với xã hội
+Trường Đại học Công nghệ – ĐHQGHN triển khai BHYT năm 2025 đợt 2 từ tháng 04/2025 đến hết tháng 12/2025.
+Sinh viên Trường Đại học Công nghệ có thể tra cứu thông tin về thời hạn thẻ BHYT tại trang https://baohiemxahoi.gov.vn/tracuu/pages/tra-cuu-thoi-han-su-dung-the
+"Thời gian tham gia BHYT năm 2025 đợt 2 cho sinh viên Trường Đại học Công nghệ là 09 tháng, từ tháng 04/2025 đến hết tháng 12"
+Số tiền sinh viên Trường Đại học Công nghệ phải nộp để tham gia BHYT đợt 2 năm 2025 là 663.390đ. 
+"Sổ tài khoản thụ hưởng: 2151409100, Ngân hàng BIDV Cầu Giấy, Hà Nội"
+"Số tài khoản thụ hưởng BHYT của Trường Đại học Công nghệ là 2151409100, Ngân hàng BIDV Cầu Giấy, Hà Nội. "
+"Tên tài khoản thụ hưởng BHYT của Trường Đại học Công nghệ là 2151409100, Ngân hàng BIDV Cầu Giấy, Hà Nội. "
+Cú pháp nộp tiền BHYT cho sinh viên Trường Đại học Công nghệ là: <Mã người học> <Họ tên> Nop BHYT 2025 (VD: 2302…. NguyenVan
+"Thời gian nộp tiền BHYT đợt 2 cho sinh viên Trường Đại học Công nghệ là từ thứ Ba, ngày 04/03/2025 đến hết thứ Hai, ngày 10/03"
+"Sinh viên quá hạn đào tạo chuẩn của Trường Đại học Công nghệ nộp tiền BHYT tại Phòng Công tác sinh viên (phòng 104-E3) trong thời gian từ thứ Ba, ngày 04/03"
+"Thời gian nộp tiền BHYT cho sinh viên quá hạn đào tạo chuẩn của Trường Đại học Công nghệ là từ thứ Ba, ngày 04/03/2025 đến hết thứ Hai, ngày 10/0"
+Câu trả lời: Cơ quan BHXH Cầu Giấy
+"Không, sau đợt triển khai BHYT này, Trường Đại học Công nghệ không hỗ trợ sinh viên tham gia BHYT năm 2025 nữa. Đây là đợt triển khai cuối cùng của Nhà"
+Không biết
+Tôi không biết
+150 tín chỉ
+34
+22
+2
+1
+22 tín
+4
+Không biết
+Không biết
+Không biết
+Không biết
+INT2210
+Không biết
+Không biết
+Không biết
+"Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể đảm nhiệm các vị trí sau:
+Không biết
+"PLO1.1. Diễn giải được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng;"
+"PLO1.1. Diễn giải được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng;"
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể học lên các chương trình đào tạo sau:
+Không có thông tin trong ngữ cảnh về việc sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần chủ động tuân thủ điều gì. 
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể làm việc cho các doanh nghiệp Nhật Bản. 
+"Sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần có kỹ năng giải quyết vấn đề thực tế hiệu quả, bao gồm:"
+Không có thông tin cụ thể về khả năng làm việc nhóm hiệu quả của sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản trong ngữ cảnh được cung cấp. 
+"- Kỹ năng làm việc độc lập, tự học, tự nghiên cứu và nâng cao trình độ."
+"Sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần có kiến thức cơ bản, quan trọng và hiện đại về công nghệ thông tin và truyền thông. "
+Tôi không biết
+Mục tiêu của chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản là:
+Không biết
++ Tiếng Việt: Cử nhân ngành Công nghệ kỹ thuật cơ điện tử
+"Chuẩn đầu ra về ngoại ngữ của sinh viên ngành Công nghệ Kỹ thuật Cơ điện tử, Trường Đại học Công nghệ là đạt chuẩn 4/6 theo khung tham chiếu của Việt Nam (tương đương B2)."
+- Không có thông tin cụ thể về vị trí việc làm của sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử trong ngữ cảnh được cung cấp. 
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử của Trường Đại học Công nghệ có thể đảm nhận các công việc sau trong nhóm chuyên viên phân tích, tư vấn và kinh doanh:"
+- Tham gia nghiên cứu các vấn đề có liên quan đến công nghệ cơ điện tử
+"- Tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ Cơ điện tử, Tự động hóa, Cơ kỹ thuật"
+Không biết
+- Trung thực
+- Có khả năng phát hiện vấn đề và mối tương quan giữa các vấn đề trong lĩnh vực công nghệ cơ điện tử;
+Không biết
+Không biết
+PLO3: Sử dụng (3) các kiến thức cơ bản của ngành để nhận định (2) và phân tích (4) các bài toán liên quan đến lĩnh vực kỹ thuật cơ điện tử. 
+"Để cải thiện hiệu năng của các hệ thống cơ điện tử, sinh viên ngành Công nghệ Kỹ thuật Cơ điện tử của Trường Đại học Công nghệ cần sử dụng kiến thức sau:"
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN).
+"URL: https://uet.vnu.edu.vn/dao-tao-dai-hoc/ Title: Đào tạo đại học - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+A: Sinh viên Trường Đại học Công nghệ cần kiểm tra thông tin về điều kiện tốt nghiệp tại Phòng Đào tạo (ĐT) của trường. 
+Không biết
+Không biết
+Không biết
+"Thông báo này nhằm mục đích thông báo cho sinh viên về việc xử lý học vụ học kỳ II năm học 2024-2025 tại Trường Đại học Công nghệ. Cụ thể, thông báo nêu rõ danh sách"
+"Sinh viên Trường Đại học Công nghệ cần kiểm tra kết quả học tập cá nhân, đối chiếu với Khung chương trình đào tạo đang học và tham khảo tư vấn của Giáo viên chủ nhiệm để có kế hoạch học tập phù hợp, đủ"
+Không biết
+Không biết
+124 tín chỉ
+"- Đối với chương trình đào tạo ngành Trí tuệ nhân tạo tại Trường Đại học Công nghệ, ĐHQGHN (chương trình 6), sinh viên cần học 21 tín chỉ khối kiến thức chung (không tính"
+12 tín chỉ
+Tôi không biết
+150 tín chỉ
+PHI1006
+PHI1006
+Không biết
+Không biết
+Không biết
+AIT1001
+Không biết
+Không biết
+Không biết
+"Có, sinh viên ngành Trí tuệ nhân tạo có thể chọn học phần bổ trợ thuộc ngành Khoa học Máy tính. Cụ thể, sinh viên có thể lựa chọn học các học phần như INT3131 (Dự án"
+"Chương trình đào tạo được mô tả trong văn bản thuộc ngành Công nghệ thông tin của Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology. "
+Chương trình đào tạo ngành Khoa học máy tính thuộc hệ đào tạo chuẩn quốc tế của Trường Đại học Công nghệ. 
+Không biết
+Tôi không biết
+Không biết
+"- Chuyên viên phân tích, thiết kế, phát triển hệ thống"
+- Lập trình viên hệ thống và cơ sở dữ liệu
+- Quản trị mạng
+Có
+"Có, sinh viên ngành Khoa học Máy tính của Trường Đại học Công nghệ được trang bị kiến thức về học máy. Theo ngữ cảnh cung cấp, sinh viên được học về ""học máy"" là một trong những kiến thức cơ"
+Có
+"Có, sinh viên ngành Khoa học Máy tính của Trường Đại học Công nghệ được trang bị kiến thức về truyền thông đa phương tiện. Cụ thể, theo ngữ cảnh cung cấp, sinh viên được yêu cầu ""sâu vào"
+Không biết
+"Có, sinh viên ngành Khoa học Máy tính của Trường Đại học Công nghệ được trang bị kiến thức cơ bản về cơ sở dữ liệu. Cụ thể, theo ngữ cảnh cung cấp, sinh viên được trang bị kiến thức"
+Trường Đại học Công nghệ trang bị cho sinh viên Khoa học Máy tính những phẩm chất đạo đức sau:
+Trường Đại học Công nghệ có thông báo tuyển sinh đi học tại Bun-ga-ri năm 2025. Thông tin chi tiết về chương trình được gửi trong văn bản đính kèm công văn số 126/TB-B
+A: 126/TB-BGĐT
+Không biết
+Không biết
+Mechatronics Engineering
+Mechatronics Engineering
+4
+Cử nhân Khoa học Máy tính (Chương trình đào tạo chất lượng cao) 
+Thời gian đào tạo ngành Khoa học Máy tính CLC TT23 là 4 năm. 
+Sinh viên tốt nghiệp ngành Khoa học Máy tính CLC TT23 được trang bị những kiến thức sau:
+Chương trình Khoa học Máy tính CLC TT23 tập trung theo ba hướng sau:
+Không biết
+Tôi không biết
+Không biết
+Không biết
+"Mục tiêu của chương trình Khoa học Máy tính CLC TT23 là nhằm đào tạo những sinh viên giỏi về chuyên môn và cao về kỹ năng, đáp ứng được nhu cầu sử dụng lao động CNTT của thị trường"
+"Sinh viên chương trình Khoa học Máy tính CLC TT23 được đào tạo tăng cường về ngoại ngữ tiếng Anh, đạt chuẩn 4/6 theo khung tham chiếu của Việt Nam (tương đương B2)."
+Không biết
+Tôi không biết
+130 tín chỉ
+Có
+130 tín chỉ
+130 tín
+87 tín chỉ
+67 tín
+130 tín
+Không biết
+Khóa luận tốt nghiệp của ngành Khoa học Dữ liệu tại Trường Đại học Công nghệ chiếm 10 tín chỉ. 
+Không biết
+Không biết
+"Cấu trúc dữ liệu và giải thuật (INT2210) thuộc khối kiến thức theo nhóm ngành (AI, DS) của ngành Khoa học Dữ liệu tại Trường Đại học Công nghệ. "
+INT2204 | Lập trình hướng đối tượngObject-oriented Programming | 3 | 30 | 30 | 90 | INT1009 | T&KHCB
+V.1.     Các học phần bắt buộc
+Không biết
+Không có thông tin trong ngữ cảnh.
+Không biết
+"4,5 năm"
+Kỹ sư
+"Thời gian đào tạo ngành Kỹ thuật máy tính là 4,5 năm. "
+The Degree of Engineer in Computer Engineering
+"4,5 năm"
+Kỹ sư ngành Kỹ thuật máy tính có khả năng thiết kế hệ thống dựa trên nền tảng máy tính bao gồm cả phần cứng lẫn phần mềm. 
+- Sinh viên ngành Kỹ thuật máy tính cần phát triển kiến thức và kỹ năng như sau:
+Hình thức tuyển sinh ngành Kỹ thuật máy tính của Trường Đại học Công nghệ theo quy định của Đại học Quốc gia Hà Nội. Dự kiến quy mô tuyển sinh: 60 sinh viên/năm. 
+Dự kiến quy mô tuyển sinh ngành Kỹ thuật máy tính của Trường Đại học Công nghệ là 100 sinh viên mỗi năm. 
+Mục tiêu của chương trình đào tạo ngành Kỹ thuật máy tính ở mức độ cơ bản là:
+Mục tiêu của chương trình đào tạo ngành Kỹ thuật máy tính ở mức độ chuẩn là:
+Mục tiêu của chương trình đào tạo ngành Kỹ thuật máy tính ở mức độ nâng cao là:
+"Chương trình đào tạo ngành Kỹ thuật máy tính trang bị cho sinh viên nền tảng kiến thức và kỹ năng chuyên môn cao trên cả hai lĩnh vực phần cứng và phần mềm, bao gồm:"
+"Phòng họp A101, Nhà điều hành ĐHQGHN Hòa Lạc, Thạch Thất, Hà Nội. "
+A: Từ 1
+"A: 14:00, ngày 21/02/2025.  "
+Sinh viên được nhận học bổng Mitsubishi nên mặc trang phục như sau:
+Không biết
+"Đại học Quốc gia Hà Nội (ĐHQGHN) tổ chức sự kiện trao học bổng Mitsubishi, Nhật Bản năm học 2024 – 2025. "
+Không biết
+Có
+"Nghiên cứu sinh Bùi Thị Hà của Trường Đại học Công nghệ có luận án tiến sĩ về lĩnh vực Kỹ thuật điện tử, cụ thể là nghiên cứu phát triển hệ thống truyền thông băng tần S cho trạm mặt đất"
+"Có, Trường Đại học Công nghệ hỗ trợ học bổng cho nghiên cứu sinh. Cụ thể, mức học bổng toàn phần cho nghiên cứu sinh từ thạc sĩ là 60.000.000 đồng/kh"
+"Trường Đại học Công nghệ tổ chức lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024 cho các Nghiên cứu sinh, Học viên cao học, Sinh viên (gọi chung"
+Có
+"Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội tổ chức buổi bảo vệ cấp Đại học Quốc gia luận án tiến sĩ của nghiên cứu sinh Vũ Xuân Mạnh, sinh ngày 23/07/1979 tại Thái"
+Luận án tiến sĩ của nghiên cứu sinh Vũ Xuân Mạnh tại Trường Đại học Công nghệ thuộc lĩnh vực y sinh. 
+"Nội dung công văn số 539/UBND-KGVX ngày 19/02/2025 của UBND Thành phố Hà Nội liên quan đến việc tăng cường công tác phòng chống bệnh Cúm,"
+"Chương trình đào tạo ngành Cơ kỹ thuật - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+"Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội (ĐHQGHN) - University of Engineering and Technology"
+150 tín chỉ
+158 tín chỉ
+9 tín chỉ
+158 tín
+Không biết
+21 tín chỉ
+7 tín chỉ
+Sinh viên ngành Kỹ thuật máy tính cần hoàn thành 3 tín chỉ học phần lựa chọn theo định hướng. 
+Không biết
+Tôi không biết
+"Học phần ""Triết học Mác – Lênin"" (Marxist-Leninist Philosophy) thuộc khối kiến thức chung, chưa tính các học phần Kỹ năng bổ trợ, Giáo dục thể chất, và Giáo dục Quốc"
+"Học phần ""Đại số"" (Algebra) thuộc khối kiến thức theo lĩnh vực. Cụ thể, học phần này được liệt kê trong Row 16 với mã 12, tên là ""Đại sốAlgebra"","
+"- Học phần ""Tín hiệu và hệ thống"" (Signals and systems) thuộc khối kiến thức theo nhóm ngành, cụ thể là khối kiến thức theo nhóm ngành có 22 học phần. "
+148
+19 tín
+"Học phần ""Triết học Mác – Lênin"" thuộc khối kiến thức chung (không tính các học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục Quốc phòng – An ninh). "
+PHI1006
+"A: T&KHCB (31): Toán và khoa học cơ bản, công nghệ thông tin"
+Không biết
+Cấu trúc dữ liệu và giải thuật thuộc khối kiến thức ICT (Information and Communication Technology). 
+"A: T&KHCB (31): Toán và khoa học cơ bản, công nghệ thông tin"
+Không biết
+Không biết
+"Tham khảo ngữ cảnh cung cấp, học phần ""Thực tập chuyên ngành"" thuộc khối kiến thức KTNCS, TC (12): Kiến thức ngành chuyên sâu, tự chọn. "
+Kiểm thử và đảm bảo chất lượng phần mềm (INT3117) thuộc định hướng chuyên sâu về Công nghệ phần mềm. 
+Câu trả lời: Cơ sở dữ liệu phân tán thuộc định hướng chuyên sâu về Hệ thống thông tin. 
+Không biết
+7
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản với tổng số tín chỉ như sau:
+- 35 tín chỉ
+22 tín chỉ
+Không biết
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Sinh viên tốt nghiệp ngành Kỹ thuật Năng lượng có kiến thức về pháp luật và khoa học xã hội. 
+Không biết
+Sinh viên ngành Kỹ thuật Năng lượng cần
+"Sinh viên ngành Kỹ thuật Năng lượng cần nắm được kiến thức cơ bản về khoa học xã hội, phát triển bền vững và pháp luật. "
+"- Sinh viên tốt nghiệp ngành Kỹ thuật Năng lượng có kiến thức lý thuyết chuyên sâu về năng lượng, năng lượng tái tạo, công nghệ kỹ thuật năng lượng và ứng dụng."
+Người học ngành Kỹ thuật Năng lượng có được trang bị kỹ năng nghề nghiệp sau:
+"Người học ngành Kỹ thuật Năng lượng có kỹ năng phân tích vấn đề, tư duy logic và khả năng giải quyết vấn đề trong các lĩnh vực kỹ thuật năng lượng (theo PLO14). Họ cũng có khả năng thẩm định"
+"Sinh viên ngành Kỹ thuật Năng lượng cần có tư duy đa ngành, bao gồm kiến thức về khoa học cơ bản, khoa học vật liệu, vật lý và tin học áp dụng vào thực tiễn của ngành KTN"
+Tôi không biết
+Sinh viên ngành Kỹ thuật Năng lượng cần có phẩm chất đạo đức nghề nghiệp sau:
+Câu trả lời: Sinh viên ngành Kỹ thuật Năng lượng cần có phẩm chất đạo đức xã hội bao gồm:
+Sinh viên tốt nghiệp ngành Kỹ thuật Năng lượng có thể đảm nhiệm các vị trí công tác sau:
+Sinh viên tốt nghiệp ngành Kỹ thuật Năng lượng có thể làm việc ở các loại hình công ty sau:
+"Cán bộ kỹ thuật tốt nghiệp ngành Kỹ thuật Năng lượng có thể làm việc trong lĩnh vực năng lượng, cụ thể là các vị trí kỹ sư về quản lý năng lượng, quản lý kỹ thuật, quản lý sản xuất, thiết kế"
+"Kỹ sư ngành Kỹ thuật Năng lượng có thể học lên bậc học thạc sĩ hoặc tiến sĩ sau khi tốt nghiệp, thuộc các chuyên ngành về năng lượng tái tạo, năng lượng truyền thống, vật liệu và linh kiện, kho"
+Information Systems
+信息系统
+4 năm
++ Tiếng Việt: Cử nhân ngành Hệ thống thông tin
+Thời gian đào tạo ngành Hệ thống thông tin tại Trường Đại học Công nghệ là 4 năm. 
+The Degree of
+""
+Mục tiêu chung của chương trình Hệ thống thông tin tại Trường Đại học Công nghệ là:
+- **Kiến thức:**
+Tôi không biết
+Không biết
+Thông tin tuyển sinh vào Trường Đại học Công nghệ dựa trên những quy định sau:
+Không biết
+Không biết
+Không biết
+Mechatronics Engineering
+4 năm
+Cử nhân ngành Công nghệ kỹ thuật cơ điện tử
+Thời gian đào tạo ngành Công nghệ kỹ thuật cơ điện tử là 4 năm. 
+The Degree of Bachelor in Mechatronics Engineering
+"Chương trình đào tạo Công nghệ kỹ thuật cơ điện tử trang bị cho sinh viên các kiến thức chuyên môn toàn diện, nắm vững nguyên lý, quy luật tự nhiên – xã hội, có kỹ năng thực hành cơ bản, có khả năng làm"
+Cử nhân ngành Công nghệ kỹ thuật cơ điện tử có những khả năng sau:
+Tôi không biết
+Không biết
+Mechatronics Engineering
+Không có thông tin trong ngữ cảnh.
+Không biết
+Danh hiệu tốt nghiệp của sinh viên ngành Kỹ thuật năng lượng là Kỹ sư. 
+"Thời gian đào tạo ngành Kỹ thuật năng lượng là 4,5 năm. "
+The Degree of Engineer in Energy Engineering
+"A: 4,5 năm"
+"Kỹ sư tốt nghiệp ngành Kỹ thuật năng lượng có thể đảm nhận các vị trí kỹ sư về quản lý năng lượng, quản lý kỹ thuật, quản lý sản xuất, thiết kế dây chuyền, chuyên giao công nghệ, ứng dụng"
+Kỹ sư tốt nghiệp ngành Kỹ thuật năng lượng có thể làm việc ở những loại hình tổ chức sau:
+Không biết
+Không biết
+Không có thông tin trong ngữ cảnh. 
+Quỹ học bổng của công ty TNHH Điện tử được Trường Đại học Công nghệ thông báo trong học kỳ II năm học 2024-2025 là Quỹ học bổng Công ty TNHH Điện tử Annex (
+Trường Đại học Công nghệ nhận được thông báo về học bổng Annex từ Đại học Quốc gia Hà Nội. 
+"Chương trình Học bổng Đồng hành Vingroup – ĐHQGHN, năm học 2024-2025"
+Học bổng Đồng hành Vingroup – ĐHQGHN năm học 2024-2025 dành cho sinh viên đã được nhận học bổng Đồng hành Vingroup-ĐHQGHN năm học 2023
+"Trường Đại học Công nghệ thông báo về chương trình học bổng K-T năm học 2024-2025 theo thông báo của Đại học Quốc gia Hà Nội, cụ thể là thông báo số 1015"
+Tôi không biết
+A: Quyết định số 3568/QĐ-ĐHQGHN ngày 08 tháng 10 năm 2014 của Giám đốc Đại học Quốc gia Hà Nội  
+"Có, Trường Đại học Công nghệ có chương trình học bổng từ ngân hàng Vietcombank trong năm học 2024-2025. Cụ thể, theo Quyết định số 3568/Q"
+"Có, Trường Đại học Công nghệ có cấp học bổng thu hút đầu vào cho sinh viên chương trình đào tạo chuẩn khóa QH-2023 trong học kỳ I năm học 2024-2025. M"
+URL: https://uet.vnu.edu.vn/quy-dinh-thu-hoc-phi-voi-nguoi-hoc-xin-tam-ngung-hoc-tap-trong-hoc-ki-va-nguoi-hoc
+Có
+Không biết
+Trường Đại học Công nghệ có thông tin về chương trình tuyển sinh đi học tại Bun-ga-ri năm 2025. Thông tin chi tiết về chương trình được gửi trong văn bản đính kèm công văn số 126
+Bộ Giáo dục và Đào tạo
+Không có thông tin trong ngữ cảnh về tên ngành đào tạo bằng tiếng Việt của chương trình đào tạo được mô tả. 
+Không có thông tin trong ngữ cảnh về tên ngành đào tạo bằng tiếng Anh của chương trình đào tạo. 
+7520216
+Danh hiệu tốt nghiệp của sinh viên ngành Kỹ thuật điều khiển và tự động hóa là Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa (tiếng Việt) hoặc The Degree of Engineer in Control Engineering and Automation (
+"Thời gian đào tạo ngành Kỹ thuật điều khiển và tự động hóa là 4,5 năm. "
+Văn bằng tốt nghiệp ngành Kỹ thuật điều khiển và Tự động hóa (tiếng Việt) là Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa. 
+A:
+4 năm
+"Chương trình đào tạo ngành Kỹ thuật điều khiển và tự động hóa trang bị cho sinh viên các kiến thức chuyên môn toàn diện, bao gồm:"
+"Sinh viên ngành Kỹ thuật điều khiển và tự động hóa cần có tư duy sáng tạo, phản biện, và khả năng giải quyết vấn đề. Điều này được thể hiện qua các tiêu chí PO3 (Kỹ năng giao tiếp,"
+Sinh viên tốt nghiệp ngành Kỹ thuật điều khiển và tự động hóa sau khi ra trường có thể làm việc ở những vị trí như sau:
+Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+- Phẩm chất chính trị tốt
+"Sinh viên ngành Kỹ thuật điều khiển và tự động hóa cần có ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền;"
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Sinh viên tốt nghiệp ngành
+"Sinh viên tốt nghiệp ngành Hệ thống Thông tin có đủ năng lực học lên các bậc cao hơn như thạc sĩ, tiến sĩ. "
+Chuẩn đầu ra về kiến thức mà sinh viên ngành Hệ thống thông tin cần đạt được bao gồm:
+"PLO1.1. Diễn giải (2) được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và"
+"PLO3.1. Chủ động tuân thủ (2) pháp luật, đạo đức nghề nghiệp; thể hiện (có) tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ"
+4 năm
+"Phát triển hệ thống, Thương mại điện tử, Mạng máy tính, Các hệ thống thông minh và Tương tác người máy. "
+Không biết
+Không biết
+"Chương trình đào tạo ngành Công nghệ Nông nghiệp của Trường Đại học Công nghệ yêu cầu tổng cộng 151 tín chỉ, bao gồm:"
+""
+19 tín chỉ hoặc 22 tín chỉ tùy theo chương trình đào tạo
+151 tín
+""
+""
+Học phần Triết học Mác – Lênin thuộc khối kiến thức chung trong chương trình đào tạo ngành Công nghệ Nông nghiệp tại Trường Đại học Công nghệ. 
+Không biết
+Không biết
+Học phần Công nghệ sinh học (AGT3563) thuộc khối kiến thức theo lĩnh vực trong chương trình đào tạo ngành Công nghệ Nông nghiệp tại Trường Đại học Công nghệ. 
+Học phần Khí tượng nông nghiệp và biến đổi khí hậu (AGT2008) là học phần tự chọn của chương trình đào tạo ngành Công nghệ Nông nghiệp tại Trường Đại học Công nghệ. 
+| AGT3101 | Lập trình Python cho nông nghiệpPython Programming for Agriculture | 3 | 45 |  |  | INT1008 Row 46: 36 | AGT310
+AGT3120 | Công nghệ sinh học phân tửMolecular Biology Technology | 4 | 45 | 15 |  | AGT2103AGT2111
+Không biết
+Không biết
+"Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội đào tạo ngành Công nghệ thông tin chất lượng cao và ngành Công nghệ thông tin."
+7520401
+Cử nhân ngành Vật lý Kỹ thuật
+Thời gian đào tạo ngành Vật lý Kỹ thuật tại Trường Đại học Công nghệ là 4 năm. 
+The Degree of Bachelor in Engineering Physics
+Mục tiêu chung của chương trình đào tạo ngành Vật lý Kỹ thuật tại Trường Đại học Công nghệ là:
+Cử nhân ngành Vật lý Kỹ thuật của Trường Đại học Công nghệ có thể làm việc ở các vị trí sau:
+"Có, cử nhân ngành Vật lý Kỹ thuật của Trường Đại học Công nghệ có thể học lên bậc cao hơn (thạc sĩ, tiến sĩ) thuộc các lĩnh vực về vật liệu và linh kiện micro-nano, vật lý"
+"MT2: Vận dụng được những kiến thức đa ngành về khoa học cơ bản, khoa học vật liệu, vật lý và tin học áp dụng vào thực tiễn của ngành VLKT. "
+"MT3: Có kỹ năng sử dụng thành thạo các công cụ định lượng, các phần mềm chuyên dụng cho công việc nghiên cứu, phân tích trong lĩnh vực Vật lý Kỹ thuật; có kỹ năng sử dụng ngoại ngữ và tin học"
+Không biết
+"MT5: Có năng lực tự học, tự nghiên cứu, tích lũy kinh nghiệm để nâng cao trình độ chuyên môn và thích nghi với các môi trường làm việc khác nhau. "
+"Trường Đại học Công nghệ tuyển sinh dựa trên quy định của Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ. "
+"Có, Đề án tuyển sinh của Trường Đại học Công nghệ có ảnh hưởng đến công tác tuyển sinh. Điều này được thể hiện qua việc Hiệu trưởng Trường Đại học Công nghệ đã căn cứ vào Đề án tuyển sinh hằng năm của Trường khi"
+Engineering Physics
+"Trường Đại học Công nghệ, ĐHQGHN"
+Công nghệ Nông nghiệp thuộc lĩnh vực Công nghệ và Nông nghiệp. 
+"Sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực công nghệ nông nghiệp, công nghệ thông tin, cơ điện tử, điện tử viễn thông, điều khiển và tự"
+"- Các trường đại học, viện nghiên cứu trong nước và quốc tế có chuyên ngành Công nghệ nông nghiệp"
+Không biết
+Nhóm 1: Giảng viên/nghiên cứu viên
+Cán bộ kỹ thuật ngành Công nghệ Nông nghiệp có thể làm việc ở các vị trí sau:
+"Cán bộ quản lý ngành Công nghệ Nông nghiệp có thể làm việc ở các Sở/Bộ Khoa học Công nghệ và Sở/Bộ Nông nghiệp và Phát triển Nông thôn, nơi họ có thể thực hiện các nhiệm vụ như quản"
+Không biết
+"Có, sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp cần tuân thủ pháp luật. "
+- Có kiến thức lý thuyết chuyên sâu trong lĩnh vực đào tạo; có kiến thức thực tế để có thể giải quyết các công việc phức tạp.
+"Không có thông tin cụ thể về việc ngành Công nghệ Nông nghiệp có trang bị kỹ năng làm việc nhóm hay không. Do đó, tôi không thể đưa ra câu trả lời chính xác dựa trên ngữ cảnh đã cung cấp."
+"Có, sinh viên ngành Công nghệ Nông nghiệp được học về tin học. Cụ thể, theo ngữ cảnh cung cấp, sinh viên ngành Công nghệ Nông nghiệp sẽ học các kiến thức cơ bản về kỹ thuật điện, điện tử"
+"Có, sinh viên ngành Công nghệ Nông nghiệp được học về lập trình. Theo ngữ cảnh, sinh viên sẽ được trang bị kiến thức về lập kế hoạch, tổ chức và giám sát các quá trình trong lĩnh vực công nghệ nông nghiệp,"
+"Có, sinh viên ngành Công nghệ Nông nghiệp có thể học về công nghệ sinh học thông qua các học phần như AGT3560 (Khoa học dữ liệu cho Khoa học sự sống) và AGT3563"
+4 năm
+Computer Networks and Data Communications
+7480102
+Sinh viên tốt nghiệp ngành Mạng máy tính và Truyền thông dữ liệu được nhận danh hiệu Kỹ sư. 
+"Thời gian đào tạo ngành Mạng máy tính và Truyền thông dữ liệu chất lượng cao là 4,5 năm. "
+""
+"Mục tiêu của chương trình Mạng máy tính và Truyền thông dữ liệu (MMT&TTDL) chất lượng cao (CLC) tại Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội là:"
+"- Các kiến thức cơ bản, quan trọng và hiện đại về Công nghệ Thông tin và truyền thông, tập trung nhiều vào các quy trình xây dựng và triển khai các dự án phần mềm, quy trình tích hợp, quản lý và"
+- Cơ chế truyền thông dữ liệu
+"- Khả năng áp dụng các kiến thức nền tảng và chuyên ngành để phân tích, thiết kế, triển khai, cài đặt và quản trị các hệ thống/dịch vụ mạng và truyền thông dữ liệu;"
+4 năm  
+- Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông;
+"Sinh viên tốt nghiệp ngành Mạng máy tính và Truyền thông dữ liệu cần có phẩm chất chính trị, đạo đức nghề nghiệp, có các kỹ năng bổ trợ cần thiết để làm việc trong môi trường lao động cạnh tranh, có khả"
+Sinh viên tốt nghiệp ngành Mạng máy tính và Truyền thông dữ liệu cần có thái độ làm việc như sau:
+Không biết
+Information Technology
+4 năm
+7480104
+Cử nhân ngành Hệ thống Thông tin
+Thời gian
+The Degree of Bachelor in Information Systems
+Cử nhân ngành Hệ thống Thông tin
+Mục tiêu chung của chương trình đào tạo ngành Hệ thống Thông tin là:
+- Trang bị kiến thức về các khái niệm cơ bản liên quan đến quy trình của tổ chức.
+"Chương trình đào tạo ngành Hệ thống Thông tin trang bị cho sinh viên kỹ năng giao tiếp, tương tác, thuyết trình; có tư duy hệ thống, làm việc độc lập cũng như làm việc theo nhóm, sử dụng được Trí"
+- Trang bị kiến thức về các khái niệm cơ bản liên quan đến quy trình của tổ chức.
+"Bồi dưỡng phẩm chất chính trị tốt, có ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền, có tinh thần làm"
+Hình thức tuyển sinh của Trường Đại học Công nghệ đối với ngành Hệ thống Thông tin là theo quy định của Đại học Quốc gia Hà Nội. 
+Thời
+2.2. Mục tiêu cụ thể
+Không biết
+4 năm
+Văn bằng tốt nghiệp của chương trình đào tạo Công nghệ Nông nghiệp là Kỹ sư ngành Công nghệ nông nghiệp (The Degree of Engineer in Agricultural Technology). 
+"Thời gian đào tạo ngành Công nghệ Nông nghiệp là 4,5 năm. "
+The Degree of Engineer in Agricultural Technology
+A: Kỹ sư ngành Công nghệ Nông nghiệp
+Mục tiêu chung của chương trình đào tạo ngành Công nghệ Nông nghiệp là:
+"- Có phẩm chất chính trị, đạo đức nghề nghiệp."
+"Có, kỹ sư ngành Công nghệ Nông nghiệp cần hiểu biết về thị trường. Theo ngữ cảnh, họ cần ""Hiểu biết về chuỗi giá trị nông nghiệp, thị trường Công nghệ Nông nghiệp trong nước và quốc tế, có khả"
+Không biết
+Không biết
+"PLO1. Diễn giải được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về kiến thức quốc phòng – an ninh."
+"Sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp có khả năng quản lý các dự án nông nghiệp công nghệ cao, hệ thống sản xuất nông sản và chất lượng nông sản. "
+"Sinh viên tốt nghiệp ngành Công nghệ Nông nghiệp có khả năng phát triển các quy trình công nghệ cho nuôi trồng đối với các loại cây trồng, vật nuôi và thủy sản; phát triển các chế phẩm sinh học ứng dụng trong nông nghiệp."
+"4,5 năm"
+Information Technology
+4 năm.
+7520216
+Danh hiệu tốt nghiệp của ngành Kỹ thuật điều khiển và Tự động hóa là Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa. 
+"Thời gian đào tạo ngành Kỹ thuật điều khiển và Tự động hóa là 4,5 năm. "
+Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa. 
+4
+- Có kiến thức chuyên môn toàn diện
+"Theo Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ"
+4 năm  
+"PO1: Có khả năng áp dụng các kiến thức và kỹ năng để tham gia thiết kế, chế tạo, vận hành, tư vấn hay phát triển các hệ thống, thiết bị và máy móc nhằm giải quyết vấn đề của cuộc sống và"
+"PO3: Có khả năng tổng hợp và phân tích các vấn đề về kỹ thuật Robot, sử dụng thành thạo các công cụ phần mềm, phần cứng có liên quan trong lĩnh vực để vận hành, thiết kế, phát triển và chế"
+Mục tiêu cụ thể
+Hội đồng xử lý học vụ năm học 2024-2025 của Trường Đại học Công nghệ họp vào ngày 27/02/2025. 
+"Thứ Hai, ngày 28/10/2"
+"Trường Đại học Công nghệ cảnh báo học vụ đối với các sinh viên thuộc diện cảnh báo học vụ, cụ thể là những sinh viên có kết quả học tập không đạt yêu cầu theo quy định của trường. Thông tin chi tiết về danh sách"
+Tôi không biết
+Không biết
+"Sinh viên có tên trong danh sách xử lý học vụ của Trường Đại học Công nghệ cần tập trung học tập để cải thiện kết quả trong học kỳ này, đồng thời gặp Giáo viên Chủ nhiệm để được tư vấn, hướng dẫn điều chỉnh"
+Không biết
+Tôi không biết
+A: Học kỳ II năm học 2024-2025
+Không biết
+150 tín chỉ
+""
+22 tín chỉ
+150 tín chỉ
+6 tín chỉ
+6 tín chỉ
+1
+Không biết
+155 tín chỉ
+Không biết
+Không biết
+Không biết
+"Học phần ""Đại số"" (MAT1093) thuộc khối kiến thức chung trong chương trình đào tạo ngành Cơ Kỹ thuật tại Trường Đại học Công nghệ. "
+A: III
+"- Học phần ""Cơ học kỹ thuật 1"" (EMA2036) thuộc khối kiến thức theo nhóm ngành (IV) trong chương trình đào tạo ngành Cơ Kỹ thuật tại Trường Đại học Công nghệ. "
+"Chương trình đào tạo ngành Cơ kỹ thuật - Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology"
+4 năm
+- Trường Khoa học chính trị và Kinh tế (SPSE): TOEFL (iBT) 80;
+"Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể tiếp tục học sau đại học liên quan đến Công nghệ Hàng không vũ trụ. Cụ thể, sinh viên có thể tham gia các khóa học nâng cao ngắn hạn"
+Người học sau khi tốt nghiệp có thể làm kỹ sư trong các ngành sau:
+Tôi không biết
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ có thể làm những việc liên quan đến hệ thống điều khiển như sau:
+"Kỹ sư ngành Công nghệ Hàng không Vũ trụ có thể làm việc trong lĩnh vực xử lý ảnh viễn thám. Cụ thể, họ có thể thiết kế, chế tạo các thiết bị bay, vệ tinh, nghiên cứu kỹ thuật"
+Người học cần có những kiến thức cơ bản sau để giải quyết các bài toán liên quan đến kỹ thuật:
+"Người học cần có kiến thức về kỹ thuật điện và điện tử để tìm hiểu và xây dựng các hệ thống điện, điện tử trong các thiết bị bay. Cụ thể, theo PLO 3, người học cần hiểu biết các kiến"
+"- Vận dụng các kiến thức chuyên môn về khí động lực học trong hoạt động phân tích, mô phỏng, thiết kế hoặc sửa chữa các thiết bị bay (PLO 6)."
+"PLO 7. Vận dụng các kiến thức về phân tích thiết kế hệ thống mạch Điện-Điện tử, kỹ thuật thiết kế cao tần; các kiến thức cơ bản trong lập trình vi xử lý, lập trình các hệ"
+"PLO 8. Vận dụng các kiến thức về cơ khí chế tạo, động lực học và mô hình hóa mô phỏng sự vận hành các thiết bị trong kỹ thuật hàng không vũ trụ, phân tích dữ liệu và nhận dạng hệ"
+"PLO 9. Vận dụng kiến thức cơ bản về viễn thám, hệ thống thông tin địa lý, các kỹ thuật xử lý ảnh viễn thám, phân tích không gian, quản lý dữ liệu không gian,"
+- Có kỹ năng đánh giá chất lượng công việc sau khi hoàn thành và kết quả thực hiện của các thành viên trong nhóm.
+Information Technology
+4 năm
+Không biết
+Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao)
+Thời gian đào tạo ngành Công nghệ Thông tin của Trường Đại học Công nghệ là 4 năm. 
+Cử nhân ngành Công nghệ Thông tin
++ Tiếng Việt: Cử nhân ngành Công nghệ Thông tin
+- Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ thông tin.
+"- Quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm"
+"Trang bị kiến thức cơ bản và chuyên sâu về Hệ thống thông tin, đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; khả năng xây dựng được các hệ thống thông tin cho việc quản"
+- Trang bị kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính
+- Trang bị kiến thức cơ bản và chuyên sâu về máy tính và dịch vụ Công nghệ thông tin.
+Trường Đại học Công nghệ tuyển sinh theo hình thức theo quy định của Đại học Quốc gia Hà Nội. 
+Dự kiến quy mô tuyển sinh ngành Công nghệ Thông tin của Trường Đại học Công nghệ là 60 – 80 sinh viên/năm. 
+– Phẩm chất chính trị tốt;
+Information Technology
+4 năm
+4 năm
+Trình độ đào tạo của ngành Thiết kế công nghiệp và đồ họa là Đại học. 
+Cử nhân ngành Thiết kế công nghiệp và đồ họa
+Tiếng Việt
+Thời gian đào tạo ngành Thiết kế công nghiệp và đồ họa là 4 năm. 
+""
+4 năm
+"- Vận dụng được kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng."
+Chương trình đào tạo ngành Thiết kế công nghiệp và đồ họa trang bị kiến thức về đồ họa bao gồm:
+Không biết
+Không biết
+Quy mô tuyển sinh ngành Thiết kế công nghiệp và đồ họa của Trường Đại học Công nghệ được xác định là 120 sinh viên/khoá. 
+Sinh viên tốt nghiệp ngành Thiết kế công nghiệp và đồ họa có thể làm việc ở các vị trí sau:
+"Chương trình ""ASEAN trong thế giới ngày nay"" năm 2025 kéo dài 10 ngày, từ ngày 17/2/2025 đến 27/2/2025."
+Từ ngày
+"Sinh viên tham gia chương trình ""ASEAN trong thế giới ngày nay"" năm 2025 cần tự chi trả:"
+"Sinh viên tham gia chương trình ""ASEAN trong thế giới ngày nay"" năm 2025 cần đáp ứng yêu cầu tối thiểu về điểm trung bình chung tích lũy là 3.0 (thang"
+Tôi không biết. 
+"Phòng Công tác sinh viên (P.104-E3), trường ĐH Công nghệ, ĐHQGHN, 144 Xuân Thủy, Cầu Giấy, Hà Nội. "
+Không biết
+A: Tiếng Anh
+"Học bổng chương trình ""ASEAN trong thế giới ngày nay"" năm 2025 bao gồm:"
+Không biết
+"Đại học Quốc gia Hà Nội (ĐHQGHN) thông báo về chương trình giao lưu sinh viên quốc tế ""ASEAN trong thế giới ngày nay"" năm 2025. "
+"Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội (ĐHQGHN) có công văn thông báo về chương trình giao lưu sinh viên quốc tế với tên gọi “ASEAN trong thế giới ngày nay – ASEAN in Today"
+"Bảng điểm năm học 2023 – 2024, có xác nhận của đơn vị đào tạo. "
+Có thể nộp chứng chỉ tiếng Nhật (JLPT N1 hoặc cao hơn) nếu đăng ký học bằng tiếng Nhật. 
+""
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+Tôi không biết
+"Ngày 27/02/2025, Đại học Quốc gia Hà Nội (ĐHQGHN) có công văn số 983/ĐHQGHN-HT&PT thông báo về chương trình “Trao đổi"
+Chương trình trao đổi sinh viên tại Đại học Quốc gia Singapore (NUS) áp dụng cho kỳ mùa Thu năm 2025. 
+"Ngày 14/02/2025, Bộ Giáo dục và Đào tạo có công văn số 125/TB-BGDĐT thông báo về việc “Tuyển sinh đi học tại Liên Bang Nga năm"
+"Chương trình học bổng thạc sĩ tại Trường Đại học Korea, Hàn Quốc do Quỹ Pony Chung (PCF), Hàn Quốc tài trợ. "
+"Ngày 18/02/2025, Đại học Quốc gia Hà Nội (ĐHQGHN) có công văn số 830/ĐHQGHN-ĐT&CTSV thông báo về chương trình “H"
+"Ngày 14/02/2025, Bộ Giáo dục và Đào tạo có công văn số 126/TB-BGĐT thông báo về việc “Tuyển sinh đi học tại Bun-ga-ri năm"
+"Ngày 14/02/2025, Đại học Quốc gia Hà Nội (ĐHQGHN) có công văn số 760/ĐHQGHN-HT&PT thông báo về chương trình “Trao đổi"
+"Chương trình trao đổi sinh viên tại Đại học Waseda, Nhật Bản áp dụng cho kỳ mùa Thu năm 2025. "
+"Ngày 13/01/2025, Nhà trường nhận được thông tin từ cơ quan Hợp tác Liên bang Nga tại Việt Nam thông tin về chương trình “Du học Nga dành cho người Việt Nam”."
+Lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024 của Trường Đại học Công nghệ dành cho các đối tượng sau:
+tháng 12/2024
+"Nhà trường nhận được thông tin từ cơ quan Hợp tác Liên bang Nga tại Việt Nam thông tin về chương trình ""Du học Nga dành cho người Việt Nam"". "
+Cổng thông tin điện tử của Cục hợp tác Quốc tế Bộ Giáo dục và Đào tạo. 
+"Trường Đại học Công nghệ cấp học bổng thu hút đầu vào cho sinh viên khóa QH-2023, thuộc các ngành Công nghệ nông nghiệp, Công nghệ kỹ thuật xây dựng, Công nghệ hàng không vũ trụ. "
+"Học bổng thu hút đầu vào được cấp cho sinh viên hệ đào tạo chuẩn khóa QH-2023, thuộc các ngành Công nghệ nông nghiệp, Công nghệ kỹ thuật xây dựng, Công nghệ hàng không vũ trụ, đang theo"
+Không biết
+"Sinh viên ngành Công nghệ nông nghiệp nhận được mức học bổng thu hút đầu vào cao nhất, với mức học bổng bằng 30% tổng tiền học phí sinh viên đã nộp trong học kì I năm học 202"
+Mức học bổng thu hút đầu vào cho sinh viên ngành Công nghệ nông nghiệp của Trường Đại học Công nghệ là 30% tổng tiền học phí sinh viên đã nộp trong học kì I năm học 2024-20
+15% tổng tiền học phí sinh viên đã nộp trong học kì I năm học 2024-2025. 
+15% tổng tiền học phí sinh viên đã nộp trong học kì I năm học 2024-2025. 
+Không biết
+Không biết
+Học bổng thu hút đầu vào của Trường Đại học Công nghệ được cấp cho học kì I năm học 2024-2025. 
+"- Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022 của Hội đồng trường Trường Đại học Công nghệ, về việc ban hành Quy chế tạm thời  về tổ chức và"
+Không biết
+"Đối tượng sinh viên được xét cấp học bổng thu hút đầu vào của Trường Đại học Công nghệ là các sinh viên chương trình đào tạo chuẩn khóa QH-2023, thuộc các ngành Công nghệ nông nghiệp, Công nghệ kỹ thuật"
+Hội đồng Thi đua Khen thưởng và Kỷ luật sinh viên Trường Đại học Công nghệ họp ngày 20 tháng 02 năm 2025 (Base) có kết luận được sử dụng làm căn cứ để ra quyết định về
+Thời gian đào
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật sau khi ra trường có thể làm việc ở những vị trí như sau:
+"Sinh viên tốt nghiệp ngành Cơ kỹ thuật có thể làm việc ở vị trí Nghiên cứu viên hoặc Giảng viên trong các cơ sở giáo dục đại học, các cơ sở nghiên cứu. Họ cũng có thể đảm nhận công việc trợ lý"
+"Sinh viên tốt nghiệp ngành Cơ kỹ thuật có khả năng học lên bậc sau đại học các chuyên ngành thuộc lĩnh vực Cơ kỹ thuật, Công nghệ Cơ điện tử, Tự động hóa, và Cơ kỹ thuật. Ngoài ra, sinh viên cũng"
+Chuẩn đầu ra PLO8 của ngành Cơ kỹ thuật đề cập đến khả năng giao tiếp bằng tiếng Anh tương đương trình độ bậc 3 (theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam).
+"PLO14: Vận dụng các nguyên tắc đạo đức và cam kết tuân thủ đạo đức nghề nghiệp, ý thức trách nhiệm công dân, có tinh thần trách nhiệm và nắm vững các quy định về pháp luật, sức khỏe và"
+"Chuẩn đầu ra PLO3 của ngành Cơ kỹ thuật thể hiện khả năng của sinh viên trong việc xác định, xây dựng và giải quyết các vấn đề kỹ thuật phức tạp liên quan bằng cách áp dụng các nguyên tắc kỹ thuật, các"
+"Chuẩn đầu ra PLO5 của ngành Cơ kỹ thuật thể hiện khả năng của sinh viên trong việc sử dụng các kiến thức chuyên sâu của Cơ kỹ thuật để xác định, phân tích, nghiên cứu và đề xuất giải pháp giải quyết các vấn"
+- Toán học
+"Sinh viên tốt nghiệp ngành Cơ kỹ thuật có thể làm việc tại các nhà máy cơ khí chế tạo, nhà máy thủy điện, điện hạt nhân, cũng như các doanh nghiệp liên quan đến xây dựng, giao thông, cơ sở"
+"Có khả năng đề xuất giải pháp về lĩnh vực kỹ thuật Năng lượng bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại. "
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật sau khi ra trường có thể làm việc ở những vị trí như sau:
+"Chuẩn đầu ra PLO9 của ngành Cơ kỹ thuật thể hiện kỹ năng kỹ thuật, kỹ năng tự học và nghiên cứu độc lập, nâng cao chuyên môn để có thể trở thành những chuyên gia kỹ thuật, người lãnh đạo hoặc những"
+"Sinh viên tốt nghiệp ngành Cơ kỹ thuật sau khi ra trường có thể làm việc ở vị trí kỹ sư kỹ thuật, thiết kế, quản lý nhóm, dự án trong lĩnh vực dầu khí. Cụ thể, họ có thể làm việc trong"
+Không biết
+Tổng số tín chỉ của chương trình đào tạo ngành Kỹ thuật điều khiển và tự động hóa tại Trường Đại học Công nghệ là 150 tín chỉ. 
+21 tín chỉ
+- Khối kiến thức theo lĩnh vực: 22 tín chỉ
+6 tín chỉ
+""
+Không biết
+""
+Không biết
+Không biết
+Không biết
+Không biết
+V.1
+Không biết
+Tôi không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường Đại học Công nghệ có kiến thức chuyên sâu về lĩnh vực Công nghệ Cơ điện tử, bao gồm các chuyên ngành như Công nghệ Cơ điện tử, Tự động"
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường Đại học Công nghệ cần đạt trình độ ngoại ngữ tối thiểu tương đương B2 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường Đại học Công nghệ cần nắm vững kiến thức cơ bản về Vật lý cơ, nhiệt, điện và quang; Giải tích toán học như tính giới hạn, tính"
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường Đại học Công nghệ cần trang bị kiến thức cơ bản về phương pháp tính toán bao gồm:
+Người học định hướng chuyên sâu về Hệ thống cơ điện tử tại Trường Đại học Công nghệ cần biết và sử dụng thành thạo kỹ thuật máy tính để đánh giá phân tích thiết kế hệ thống hoặc quá trình; sử dụng các công cụ hiện đại
+"Người học định hướng chuyên sâu về Chế tạo thiết bị tại Trường Đại học Công nghệ cần biết và sử dụng được công nghệ chế tạo cơ khí tiên tiến, có khả năng vận hành, hiệu chỉnh, thiết kế và chế tạo các máy công"
+"Người học định hướng chuyên sâu về Đo lường và điều khiển tại Trường Đại học Công nghệ cần có kiến thức chuyên sâu về cảm biến, cơ cấu chấp hành, hệ thống điều khiển phân tán, hệ thống điều khiển phân lớp SCADA,"
+Người học định hướng chuyên sâu về Hệ thống vi cơ và nanô cơ điện tử tại Trường Đại học Công nghệ cần hiểu và có thể áp dụng các kiến thức cơ bản về công nghệ MEMS/NEMS; Vận dụng được kiến thức về
+"Người học định hướng chuyên sâu về Kỹ thuật Robot tại Trường Đại học Công nghệ cần biết sử dụng thành thạo kỹ thuật mô phỏng, công nghệ thiết kế ảo và phần mềm thiết kế hiện đại để tối ưu thiết kế,"
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường Đại học Công nghệ có thể đảm nhận các công việc sau ở vị trí chuyên viên phân tích, tư vấn và kinh doanh:"
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử tại Trường Đại học Công nghệ có thể đảm nhiệm các vị trí nghiên cứu viên và giảng viên tại các Trường Đại học, Viện nghiên cứu, thực hiện giảng dạy kiến thức công"
+- Công nghệ Cơ điện tử
+"Tổng số tín chỉ của chương trình đào tạo (chưa tính Giáo dục thể chất, Giáo dục quốc phòng – an ninh, kĩ năng bổ trợ): 150 tín chỉ"
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng với các khối kiến thức chung như sau:
+17 tín chỉ hoặc 19 tín chỉ hoặc 22 tín chỉ
+15
+15
+- Trường Đại học Công nghệ có 3 chương trình đào tạo ngành Công nghệ Kỹ thuật Xây dựng với tổng số tín chỉ là 150 tín chỉ.
+Học phần Triết học Mác – Lênin (PHI1006) thuộc khối kiến thức chung của ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ. 
+Không biết
+"Học phần Cơ học môi trường liên tục (EMA2004) thuộc khối kiến thức ngành của ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ. Cụ thể, theo thông tin được cung cấp,"
+"Học phần Phương pháp phần tử hữu hạn trong kỹ thuật xây dựng (CTE2021) thuộc khối kiến thức theo nhóm ngành, cụ thể là khối kiến thức thứ 21. "
+V.1
+Học phần Môi trường pháp lý trong xây dựng (CTE3048) thuộc khối kiến thức theo nhóm ngành (Row 35) của ngành Công nghệ Kỹ thuật Xây dựng tại Trường Đại học Công nghệ. C
+V.3.1.1
+V.3.1 | Các học phần bắt buộc | 13 |  |  |  |
+Không biết
+151 tín chỉ
+34 tín chỉ
+22 tín chỉ
+10 tín chỉ
+34 tín chỉ
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+136 tín chỉ
+21 tín chỉ
+1
+10 tín chỉ
+1
+- Khối kiến thức chung 21 tín chỉ
+21 tín chỉ
+Không biết
+Không biết
+Không biết
+PHI1006
+Không biết
+Không biết
+Không biết
+"Tại Trường Đại học Công nghệ, sinh viên có thể thay thế khóa luận tốt nghiệp bằng các học phần sau:"
+Information Technology
+4 năm
+4 năm
+Cử nhân ngành Công nghệ Thông tin
+Thời gian đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ là 4 năm. 
+Cử nhân ngành Công nghệ Thông tin
+4 năm
+Trường Đại học Công nghệ trang bị cho sinh viên ngành Công nghệ Thông tin những kiến thức cơ bản và chuyên sâu về Công nghệ Thông tin. Các kiến thức này được nâng cao và một số trong đó đạt trình độ chung của khu
+"Trường Đại học Công nghệ đào tạo kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ thông tin, cho phép sinh viên tốt nghiệp dễ dàng hòa nhập và phát triển trong môi trường làm việc mới. Ngoài ra, trang"
+"Trường Đại học Công nghệ bồi dưỡng phẩm chất chính trị tốt, có ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền,"
+"- Trang bị kiến thức cơ bản và chuyên sâu về Công nghệ phần mềm: quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm."
+"Trang bị kiến thức cơ bản và chuyên sâu về Hệ thống thông tin, đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; khả năng tham mưu, tư vấn và xây dựng được"
+- Trang bị kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính
+Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. 
+Dự kiến quy mô tuyển sinh ngành Công nghệ Thông tin của Trường Đại học Công nghệ là 60 – 80 sinh viên/năm. 
+Information Technology
+4 năm
+""
+Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao) 
+Thời gian đào tạo ngành Công nghệ Thông tin chất lượng cao tại Trường Đại học Công nghệ là 4 năm. 
+Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao) 
+Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao) 
+Trường Đại học Công nghệ trang bị cho sinh viên ngành Công nghệ Thông tin chất lượng cao các kiến thức cơ bản và chuyên sâu về Công nghệ Thông tin. Các kiến thức này được nâng cao và một số trong đó đạt trình độ
+- Có khả năng tham mưu tư vấn
+Trường Đại học Công nghệ đào tạo kỹ năng cho sinh viên ngành Công nghệ Thông tin chất lượng cao về thái độ bao gồm:
+"- Trang bị kiến thức cơ bản và chuyên sâu về Công nghệ phần mềm: quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm"
+- Trang bị kiến thức cơ bản và chuyên sâu về Hệ thống thông tin
+- Trang bị kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính
+Hình thức tuyển sinh của Trường Đại học Công nghệ là theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+Đại học Quốc gia Hà Nội thông báo về chương trình học bổng K – T năm học 2024-2025. 
+Tôi không biết
+Thời gian đào tạo thạc sĩ của chương trình học bổng tại Trường Đại học Korea là 4 năm. 
+"Sinh viên tham gia chương trình học bổng tại Trường Đại học Korea được hỗ trợ 1,200,000 KRW mỗi tháng, bao gồm tiền ở ký túc xá tại Trường Đại học Korea và"
+"Khoản tiền 1,200,000 KRW hỗ trợ hàng tháng bao gồm tiền ở ký túc xá tại Trường Đại học Korea, Hàn Quốc và tiền sinh hoạt phí. "
+"Có, sinh viên tham gia chương trình học bổng thạc sĩ tại Trường Đại học Korea được cấp vé máy bay khứ hồi Việt Nam – Hàn Quốc. "
+Không biết
+Thời gian nộp hồ
+Tôi biết
+Không biết
+Không biết
+Quỹ PCF sẽ thông báo kết quả chương trình học bổng vào tháng 06/2025. 
+""
+- Chương trình học bổng thạc sĩ tại Trường ĐH Korea năm 2025
+A
+Information Technology
+7510103
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật xây dựng được nhận danh hiệu Kỹ sư. 
+"Thời gian đào tạo ngành Công nghệ Kỹ thuật xây dựng là 4,5 năm. "
+Engineer in Civil Engineering
+Kỹ sư ngành Công nghệ Kỹ thuật xây dựng có thể làm việc ở các vị trí sau:
+"- Có kiến thức và kỹ năng về tư vấn đầu tư xây dựng công trình: Lập đề cương khảo sát, triển khai hồ sơ thiết kế, lập dự toán, lập hồ sơ mời thầu, đánh giá hồ sơ dự th"
+"- Có kiến thức về thi công và quản lý dự án xây dựng công trình: tham gia giám sát thi công, nghiệm thu, thanh quyết toán công trình, quản lý vận hành công trình xây dựng, giao thông."
+"- Có kiến thức và kỹ năng về đo đạc, kiểm tra, thí nghiệm và xử lý được số liệu trong công tác thí nghiệm vật liệu xây dựng, thí nghiệm cơ học địa kỹ thuật, công tác trắc địa.  "
+"- Có kiến thức và kỹ năng về đo đạc, kiểm tra, thí nghiệm và xử lý được số liệu trong công tác thí nghiệm vật liệu xây dựng, thí nghiệm cơ học địa kỹ thuật, công tác trắc địa;"
+Thông tin tuyển sinh của Trường Đại học Công nghệ dựa trên những quy định sau:
+"149 tín chỉ (không tính các học phần Giáo dục thể chất, Giáo dục quốc phòng - an ninh và Kỹ năng bổ trợ) hoặc 134 tín chỉ (không tính các học phần Giáo dục thể"
+Không biết
+I.    Khối kiến thức chung
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+"LLCT (13): Lý luận chính trị & Pháp luật đại cương GDTC, GDQP-AN (12): Giáo dục thể chất, Giáo dục Quốc phòng – An ninh KNBT (3): Kỹ năng bổ trợ"
+V.3.1.1 | Các học phần bắt buộc | 19 |  |  |  |
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Information Technology
+Không có thông tin trong ngữ cảnh về tên tiếng Anh của ngành đào tạo được giới thiệu. 
+Danh hiệu tốt nghiệp của ngành Công nghệ Hàng không Vũ trụ là Kỹ sư. 
+"Thời gian đào tạo ngành Công nghệ Hàng không Vũ trụ là 4,5 năm. "
+Bachelor of Industrial and Graphic Design
+4 năm
+"- Có khả năng áp dụng kiến thức sâu rộng về các nguyên tắc cơ bản, các kỹ thuật hàng không vũ trụ để cung cấp các sản phẩm theo nhu cầu xã hội trong lĩnh vực hàng không vũ trụ và các lĩnh vực có liên"
+"Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có khả năng tham mưu tư vấn và có năng lực thực hiện nhiệm vụ với tư cách như một kỹ sư trong lĩnh vực Hàng không Vũ trụ, đáp ứng các yêu cầu ca"
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể thiết kế và chế tạo các thiết bị bay, vệ tinh. "
+Không biết
+Không biết
+"4,5 năm"
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể nghiên cứu các kỹ thuật sau:
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có kiến thức sâu rộng trong các lĩnh vực sau:
+Sinh viên tốt nghiệp ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ cần tích lũy 134 tín chỉ.
+"Chuẩn đầu ra về ngoại ngữ của sinh viên ngành Vật lý kỹ thuật, Trường Đại học Công nghệ tương đương bậc 3 theo Khung năng lực ngoại ngữ Việt Nam. "
+- Kiến thức vật lý: Biết được các kiến thức cơ bản về Vật lý đại cương; Hiểu được các hiện tượng và quy luật Vật lý và các ứng dụng liên quan trong khoa học kỹ thuật và đời
+Không biết
+"Cử nhân ngành Vật lý kỹ thuật có khả năng học tập và nghiên cứu tiếp ở các bậc học cao hơn (thạc sĩ, tiến sĩ) thuộc các lĩnh vực về vật liệu và linh kiện micro-nano, vật lý"
+"Sinh viên ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ cần có kiến thức về các hiện tượng và quy luật Vật lý, bao gồm Vật lý cơ, nhiệt, điện và quang, và các ứng dụng của"
+Không biết
+Không biết
+- Lễ độ
+- Trung thực
+Tôi không biết
+"Có, sinh viên ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ cần có kỹ năng làm việc nhóm. Điều này được thể hiện qua yêu cầu về kỹ năng làm việc độc lập hoặc theo nhóm trong tiêu chuẩn MT4 (M"
+Sinh viên ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ cần có kiến thức về:
+"PO3: Có kỹ năng giao tiếp, làm việc nhóm, phát hiện và giải quyết vấn đề, tư duy, phản biện, sáng tạo. "
+Sinh viên ngành Vật lý kỹ thuật tại Trường Đại học Công nghệ cần có kỹ năng quản lý và lãnh đạo bao gồm:
+Không biết
+"A: 4,5 năm"
+"4,"
+Tiếng Việt
+Danh hiệu tốt nghiệp của ngành Công nghệ Hàng không Vũ trụ là Kỹ sư. 
+"Thời gian đào tạo ngành Công nghệ Hàng không Vũ trụ là 4,5 năm. "
+Văn bằng tốt nghiệp ngành Công nghệ Hàng không Vũ trụ bằng tiếng Anh là: The Degree of
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ cần có kiến thức về các lĩnh vực công nghệ kỹ thuật sau:
+Không biết
+"Có, chương trình đào tạo ngành Công nghệ Hàng không Vũ trụ của Trường Đại học Công nghệ nhằm mục tiêu đào tạo người học sau khi tốt nghiệp 3-5 năm có khả năng phát triển các công nghệ tiên tiến và đề xuất giải pháp"
+Có
+Có
+"Trường Đại học Công nghệ tuyển sinh ngành Công nghệ Hàng không Vũ trụ dựa trên Quy chế tạm thời về tổ chức và hoạt động của Trường Đại học Công nghệ, ban hành theo Nghị quyết số 985/NQ-HĐT"
+Không biết
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+4 năm
+157 tín chỉ
+29 tín chỉ
+29
+29
+""
+""
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Information Technology
+4 năm
+4 năm
+Danh hiệu tốt nghiệp ngành Công nghệ Thông tin tại Trường Đại học Công nghệ là Cử nhân ngành Công nghệ Thông tin (Chương trình đào tạo chất lượng cao) hoặc The Degree of Bachelor in Information Technology (Honors Program).
+Thời gian đào tạo ngành Công nghệ Thông tin chất lượng cao tại Trường Đại học Công nghệ là 4 năm. 
+The Degree of Bachelor
+A:
+"Chương trình Công nghệ Thông tin chất lượng cao của Trường Đại học Công nghệ hướng đến đào tạo nguồn nhân lực cử nhân có trình độ chuyên môn cao về Công nghệ Thông tin, có năng lực phát triển, triển khai và vận hành"
+Có 3 định hướng chuyên sâu trong lĩnh vực CNTT:
+"Định hướng Công nghệ phần mềm của chương trình Công nghệ Thông tin chất lượng cao tại Trường Đại học Công nghệ tập trung vào các phương pháp, công cụ và quy trình phát triển, quản lý và bảo trì hệ thống phần mềm. Sin"
+"Định hướng Hệ thống thông tin của chương trình Công nghệ Thông tin chất lượng cao tại Trường Đại học Công nghệ trang bị kiến thức về phát triển và vận hành các hệ thống thông tin cho việc quản lý kinh tế, hành chính và"
+Định hướng Mạng và truyền thông máy tính của chương trình Công nghệ Thông tin chất lượng cao tại Trường Đại học Công nghệ tập trung vào các công nghệ để phát triển và vận hành các hệ thống mạng và truyền thông máy tính.
+Tôi không biết
+Không biết
+Trường Đại học Công nghệ thông tin tuyển sinh được thực hiện theo quy chế của Bộ Giáo dục và Đào tạo. 
+- Viện Nghiên cứu Điện tử – Tin học – Tự động hóa
+Có thể làm việc
+Sinh viên tốt nghiệp ngành Kỹ thuật điều khiển và tự động hóa có thể làm việc ở các loại hình doanh nghiệp sau:
+"Sinh viên tốt nghiệp ngành Kỹ thuật điều khiển và tự động hóa có thể làm việc ở vị trí Kỹ sư thiết kế, vận hành, bảo trì Kỹ thuật trong các dây chuyền sản xuất hiện đại trong công nghiệp như dây"
+"Sinh viên tốt nghiệp ngành Kỹ thuật điều khiển và tự động hóa có thể đảm nhiệm vị trí Chuyên viên phân tích, tư vấn tại các doanh nghiệp tư vấn kỹ thuật. "
+Không biết
+Trình độ tiếng Anh mà sinh viên ngành Kỹ thuật điều khiển và tự động hóa cần đạt được là bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. 
+"Sinh viên tốt nghiệp ngành Kỹ thuật điều khiển và tự động hóa có thể học lên bậc sau đại học các chuyên ngành thuộc lĩnh vực Robot, Điều khiển và Tự động hóa, Điện tử – Viễn thông, Cơ Điện tử,"
+"Chuẩn đầu ra PLO1 của ngành Kỹ thuật điều khiển và tự động hóa thuộc về loại kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật (K2). "
+"PLO2: Vận dụng (3) được kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật."
+PLO3: Sử dụng (3) các kiến thức cơ bản của ngành để nhận định (2) và phân tích (4) các bài toán liên quan đến lĩnh vực kỹ thuật điều khiển và tự động hóa.
+"PLO4: Vận dụng (3) kiến thức cơ sở của nhóm ngành, đặc biệt là kiến thức kỹ thuật điều khiển và tự động hóa vào các bài toán liên quan và các tình huống thực tế."
+"PLO5: Sử dụng (3) các kiến thức chuyên sâu để xác định (4) và đề xuất (6) giải pháp, lựa chọn các phương pháp thích hợp để nghiên cứu và giải quyết các vấn đề thực tế thuộc lĩnh vực"
+"Sinh viên ngành Kỹ thuật điều khiển và tự động hóa cần có kỹ năng làm việc nhóm tốt. Theo thông tin được cung cấp, sinh viên cần có tinh thần làm việc theo nhóm, rèn luyện thường xuyên tính kỷ"
+"Sinh viên ngành Kỹ thuật điều khiển và tự động hóa cần có phẩm chất đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền. "
+Không có thông tin trong ngữ cảnh.
+4 năm
+7480101
+Cử nhân ngành Khoa học Máy tính
+Thời gian đào tạo ngành Khoa học Máy tính là 4 năm. 
+The Degree of Bachelor in Computer Science
+Cử nhân ngành Khoa học Máy tính
+"Mục tiêu chung của chương trình đào tạo Cử nhân Khoa học Máy tính là nhằm đào tạo những sinh viên giỏi về chuyên môn và cao về kỹ năng, đáp ứng được nhu cầu sử dụng lao động CNTT của"
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính được trang bị kiến thức lý thuyết chuyên sâu trong lĩnh vực CNTT; nắm vững kỹ thuật và có kiến thức thực tế để có thể giải quyết các công việc phức tạp, cả"
+Chương trình Khoa học Máy tính chú trọng phát triển các kỹ năng sau cho sinh viên:
+"Sinh viên ngành Khoa học Máy tính được trang bị kiến thức cơ bản về lĩnh vực Máy tính và Công nghệ thông tin (CNTT), bao gồm:"
+"Có 4 định hướng chuyên sâu trong ngành Khoa học Máy tính, bao gồm:"
+"""Phát triển phần mềm và ứng dụng"""
+"Trường Đại học Công nghệ tuyển sinh ngành Khoa học Máy tính theo Quy chế tạm thời về tổ chức và hoạt động của Trường Đại học Công nghệ, ban hành dựa trên Nghị quyết số 985/NQ-HĐT ngày"
+Chương trình Cử nhân Khoa học Máy tính của Trường Đại học Công nghệ tập trung vào các định hướng chuyên sâu sau:
+Trường Đại học Công nghệ ĐHQGHN đào tạo các ngành sau:
+Sinh viên tốt nghiệp ngành Kỹ thuật máy tính cần có kiến thức về các lĩnh vực sau:
+Tôi không biết
+"Sau khi tốt nghiệp, sinh viên ngành Kỹ thuật máy tính có thể làm những công việc sau:"
+"Sinh viên tốt nghiệp ngành Kỹ thuật máy tính có thể học lên sau đại học các ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên cứu triển khai các ứng dụng của ngành Kỹ thuật"
+"PLO4: Kết hợp các kiến thức chuyên sâu về điện tử và khoa học máy tính trong bối cảnh vận động không ngừng của khoa học và công nghệ để thiết kế, xây dựng, triển khai và vận hành một cách"
+"Chuẩn đầu ra PLO5 của ngành Kỹ thuật máy tính đề cập đến kỹ năng phát hiện, mô tả, phản biện vấn đề và đề xuất giải pháp về lĩnh vực chuyên môn bằng cách áp dụng các kiến thức khoa học,"
+Chuẩn đầu ra PLO7 của ngành Kỹ thuật máy tính đề cập đến kỹ năng vận dụng (4) tư duy phản biện và sáng tạo trong nghiên cứu và phát triển để xây dựng giải pháp giải quyết vấn đề cho các bài toán
+"PLO10: Vận dụng tư duy logic, biện chứng và để giải quyết vấn đề thực tế hiệu quả và sáng tạo."
+"Phát hiện, mô tả vấn đề và đề"
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Kỹ thuật máy tính có thể làm việc trong lĩnh vực thiết kế và chế tạo phần cứng, lập trình nhúng, IoT, các hệ thống thông minh, v.v. "
+"Có kỹ năng giao tiếp,"
+PLO3: Sử dụng các kiến thức cơ sở của khối ngành để nhận định và phân tích các bài toán liên quan đến lĩnh vực Kỹ thuật máy tính.
+Không có thông tin cụ thể về khả năng tự đánh giá của sinh viên ngành Kỹ thuật máy tính trong ngữ cảnh được cung cấp. 
+158 tín chỉ
+34 tín chỉ
+Học phần Triết học Mác – Lênin thuộc khối kiến thức chung trong chương trình đào tạo ngành Khoa học Máy tính tại Trường Đại học Công nghệ. 
+PEC1008 | Kinh tế chính trị Mác – LêninMarxist-Leninist Political Economy | 2 | 20 | 10 | 70 | PHI1006 | LL
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Phòng Công tác Sinh viên của Trường Đại học Công nghệ thông báo về việc tăng cường phòng, chống bệnh Cúm và các bệnh lây truyền qua đường hô hấp. Cụ thể, Nhà trường thông báo để sinh viên được biết và"
+"Phòng Công tác sinh viên (P.104 E3) hoặc gửi vào hòm thư: nthue153@vnu.edu.vn, ĐT: 0243.754.8864"
+"Phòng Công tác Sinh viên của Trường Đại học Công nghệ nằm ở địa chỉ: 144 Xuân Thuỷ, Cầu Giấy, Hà Nội. "
+A: nthue153@vnu
+Không biết
+Hạn cuối để sinh viên Trường Đại học Công nghệ gửi thắc mắc/điều chỉnh về điểm rèn luyện là 16h30 ngày 13/1/2025 (thứ Ba). Quá
+Trường Đại học Công nghệ tổ chức lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024. 
+Lễ bế giảng và trao bằng tốt nghiệp đợt 2 năm 2024 của Trường Đại học Công nghệ dành cho các đối tượng sau:
+Th14
+"144 Xuân Thuỷ, Cầu Giấy, Hà Nội"
+Sinh viên Trường Đại học Công nghệ cần mặc trang phục như sau khi tham dự Lễ bế giảng:
+Không biết
+"Cả ngày thứ Năm, ngày 16/01/2025 tại sảnh nhà E3 trước cửa phòng Đào tạo (Chi tiết xem trong các Phụ lục đính kèm). "
+Không biết
+Không biết
+Không biết
+Phòng Đào tạo
+A: Phòng 104-E3
+Không biết
+"6h50 sáng thứ Sáu, ngày 17/01/2025 tại sảnh Hội trường Nguyễn Văn Đạo trước khi vào dự Lễ. "
+Trường Đại học Công nghệ thực hiện kế hoạch năm học 2024-2025. 
+T
+4 năm
+Danh hiệu tốt nghiệp của ngành Công nghệ Hàng không Vũ trụ là Kỹ sư. 
+"Thời gian đào tạo ngành Công nghệ Hàng không Vũ trụ là 4,5 năm. "
+The Degree of Engineer in Aerospace
+"4,5 năm"
+"- Áp dụng kiến thức sâu rộng về các nguyên tắc cơ bản, các kỹ thuật hàng không vũ trụ để cung cấp các sản phẩm theo nhu cầu xã hội trong lĩnh vực hàng không vũ trụ và các lĩnh vực có liên quan"
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ sau khi tốt nghiệp 3-5 năm có khả năng:
+Kỹ sư ngành Công nghệ Hàng không Vũ trụ cần có kiến thức chuyên sâu về các lĩnh vực sau:
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Hàng không Vũ trụ có thể nghiên cứu những lĩnh vực sau:
+Không biết
+"4,5 năm"
+4 năm
+Tôi không biết
+"Đối với sinh viên đã được nhận học bổng Đồng hành Vingroup-ĐHQGHN năm học 2023-2024, để xét tiếp, sinh viên cần đáp ứng các điều kiện sau:"
+- Sinh viên khóa QH.2024 là Thủ khoa/Á khoa; hoặc có kết quả xếp loại học lực giỏi và hạnh kiểm tốt trong 3 năm học Trung học Phổ thông; hoặc đạt giải trong
+Tôi không biết
+Không biết
+Không biết
+Không biết
+Tôi biết
+"Có cơ hội tham gia các chương trình đào tạo kỹ năng học tập, nghiên cứu, kỹ năng mềm và bài giảng khoa học công nghệ của các nhà khoa học công tác tại Trường Đại học VinUni. "
+"Có cơ hội được thực tập, tuyển dụng vào các công ty thuộc Tập đoàn Vingroup sau khi tốt nghiệp, nếu các công ty có nhu cầu tuyển dụng. "
+40 giờ/năm
+Trường Đại học Công nghệ được phân bổ 03 chỉ tiêu hồ sơ sinh viên để đề cử tham gia phỏng vấn học bổng Đồng hành Vingroup - ĐHQGHN. 
+Không biết
+Không biết
+Không biết
+Không biết
+"Chương trình đào tạo chất lượng cao theo thông tư 23 của Trường Đại học Công nghệ là ""Hệ thống thông tin"" (Information Systems)."
+148 tín chỉ
+21 tín chỉ
+22 tín chỉ
+""
+10 tín chỉ
+22 tín chỉ
+"Có, sinh viên theo học chương trình đào tạo ngành Hệ thống thông tin (CLC TT23) của Trường Đại học Công nghệ phải học Giáo dục thể chất và Giáo dục Quốc phòng - An ninh. Điều này được nêu"
+PHI1006
+A
+Không biết
+Không biết
+Không biết
+Không biết
+"Có, từ học kỳ hè năm thứ 3, sinh viên được thực tập tại doanh nghiệp. Trường ĐHCN hợp tác chặt chẽ với một số tập đoàn công nghệ, doanh nghiệp hàng đầu để cung cấp môi trường thực"
+Information Technologyfor Japanese market
+A: Công nghệ thông tin định hướng thị trường Nhật Bản
+Không có thông tin trong ngữ cảnh về
+4 năm
+Không biết
+A: Cử nhân ngành Công nghệ Thông tin
+Mục
+The Degree of Bachelor in Information Technology
+A: Cử nhân ngành Công
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể làm việc ở các doanh nghiệp Nhật Bản. Ngoài ra, họ cũng có thể làm việc tại các tổ chức, cơ quan, hoặc đơn vị khác"
+"Sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản được trang bị các kiến thức cơ bản, quan trọng và hiện đại về công nghệ thông tin và truyền thông. Cụ thể, sinh viên được trang bị các"
+"Sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản được trang bị các kỹ năng thực hành cao tập trung vào lĩnh vực công nghệ phần mềm; nắm vững và thành thạo trong phân tích, thiết kế, xây"
+"Sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản được trang bị các kỹ năng mềm quan trọng để làm việc trong môi trường doanh nghiệp CNTT nói chung và Nhật Bản nói riêng. Tuy nhiên,"
+"Có, sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản được trang bị kỹ năng ngoại ngữ, cụ thể là tiếng Nhật, để giao tiếp trong môi trường doanh nghiệp CNTT nói chung và Nhật Bản nói"
+Không biết
+Kỳ mùa Thu năm học 2025 – 20
+Chương trình trao đổi sinh viên/học viên kỳ mùa Xuân 2025 tại Đại học Kyoto có các chương trình đào tạo sau:
+Thời gian học của chương trình trao đổi sinh viên/học viên tại Đại học Kyoto bắt đầu từ ngày 01 tháng 4 năm 2025. 
+Không biết
+- Là sinh viên của ĐHQGHN;
+"Đối với chương trình KUINEP, điểm trung bình chung tích lũy (GPA) tối thiểu là 3.0 (thang điểm 4). "
+Không biết
+"Chương trình GEA dành cho đối tượng là sinh viên hoặc học viên cao học đang trong thời gian đào tạo chuẩn, có điểm trung bình chung tích lũy đạt từ 3.0 trở lên (thang điểm"
+Yêu cầu về chứng chỉ tiếng Nhật để tham gia chương trình GEA là:
+- Là học viên cao học của
+Yêu cầu về chứng chỉ tiếng Anh để tham gia chương trình GESRs là:
+- Đơn đăng ký tham dự chương trình của ĐHQGHN (mẫu trong tài liệu đính kèm);
+"Phòng Công tác sinh viên (Phòng 104-E3) trước 09h00, thứ Hai, ngày 28/10/2024. "
+Tôi không biết
+- Sinh viên cần lưu các tài liệu thành từng file PDF để hoàn thiện hồ sơ online.
+Không biết
+Không biết
+Không biết
+"- Kiến thức cơ bản về lý thuyết điều khiển, tự động hóa trong sản xuất"
+Tôi không biết
+- Có khả năng vận dụng được các kiến thức cơ bản Cơ học Kỹ thuật trong các vấn đề Kỹ thuật đơn giản.
+Không biết
+Sinh viên ngành Kỹ thuật Điều khiển và Tự động hóa cần cập nhật kiến thức về Trí tuệ nhân tạo cũng như công nghệ mới để ứng dụng cho bài toán điều khiển và tự động hóa. 
+"Định hướng chuyên sâu về Tự động hóa công nghiệp trang bị cho sinh viên kiến thức về lĩnh vực tự động hóa công nghiệp, bao gồm:"
+Sinh viên định hướng chuyên sâu về Kỹ thuật đo lường và tin học công nghiệp được trang bị kiến thức về các thiết bị và cảm biến thông minh kết nối với hệ nhúng trên nền tảng Vi xử lý – Vi
+"- Sinh viên tốt nghiệp ngành Kỹ thuật Điều khiển và Tự động hóa cần có kỹ năng làm việc theo nhóm, rèn luyện thường xuyên tính kỷ luật và khả năng giao tiếp."
+- Phẩm chất chính trị tốt
+Không biết
+Không biết
+Sinh viên tốt nghiệp ngành Kỹ thuật Điều khiển và Tự động hóa có thể đảm nhiệm vị trí việc làm tại các viện nghiên cứu như Nghiên cứu viên tại Viện Nghiên cứu Điện tử – Tin học – Tự động
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể đảm nhiệm các vị trí công tác sau:
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể làm việc trong môi trường lập trình viên hệ thống và cơ sở dữ liệu, lập trình viên trên môi trường di động, Web. "
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin có kiến thức nền tảng về các nguyên lý cơ bản, các quy luật tự nhiên và xã hội trong lĩnh vực được đào tạo để phát triển kiến thức mới và có thể tiếp tục học tập"
+"- Có khả năng làm việc độc lập, tự học, tự nghiên cứu và nâng cao trình độ."
+Không biết
+"Người học ngành Công nghệ Thông tin cần có kiến thức về Khoa học Máy tính, bao gồm các môn như cơ sở toán, lập trình, cấu trúc dữ liệu và giải thuật, học máy, khoa học dữ liệu và trí tu"
+"- Tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông."
+- Lập trình viên hệ thống và cơ sở dữ liệu
+- Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông;
+Không biết
+"Phát hiện, mô tả vấn đề và đề xuất giải pháp (4) về Mạng máy tính và truyền thông dữ liệu bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại."
+"PLO3.1. Chủ động tuân thủ (2) pháp luật, đạo đức nghề nghiệp; thể hiện (có) tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ"
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực Công nghệ thông tin, đáp ứng các yêu cầu về nghiên cứu"
+Vị trí chuyên viên thiết kế và xử lý nội dung số phù hợp với sinh viên tốt nghiệp ngành Công nghệ thông tin (CNTT) của Trường Đại học Công nghệ. 
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+Tôi không biết
+Không biết
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có thể tiếp tục học tập ở các bậc sau:
+Không biết
+Không biết
+"- **Kỹ năng làm việc theo nhóm**: Sinh viên cần biết cách hợp tác với các thành viên khác trong nhóm, chia sẻ thông tin trong nhóm."
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có khả năng phân tích và đánh giá các thuật toán và cấu trúc dữ liệu trong lĩnh vực CNTT. Cụ thể, họ có thể:"
+Kiến thức nền tảng trong Khoa học Máy tính bao gồm:
+"Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ có khả năng vận dụng kiến thức Toán học và khoa học cơ bản vào việc giải quyết các vấn đề về kinh tế – xã hội, cụ thể"
+Tôi không biết
+"PLO1.4. Liên kết (4) được các kiến thức chuyên sâu của lĩnh vực Khoa học máy tính về học máy, trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên, xử lý ảnh, tương tác người máy"
+Sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần có khả năng:
+Không biết
+Không có thông tin cụ thể về ý thức mà sinh viên tốt nghiệp ngành Khoa học Máy tính tại Trường Đại học Công nghệ cần có trong công việc và cuộc sống. 
+4 năm
+52480201
+Không biết
+Thời gian đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ là 4 năm. 
+4 năm
+Mục tiêu chung của chương trình Công nghệ Thông tin tại Trường Đại học Công nghệ là:
+"Chương trình Công nghệ Thông tin tại Trường Đại học Công nghệ có 3 định hướng chuyên sâu, bao gồm:"
+"Định hướng Công nghệ phần mềm tập trung vào các phương pháp, công cụ và quy trình phát triển, quản lý và bảo trì hệ thống phần mềm. "
+"Trang bị kiến thức cơ bản và chuyên sâu về Hệ thống thông tin, đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; khả năng tham mưu, tư vấn và xây dựng được"
+Định hướng Mạng và truyền thông máy tính tập trung vào các công nghệ để phát triển và vận hành các hệ thống mạng và truyền thông máy tính. 
+Tôi không biết
+"Trường Đại học Công nghệ áp dụng phương pháp dạy và học tiên tiến, tạo điều kiện tốt nhất cho sinh viên phát triển kiến thức, kỹ năng và phẩm chất nghề nghiệp. "
+"A: Theo Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo. "
+Trường Đại học Công nghệ tuyển sinh dựa trên hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh hằng năm của Trường Đại học Công nghệ. 
+"Trường Đại học Công nghệ tuyển sinh dựa trên Quy chế, Quy định về công tác tuyển sinh đại học hằng năm của Bộ Giáo dục và Đào tạo; hướng dẫn của Đại học Quốc gia Hà Nội và Đề án tuyển sinh"
+"Trường Đại học Công nghệ, ĐHQGHN đào tạo các ngành học hiện đại đáp ứng nhu cầu phát triển nguồn nhân lực trong bối cảnh cách mạng công nghiệp lần thứ tư, bao gồm các ngành thuộc các lĩnh vực công nghệ thông"
+Không biết
+"- Kiến thức quản lý, điều hành"
+Không biết
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin cần hiểu biết về lĩnh vực thiết kế và chế tạo phần cứng máy tính. 
+"- Nắm vững và thành thạo trong phân tích, thiết kế, xây dựng, cài đặt, bảo trì, phát triển và quản lý các hệ thống, chương trình, dự án;"
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin cần có năng lực về chuyên môn và nghiệp vụ như sau:
+- Có kỹ năng hoàn thành công việc phức tạp đòi hỏi vận dụng kiến thức lý thuyết và thực tiễn của ngành được đào tạo trong những bối cảnh khác nhau.
+Không có thông tin cụ thể về kỹ năng cần thiết để giải quyết các vấn đề chuyên môn cho sinh viên tốt nghiệp ngành Công nghệ thông tin trong ngữ cảnh được cung cấp. 
+- Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ thông tin
+- Trung thực
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể đảm nhiệm vị trí công tác liên quan đến cơ sở dữ liệu là **Lập trình viên hệ thống và cơ sở dữ liệu**. 
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể học lên các chương trình đào tạo sau đại học tại các Trường Đại học trong và ngoài nước, hoặc tiếp tục nghiên cứu, thực hành trau dồi kỹ năng, nâng cao"
+4 năm
+Không có thông tin trong ngữ cảnh về tên đầy đủ của ngành đào tạo bằng tiếng Anh. 
+Câu trả lời: Kỹ sư
+"Thời gian đào tạo ngành Công nghệ Kỹ thuật Xây dựng – Giao thông là 4,5 năm. "
++ Kỹ sư ngành Công nghệ Kỹ thuật Xây dựng – Giao thông/Chuyên ngành xây dựng dân dụng và công nghiệp;
++ Tiếng Anh:
+"Mục tiêu tổng quan của chương trình đào tạo Kỹ sư ngành Công nghệ Kỹ thuật Xây dựng – Giao thông là đào tạo cho sinh viên kiến thức về kỹ thuật, công nghệ, thiết kế, thi công, vận hành"
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng – Giao thông có thể làm việc ở những vị trí như sau:
+Không biết
+- Lập đề cương khảo sát
+- Lập đề cương khảo sát
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng – Giao thông được trang bị kiến thức về phát triển bền vững và biến đổi khí hậu. Cụ thể, họ hiểu và nắm vững những nội dung về tác động"
+Không biết
+- Lập đề cương khảo sát
+Hình thức tuyển sinh: Theo quy định của ĐHQGHN. 
+150 tín chỉ
+""
+Không biết
+Không biết
+Không biết
+Không biết
+"Học phần ""Cấu trúc dữ liệu và giải thuật"" (INT2210) thuộc khối kiến thức chung (Chưatính GDTC, GDQP-AN và kỹ năng bổ trợ) với 4 tín chỉ."
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+"Học phần ""Kỹ năng khởi nghiệp"" thuộc khối kiến thức về Khoa học quản lý đại cương và Kỹ thuật công nghệ trong chương trình đào tạo ngành Kỹ thuật Máy tính của Trường Đại học Công nghệ. Cụ thể,"
+Không biết
+Không biết
+Trường Đại học Công nghệ trực thuộc Đại học Quốc gia Hà Nội (ĐHQGHN).
+"Văn bản này quy định về việc tăng cường phòng, chống bệnh Cúm và các bệnh lây truyền qua đường hô hấp tại Trường Đại học Công nghệ. "
+Không biết
+Không biết
+Trường hợp sinh viên Trường Đại học Công nghệ phải nộp học phí cả tháng khi xin nghỉ học là khi xin nghỉ sau ngày 15 của tháng. 
+- Người học xin nghỉ khi đã học được từ 4 tháng trở lên thì sẽ phải nộp học phí cả kì.  
+Sinh viên Trường Đại học Công nghệ học theo hình thức tín chỉ sẽ phải nộp học phí theo tín chỉ khi tạm ngừng học. 
+Sinh viên Trường Đại học Công nghệ học the
+"Có, người học theo niên chế tại Trường Đại học Công nghệ nếu hoàn thành chương trình đào tạo trước hạn thì phải nộp bổ sung số tháng học phí còn thiếu của toàn khóa học theo định mức học phí của học kì mà người học"
+Không biết
+"Căn cứ Nghị quyết số 985/NQ-HĐT ngày 08 tháng 11 năm 2022 của Hội đồng trường Trường Đại học Công nghệ, về việc ban hành Quy chế tạm thời  về tổ"
+Không biết
+Không biết
+Phòng Công tác Sinh viên của Trường Đại học Công nghệ đề xuất về việc thu học phí với người học xin tạm ngừng học tập và hoàn thành chương trình trước hạn. 
+Không biết
+Phòng Công tác Sinh viên của Trường Đại học Công nghệ thông báo kế hoạch tổ chức đánh giá kết quả rèn luyện học kỳ I năm học 2024-2025 và tổ chức Hội nghị đối thoại giữa lãnh đạo
+Từ 8h00 ngày 03
+Từ 8h00 ngày 03/03/2025 đến 8h00 ngày 07/03/2025. 
+Nếu sinh viên Trường Đại học Công nghệ không tham gia đánh giá kết quả rèn luyện mà không có lý do chính đáng thì sẽ nhận điểm rèn luyện là 0 và xếp loại “Kém” cho kết quả rèn luyện của
+A: Phòng 3-G3
+Không biết
+"Giáo viên chủ nhiệm các Lớp khóa học truy cập vào hệ thống để duyệt KQRL cho từng sinh viên sau khi Đại diện Ban cán sự các Lớp khóa học đã đánh giá KQRL trên phần mềm, ngày duyệt"
+"Từ 09h00 ngày 07/03/2025 đến ngày 19/03/2025, các Khoa/Viện của Trường Đại học Công nghệ triển khai họp Hội đồng"
+"Trước 16h30 ngày 21/03/2025, các đơn vị gửi biên bản họp Hội đồng cấp Khoa/Viện về Phòng CTSV. "
+Tôi không biết
+"Từ ngày 24/03/2025 đến 03/04/2025, các Khoa/Viện tổ chức Hội nghị đối thoại cấp Khoa/Viện. "
+Trước 16h30 ngày 04/04/2025 các đơn vị gửi Biên bản Hội nghị đối thoại cấp Khoa/Viện về Phòng Công tác sinh viên. 
+Không biết
+Sinh viên Trường Đại học Công nghệ cần liên hệ với Nhà trường (qua phòng Công tác Sinh viên – Phòng 104-E3) hoặc qua địa chỉ email: nthue153@vnu.edu.vn nếu có v
+"Không, đại diện Ban cán sự các Lớp khóa học không được đánh giá điểm rèn luyện cho sinh viên trong lớp khi sinh viên đó chưa tự đánh giá. Điều này được nêu rõ trong ngữ cảnh cung cấp. "
+150 tín chỉ
+PLO10: Có trình độ tiếng An
+"Có, sinh viên ngành Kỹ thuật năng lượng Trường Đại học Công nghệ được trang bị kiến thức về khoa học xã hội. Cụ thể, theo chuẩn đầu ra về kiến thức, sinh viên tốt nghiệp chương trình đào tạo có"
+Có
+Không biết
+Có
+Có
+Có
+Có
+Có
+Không có thông tin cụ thể về kỹ năng làm việc nhóm của sinh viên ngành Kỹ thuật năng lượng tại Trường Đại học Công nghệ trong ngữ cảnh được cung cấp. 
+Không biết
+Có
+Không biết
+"Có, sinh viên ngành Kỹ thuật năng lượng Trường Đại học Công nghệ cần trang bị kiến thức về toán học. Theo chuẩn đầu ra về kiến thức, sinh viên phải vận dụng được kiến thức cơ bản của Toán học, khoa"
+Information Technology
+Không có thông tin trong ngữ cảnh về tên tiếng Anh của ngành đào tạo được nhắc đến. 
+"4,5 năm"
+Văn bằng tốt nghiệp ngành Truyền thông và Mạng Máy tính là Kỹ sư ngành Truyền thông và Mạng Máy tính. 
+Thời gian đào tạo ngành Truyền thông và Mạng Máy tính là 4 năm. 
+"Trường Đại học Công nghệ đào tạo ngành Truyền thông và Mạng Máy tính nhằm mục tiêu cung cấp nguồn nhân lực trình độ cao, chất lượng cao, có khả năng nghiên cứu và làm việc trong các tập đoàn lớn về Công nghệ"
+Sinh viên tốt nghiệp ngành Truyền thông và Mạng Máy tính cần có những kiến thức tổng hợp sau:
+"Kiến thức nền tảng trong Truyền thông và mạng máy tính như cơ sở toán trong công nghệ, kỹ thuật điện tử, ngôn ngữ lập trình, cấu trúc dữ liệu và giải thuật, mạng máy tính, kỹ thuật truyền thông, an nin"
+"- Khả năng áp dụng các kiến thức nền tảng và chuyên ngành để phân tích, thiết kế, triển khai, cài đặt và quản trị các hệ thống/dịch vụ mạng và truyền thông dữ liệu;"
+- Kỹ sư phát triển phần mềm và dịch vụ trên nền tảng mạng và truyền thông;
+"- Phẩm chất chính trị, đạo đức nghề nghiệp"
+Hình thức tuyển sinh của Trường Đại học Công nghệ đối với ngành Truyền thông và Mạng Máy tính là theo quy định của Đại học Quốc gia Hà Nội. 
+Không biết
+- Tư duy logic tốt
+"Sinh viên ngành Truyền thông và Mạng Máy tính được trang bị kỹ năng lập trình với các ngôn ngữ, môi trường lập trình tiên tiến, tỉ trọng thực hành cao và nhiều bài tập ứng dụng thực tế. "
+"Chương trình đào tạo ngành Vật lý kỹ thuật của Trường Đại học Công nghệ yêu cầu 135 tín chỉ (không tính các học phần Giáo dục thể chất, Giáo dục quốc phòng – an ninh, Kỹ năng bổ trợ"
+""
+67 tín chỉ
+67 tín chỉ
+Không biết
+PHI1006
+PHI1006
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Tôi không biết
+Không biết
+Không biết
+Trường Đại học Công nghệ trang bị cho sinh viên ngành Cơ kỹ thuật những kiến thức sau về toán học:
+"- Phương pháp tính toán được đề cập trong ngữ cảnh là **Phương pháp tính** (Calculus Methods), được cung cấp trong học phần **INT3102** với mã học 20. Học phần này có 3"
+Trường Đại học Công nghệ trang bị cho sinh viên ngành Cơ kỹ thuật những kiến thức sau về thống kê:
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật của Trường Đại học Công nghệ có thể làm việc ở những lĩnh vực sau:
+Sinh viên tốt nghiệp ngành Cơ kỹ thuật của Trường Đại học Công nghệ có thể làm việc tại các loại hình cơ sở sau:
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Cơ kỹ thuật của Trường Đại học Công nghệ có thể làm nghiên cứu viên ở các cơ sở giáo dục đại học, các cơ sở nghiên cứu. Họ cũng có thể đảm nhận các công việc như trợ lý giảng dạy"
+"- Chuẩn mực trong lời nói, hành vi"
+- Vận dụng các nguyên tắc đạo đức và cam kết tuân thủ đạo đức nghề nghiệp
+- Vận dụng các nguyên tắc đạo đức và cam kết tuân thủ đạo đức nghề nghiệp
+Tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Cơ kỹ thuật; Nghiên cứu triển khai các ứng dụng của ngành cơ kỹ thuật trong thực tế. 
+Không biết
+Computer Science
+4 năm
+4 năm
+Cử nhân ngành Khoa học Máy tính
+Thời gian đào tạo ngành Khoa học máy tính tại Trường Đại học Công nghệ là 4 năm. 
+Cử nhân ngành Khoa học máy tính (Chương trình đào tạo chuẩn quốc tế) 
+Cử nhân ngành Khoa học Máy tính
+"Chương trình đào tạo ngành Khoa học máy tính tại Trường Đại học Công nghệ hướng tới mục tiêu tạo ra nguồn nhân lực chất lượng cao trong lĩnh vực Khoa học máy tính, có khả năng nghiên cứu và làm việc trong các công ty"
+"- Kiến thức tổng hợp về toán, khoa học tự nhiên, khoa học xã hội và nhân văn, ngoại ngữ."
+Sinh viên tốt nghiệp ngành Khoa học máy tính tại Trường Đại học Công nghệ có thể làm việc ở vị trí như sau:
+Hình thức tuyển sinh vào ngành Khoa học máy tính tại Trường Đại học Công nghệ được quy định theo quy định của Đại học Quốc gia Hà Nội. 
+Dự kiến quy mô tuyển sinh ngành Khoa học máy tính tại Trường Đại học Công nghệ là 100 sinh viên mỗi năm. 
+Tôi không biết
+"Sinh viên ngành Khoa học máy tính tại Trường Đại học Công nghệ được trang bị kiến thức chuyên sâu về ""Tương tác người máy"" theo định hướng sau:"
+– Phẩm chất chính trị tốt;
+Năng lực ngoại ngữ tiếng Anh được tăng cường đạt chuẩn 4/6 theo khung tham chiếu của Việt Nam (tương đương B2). 
+- Năng lực ngoại ngữ tiếng Anh được tăng cường đạt chuẩn 4/6 theo khung tham chiếu của Việt Nam (tương đương B2).
+"Sinh viên ngành Công nghệ Kỹ thuật Cơ điện tử CLC được học tập và nghiên cứu khoa học với các trang thiết bị thí nghiệm hiện đại, đáp ứng chuẩn công nghiệp. "
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Cơ điện tử của trường Đại học Công nghệ cần đạt chuẩn 4/6 theo khung năng lực ngoại ngữ Việt Nam, tương đương với trình độ B2. "
+Không biết
+Sinh viên ngành Công nghệ Kỹ thuật Cơ điện tử của trường Đại học Công nghệ cần có kiến thức về:
+Không biết
+Không biết
+Không biết
+- Sinh viên biết và sử dụng thành thạo kỹ thuật máy tính để đánh giá phân tích thiết kế hệ thống hoặc quá trình.
+- Được trang bị kiến thức cơ bản và nâng cao về đo lường công nghiệp có sử dụng các thiết bị và cảm biến thông minh kết nối với hệ nhúng trên nền tảng Vi xử lý – Vi điều khiển cũng như
+"Sinh viên định hướng chuyên sâu về Chế tạo thiết bị của ngành Công nghệ Kỹ thuật Cơ điện tử trường Đại học Công nghệ cần có kiến thức về công nghệ chế tạo cơ khí tiên tiến, bao gồm:"
+"Sinh viên định hướng chuyên sâu về Kỹ thuật Robot của ngành Công nghệ Kỹ thuật Cơ điện tử của trường Đại học Công nghệ cần sử dụng thành thạo kỹ thuật mô phỏng, công nghệ thiết kế ảo và phần mềm"
+Không biết
+135 tín chỉ
+26 tín chỉ
+19 tín chỉ
+10 tín chỉ
+10 tín chỉ
+10 tín chỉ
+135 tín chỉ
+Không biết
+Không biết
+PHI1006
+Tôi không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+The Degree of Bachelor in Mechatronics Engineering
+4 năm
+4 năm
+Thời gian đào tạo ngành Công nghệ kỹ thuật cơ điện tử là 4 năm. 
+The Degree of Bachelor
+The Degree of Bachelor in Mechatronics Engineering
+Không biết
+Không biết
+"Mục tiêu chung: Chương trình đào tạo trang bị cho sinh viên các kiến thức chuyên môn toàn diện, nắm vững nguyên lý, quy luật tự nhiên – xã hội, có kỹ năng thực hành cơ bản, có khả năng làm việc"
+136 tín chỉ
+26 tín chỉ
+2
+10 tín chỉ
+26 tín chỉ
+""
+""
+Không biết
+18 /52 tín chỉ
+Không biết
+Triết học Mác - Lênin thuộc khối kiến thức chung trong chương trình đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ. 
+"Môn học Đại số thuộc khối kiến thức chung theo lĩnh vực trong chương trình đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ. Cụ thể, môn học này được ghi nhận trong Row 13 với mã"
+Không biết
+Không biết
+Không biết
+Tổng số tín chỉ của chương trình đào tạo Kỹ sư Công nghệ Sinh học tại Trường Đại học Công nghệ là 150 tín chỉ.
+15
+22 tín chỉ
+10 tín chỉ
+21 tín chỉ
+21 tín chỉ
+10 tín chỉ
+Sinh viên theo học ngành Công nghệ Sinh học tại Trường Đại học Công nghệ cần hoàn thành 13 tín chỉ học phần tự chọn theo định hướng chuyên sâu của khối kiến thức ngành. 
+Không biết
+Không biết
+Không biết
+Không biết
+I.    Khối kiến thức chung
+Không biết
+|  | 3 Row 60:  | Các học phần thuộc khối kiến thức tự chọn theo định hướng chuyên ngành | Row 61: 53. | AGT3548 | Các vấn đề hiện đại
+Trường Đại học Công Nghệ
+"Ngành đào tạo chính được đề cập trong văn bản là các định hướng chính trong ĐTVT, bao gồm: Truyền thông, Mạng, Kỹ thuật máy tính, Điều khiển và Tự động hóa, Điện tử y – sinh"
+Cử nhân khoa học ngành Khoa học dữ liệu
+Tôi không biết
+"Sinh viên tốt nghiệp ngành Khoa học Dữ liệu có thể học lên các bậc cao hơn như thạc sĩ, tiến sĩ. "
+Không biết
+Không biết
+"Cấu trúc dữ liệu và giải thuật (Data Structures and Algorithms) thuộc khối kiến thức ngành trong chương trình đào tạo ngành Khoa học Dữ liệu. Cụ thể, theo thông tin được cung cấp, học phần này có mã"
+"- Lập trình hướng đối tượng thuộc khối kiến thức ngành (AI, DS) trong chương trình đào tạo ngành Khoa học Dữ liệu."
+Phương pháp luận Khoa học dữ liệu thuộc khối kiến thức ngành (DS) trong chương trình đào tạo ngành Khoa học Dữ liệu. 
+Không biết
+Thực tập doanh nghiệp thuộc khối kiến thức ngành trong chương trình đào tạo ngành Khoa học Dữ liệu. 
+Không biết
+Không biết
+Không biết
+"Trường Đại học Công nghệ, ĐHQGHN"
+Tôi không biết
+- Thực hiện hiệu quả các dự án thiết kế một cách độc lập
+"Sinh viên tốt nghiệp ngành Thiết kế Công nghiệp và Đồ họa có thể học tiếp lên trình độ sau đại học, nghiên cứu sinh tại các cơ sở đào tạo trong nước cũng như nước ngoài về lĩnh vực thiết kế kỹ thuật, thiết"
+- Có khả năng thực hiện hiệu quả các dự án thiết kế một cách độc lập.
+"- Năng lực ngoại ngữ của sinh viên ngành Thiết kế Công nghiệp và Đồ họa cần đạt mức tiếng Anh tương đương với trình độ đại học, cụ thể là trình độ tiếng Anh của sinh viên tốt nghiệp đại học trong nước"
+PLO 2. Vận dụng các kiến thức về công nghệ kĩ thuật và nghệ thuật vào lĩnh vực thiết kế công nghiệp và đồ họa. PLO 3. Giải quyết được các bài toán trong thiết kế công nghiệp và đồ
+Có
+"Sinh viên ngành Thiết kế Công nghiệp và Đồ họa cần có kỹ năng sử dụng các công cụ hỗ trợ thiết kế và mô phỏng trên máy tính. Cụ thể, họ cần có khả năng vận hành, lập trình trên"
+"- Tuân thủ pháp luật, đạo đức nghề nghiệp"
+Không biết
+"PLO 10. Chủ động (5) tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện tính trung thực, chịu trách nhiệm cá nhân, hỗ trợ đồng nghiệp; tự chủ, tự chịu trách nhiệm trong công việc"
+"- Vận dụng được kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng."
+"Sinh viên tốt nghiệp ngành Thiết kế Công nghiệp và Đồ họa cần có khả năng tự học, tự nghiên cứu và nâng cao trình độ. Họ cũng cần có khả năng thích nghi cao với sự phát triển nhanh chóng"
+"Sinh viên tốt nghiệp ngành Thiết kế Công nghiệp và Đồ họa có thể học tiếp lên trình độ sau đại học, nghiên cứu sinh tại các cơ sở đào tạo trong nước cũng như nước ngoài về lĩnh vực thiết kế kỹ thuật, thiết"
+165 tín chỉ
+21 tín chỉ
+Không biết
+| Mã học phần | Học phần | Số tín chỉ | Số giờ tín chỉ | Mã số học phần tiên quyết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Không biết
+Học phần Kỹ năng khởi nghiệp (UET1002) thuộc khối kiến thức chung trong chương trình đào tạo ngành Mạng máy tính và truyền thông dữ liệu chất lượng cao theo Thông tư 23 của Trường Đại
+"Chương trình đào tạo được mô tả trong văn bản thuộc ngành Công nghệ thông tin của Trường Đại học Công nghệ, ĐHQGHN - Univeristy of Engineering and Technology. "
+Không biết
+Không biết
+"Sinh viên ngành Công nghệ Kỹ thuật Xây dựng sau khi tốt nghiệp có thể làm việc ở vị trí tư vấn kỹ thuật, kỹ sư thiết kế, kỹ sư giám sát thi công, kỹ sư quản lý dự án, kỹ sư bảo"
+Không biết
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Xây dựng có thể học lên bậc học sau đại học, cụ thể là:"
+- Kỹ thuật xây dựng
+Có
+Có
+Không có thông tin trong ngữ cảnh về chuẩn đầu ra liên quan đến đạo đức nghề nghiệp. 
+Không biết
+Có
+"Giảng viên, nghiên cứu sinh về nhóm ngành Máy tính và Công nghệ thông tin"
+"Có, sinh viên ngành Công nghệ Kỹ thuật Xây dựng được trang bị kiến thức về phát triển bền vững. Theo mục tiêu của chương trình đào tạo, sinh viên không chỉ có kiến thức về kỹ thuật, công nghệ, thiết kế"
+Information Technology
+4 năm
+4 năm
+Cử nhân ngành Công nghệ Thông tin
+Thời gian đào tạo ngành Công nghệ Thông tin tại Trường Đại học Công nghệ là 4 năm. 
+Thời gian đào tạo ngành
+- Kiến thức lý thuyết chuyên sâu trong lĩnh vực CNTT
+"- Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ thông tin, giúp sinh viên dễ dàng hòa nhập và phát triển trong môi trường làm việc mới."
+"Bồi dưỡng phẩm chất chính trị tốt, có ý thức tổ chức kỷ luật, có tác phong làm việc khoa học, nghiêm túc, có đạo đức nghề nghiệp về bảo vệ thông tin, bản quyền, có tinh thần làm"
+"- Kiến thức cơ bản và chuyên sâu về Công nghệ phần mềm: quy trình xây dựng, quản lý và bảo trì hệ thống phần mềm."
+"Trang bị kiến thức cơ bản và chuyên sâu về Hệ thống thông tin, đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; khả năng tham mưu, tư vấn và xây dựng được"
+- Kiến thức cơ bản và chuyên sâu về Mạng và truyền thông máy tính
+- Kiến thức cơ bản và chuyên sâu về máy tính và dịch vụ Công nghệ thông tin
+Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. 
+"Mục tiêu chung về kiến thức của chương trình đào tạo ngành Công nghệ Thông tin tại trường Đại học Công nghệ là trang bị cho sinh viên các kiến thức cơ bản và chuyên sâu về Công nghệ thông tin, cũng như được định hướng"
+Trường Đại học Công nghệ hỗ trợ học bổng cho các đối tượng sau:
+"Để được xét cấp học bổng duy trì, đề nghị NCS khóa QH-2022, QH-2023 đã được cấp học bổng của Trường Đại học Công nghệ cần nộp:"
+Không biết
+Không biết
+"Có, hồ sơ xin học bổng của nghiên cứu sinh khóa QH-2024 của Trường Đại học Công nghệ cần phải công chứng bằng cử nhân và thạc sĩ trong vòng 06 tháng. "
+Mức học bổng toàn phần của Trường Đại học Công nghệ cho NCS từ thạc sĩ là 60.000.000 đồng/khóa học. 
+Mức học bổng toàn phần của Trường Đại học Công nghệ cho NCS từ cử nhân là 80.000.000 đồng/khóa học. 
+20
+Không biết
+"Phòng ban tiếp nhận đơn xin học bổng của NCS là Bộ phận tiếp người học, phòng Công tác sinh viên. "
+- Căn cứ Quyết định số 975/QĐ-ĐT ngày 10/10/2018 về việc Ban hành Quy định về việc hỗ trợ học bổng cho NCS của Trường Đại học
+"- 01 bản sao photo công chứng trong vòng 6 tháng đối với các văn bằng, chứng chỉ sau:"
+4 năm
+Không biết
+Không biết
+152 tín chỉ
+26 tín chỉ
+22 tín chỉ
+10 tín chỉ
+10 tín chỉ
+10 tín chỉ
+Không biết
+Không biết
+Không biết
+"Toán học rời rạc (INT1050) thuộc khối kiến thức theo nhóm ngành, cụ thể là khối kiến thức theo nhóm ngành có 21 môn học, bao gồm môn này và các môn khác như L"
+"Môn học ""Lập trình nâng cao"" (INT2202) thuộc khối kiến thức ngành của chương trình đào tạo ngành Công nghệ Thông tin chất lượng cao tại Trường Đại học Công nghệ. "
+Không biết
+Không biết
+Không biết
+- **Định hướng**: Công nghệ phần mềm
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao của Trường Đại học Công nghệ có thể tiếp tục học bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện tử – Viễn thông; Nghiên"
+Không biết
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin chương trình chất lượng cao sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một chuyên viên trong lĩnh vực công nghệ thông
+- Trung thực
+- Trung thực
+"Có, sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao của Trường Đại học Công nghệ có cần khả năng làm việc nhóm. Theo ngữ cảnh, sinh viên được trang bị kỹ năng làm việc theo nhóm, có tinh"
+"Theo ngữ cảnh cung cấp, sinh viên tốt nghiệp ngành Công nghệ Thông tin chất lượng cao của Trường Đại học Công nghệ cần có kỹ năng giao tiếp như sau:"
+"- Sinh viên ngành Công nghệ Thông tin chất lượng cao của Trường Đại học Công nghệ cần có kiến thức về Khoa học Máy tính, bao gồm cơ sở toán, lập trình, cấu trúc dữ liệu và giải thuật, học máy"
+"Sinh viên ngành Công nghệ Thông tin chất lượng cao của Trường Đại học Công nghệ cần có kiến thức về Toán và Vật lý. Cụ thể, họ cần vận dụng các kiến thức cơ bản về Toán và Vật lý"
+"- Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ thông tin, cho phép sinh viên tốt nghiệp dễ dàng hòa nhập và phát triển trong môi trường làm việc mới."
+Information Technology
+INT3401E
+Cử nhân ngành Trí tuệ nhân tạo
+Thời gian đào tạo ngành Trí tuệ nhân tạo là 4 năm. 
+The Degree of Bachelor in Information Technology
+"Mục tiêu của chương trình Trí tuệ nhân tạo tại Trường Đại học Công nghệ, ĐHQGHN là:"
+Sinh viên chương trình Trí tuệ nhân tạo tại Trường Đại học Công nghệ được trang bị các kiến thức và kỹ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng trí tuệ nhân tạo nói riêng và công nghệ thông tin
+"Trường Đại học Công nghệ tạo điều kiện tốt nhất cho sinh viên ngành Trí tuệ nhân tạo để phát triển kiến thức, kỹ năng cũng như các phẩm chất nghề nghiệp thông qua việc cung cấp môi trường quản lý, giảng dạy, học"
+Trường Đại học Công nghệ dựa thông tin tuyển sinh của mình trên các quy định sau:
+4 năm
+Không có thông tin trong ngữ cảnh.
+Không biết
+4 năm
++ Tiếng Việt: Cử nhân ngành Công nghệ Thông tin
+Thời gian đào tạo ngành Công nghệ Thông tin là 4 năm. 
+"- Các kiến thức cơ bản, quan trọng và hiện đại về Công nghệ Thông tin và truyền thông, tập trung nhiều vào các quy trình xây dựng và triển khai các dự án phần mềm, quy trình tích hợp, quản lý và"
+"- Kỹ năng thực hành cao trong hầu hết các lĩnh vực của Công nghệ thông tin, cho phép sinh viên tốt nghiệp dễ dàng hòa nhập và phát triển trong môi trường làm việc mới."
+Hình thức tuyển sinh của Trường Đại học Công nghệ đối với ngành Công nghệ Thông tin là theo quy định của Đại học Quốc gia Hà Nội. 
+Dự kiến quy mô tuyển sinh ngành Công nghệ Thông tin của Trường Đại học Công nghệ là 60 – 80 sinh viên/năm. 
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể làm việc ở các doanh nghiệp Nhật Bản. Ngoài ra, họ cũng có thể làm việc tại các tổ chức, cơ quan, hoặc đơn vị khác"
+"Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản có thể tiếp tục học tập lên các chương trình đào tạo sau đại học tại các Trường đại học trong và ngoài nước; hoặc tiếp tục nghiên cứu, thực hành tr"
+"Chương trình đào tạo ngành Công nghệ Thông tin định hướng thị trường Nhật Bản tập trung vào lĩnh vực công nghệ phần mềm. Sinh viên được trang bị các kỹ năng thực hành cao, bao gồm phân tích, thiết kế,"
+"Không có thông tin cụ thể về những công việc mà sinh viên tốt nghiệp ngành Công nghệ Thông tin cần thành thạo. Tuy nhiên, dựa trên ngữ cảnh cung cấp, có thể thấy rằng sinh viên tốt nghiệp ngành này có khả"
+Mục tiêu của chương trình đào tạo ngành Công nghệ thông tin định hướng thị trường Nhật Bản là:
+Sinh viên tốt nghiệp ngành Công nghệ Thông tin định hướng thị trường Nhật Bản cần có kỹ năng ngoại ngữ tiếng Nhật để giao tiếp hiệu quả trong môi trường doanh nghiệp Nhật Bản. 
+Trường Đại học Công nghệ thuộc Đại học Quốc gia Hà Nội (ĐHQGHN). 
+Có
+"Quyết định số 531/QĐ-ĐHCN, ban hành ngày 24 tháng 02 năm 2025, do Hiệu trưởng Trường Đại học Công nghệ ban hành, quy định về việc thu"
+Bộ Giáo dục và Đào tạo
+A: Không rõ
+Bộ Giáo dục và Đào tạo
+"Có, Đại học Quốc gia Hà Nội (ĐHQGHN) có các chương trình trao đổi sinh viên tại hai trường đại học ở Nhật Bản vào năm 2025:"
+"Nghiên cứu sinh Bùi Thị Hà thực hiện luận án Tiến sỹ về lĩnh vực Kỹ thuật điện tử, cụ thể là nghiên cứu phát triển hệ thống truyền thông băng tần S cho trạm mặt đất kết nối với vệ"
+"Trường Đại học Công nghệ, ĐHQGHN"
+25 triệu đồng/01 sinh viên/năm học. 
+Tổng số suất học bổng Annex học kỳ 2 năm học 2024-2025 của toàn ĐHQGHN là 25 suất. 
+"- Sinh viên đã nhận học bổng Annex học kỳ 1, năm học 2024-2025 cần đáp ứng các điều kiện sau để tiếp tục nhận học bổng:"
+"- Đơn xin học bổng, có dán ảnh, có xác nhận của đơn vị đào tạo (theo mẫu);"
+"Hồ sơ bản cứng đăng ký học bổng Annex học kỳ 2, năm học 2024-2025 nộp tại Phòng Công tác sinh viên (P.104-E3), trường ĐH Công nghệ, Đ"
+15h30 ngày 07/03
+"Hạn chót nộp hồ sơ đăng ký học bổng Annex học kỳ 2, năm học 2024-2025 là 14/02/2025. "
+Tôi không biết. 
+"Để hồ sơ đăng ký học bổng Annex học kỳ 2, năm học 2024-2025 được coi là hợp lệ, sinh viên cần thực hiện các bước sau:"
+"a) Đối với những sinh viên đã được nhận học bổng Annex học kỳ 1, năm học 2024-2025:"
+- Nếu sinh viên đã được nhận Học bổng Annex mà không đáp ứng yêu cầu thì sẽ được thay thế bằng sinh viên khác đủ điều kiện trên và có hoàn cảnh khó khăn. 
+Không có thông tin trong ngữ cảnh về tên ngành đào tạo bằng tiếng Việt của chương trình đào tạo được mô tả. 
+Không có thông tin trong ngữ cảnh về tên ngành đào tạo bằng tiếng Anh của chương trình đào tạo. 
+"4,5 năm"
+"Thời gian đào tạo ngành Kỹ thuật năng lượng là 4,5 năm. "
+The Degree of Engineer in Energy Engineering
+"4,5 năm"
+Mục tiêu chung của chương trình đào tạo ngành Kỹ thuật năng lượng là:
+Sinh viên tốt nghiệp ngành Kỹ thuật năng lượng có thể làm việc ở các vị trí sau:
+Kiến thức nền tảng về năng lượng mà sinh viên ngành Kỹ thuật năng lượng được trang bị bao gồm:
+Sinh viên ngành Kỹ thuật năng lượng được trang bị kiến thức chuyên sâu theo các định hướng sau:
+Kỹ sư tốt nghiệp ngành Kỹ thuật năng lượng có các năng lực sau:
+"Kỹ sư tốt nghiệp ngành Kỹ thuật năng lượng có thể đảm nhận các vị trí kỹ sư về quản lý năng lượng, quản lý kỹ thuật, quản lý sản xuất, thiết kế dây chuyền, chuyên giao công nghệ, ứng dụng"
+"Hình thức tuyển sinh: Theo quy định của Đại học Quốc gia Hà Nội. Dự kiến quy mô tuyển sinh: Theo phân bố chỉ tiêu hàng năm của Đại học Quốc gia Hà Nội và Trường Đại học Công nghệ, dự kiến tuyển 6"
+"Có, chương trình đào tạo ngành Kỹ thuật năng lượng của Trường Đại học Công nghệ có mã ngành 7520406 và được mô tả là ngành đào tạo thí điểm. "
+Không có thông tin cụ thể về những phẩm chất mà sinh viên tốt nghiệp ngành Kỹ thuật năng lượng cần đảm bảo trong ngữ cảnh được cung cấp. 
+158 tín chỉ
+34 tín chỉ
+3
+158 tín
+10 tín chỉ
+26 tín chỉ
+Không biết
+Không biết
+Tôi không biết
+| INT2210 | Cấu trúc dữ liệu và giải thuậtDataStructures andAlgorithms | 4 | 45 | 15 |  | INT1008 Row 89: 76 | INT
+B
+Không biết
+Không biết
+153 tín chỉ
+Không biết
+"Trường Đại học Công nghệ – ĐHQGHN đào tạo các ngành học hiện đại đáp ứng nhu cầu phát triển nguồn nhân lực trong bối cảnh cách mạng công nghiệp lần thứ tư, bao gồm các ngành thuộc các lĩnh vực công nghệ thông"
+Cử nhân
+Thời gian đào tạo chuẩn của ngành Khoa học máy tính CLC tại Trường Đại học Công nghệ là 4 năm. 
+Kỹ sư ngành Truyền thông và Mạng Máy tính
+4 năm
+Thời gian đào tạo chuẩn của ngành Trí tuệ nhân tạo tại Trường Đại học Công nghệ là 4 năm. 
++ Tiếng Việt: Cử nhân Công nghệ kỹ thuật Điện tử – Viễn thông
+Sinh viên ngành Kỹ thuật máy tính của Trường Đại học Công nghệ được cấp bằng Kỹ sư ngành Kỹ thuật máy tính sau khi tốt nghiệp. 
+"4,5 năm"
+Cử nhân ngành Công nghệ kỹ thuật cơ điện tử
+Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa. 
+Thời gian đào tạo chuẩn của ngành Cơ kỹ thuật tại Trường Đại học Công nghệ là 5 năm. 
+Cử nhân ngành Vật lý Kỹ thuật
+Cử nhân
+"Trường Đại học Công nghệ hợp tác chặt chẽ với một số tập đoàn công nghệ, doanh nghiệp hàng đầu để cung cấp môi trường thực tập và hỗ trợ định hướng nghề nghiệp cho sinh viên. "
+Tôi không biết
+Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – viễn thông (CLC TT23) của Trường Đại học Công nghệ cần có năng lực ngoại ngữ tiếng Anh được tăng cường đạt chuẩn 4/6 theo kh
+Không biết
+Không biết
+Không biết
+Không có thông tin cụ thể về việc sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – viễn thông (CLC TT23) có cần thực hành các kiến thức cốt lõi của nhóm ngành hay không.
+Không biết
+Không biết
+"Không có thông tin cụ thể về yêu cầu kỹ năng làm việc nhóm trong chương trình đào tạo ngành Công nghệ kỹ thuật điện tử – viễn thông (CLC TT23) của Trường Đại học Công nghệ. Do đó, không thể xác"
+"Không có thông tin cụ thể về yêu cầu kỹ năng giao tiếp cho sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – viễn thông (CLC TT23) trong các ngữ cảnh được cung cấp. Do đó, không"
+- Trung thực
+- Trách nhiệm với công việc
+Không biết
+"Sinh viên tốt nghiệp ngành Công nghệ kỹ thuật điện tử – viễn thông (CLC TT23) của Trường Đại học Công nghệ có thể học tiếp lên bậc sau đại học các chuyên ngành thuộc lĩnh vực Công nghệ thông tin, Điện"
+"Có khả năng làm việc độc lập hoặc làm việc theo nhóm trong điều kiện làm việc thay đổi; Biết chịu trách nhiệm cá nhân và trách nhiệm đối với nhóm; Có khả năng hướng dẫn, giám sát những người khác thực hiện nhiệm"
+Chương trình trao đổi sinh viên DiscoverNUS kỳ mùa Thu năm 2025. 
+A: Tháng 8 năm 2025 đến tháng 12 năm 2025
+Hình thức tổ chức: Trực tiếp tại cơ sở đào tạo. 
+4 tháng
+"Có, sinh viên tham gia chương trình trao đổi DiscoverNUS năm 2025 được sắp xếp chỗ ở trong ký túc xá của trường. "
+10 sinh viên toàn Đại học Quốc Gia Hà Nội. 
+Không biết
+3.0/4.0
+Không biết
+TOEFL (iBT) 80 hoặc IELTS 6.0
+"Phòng Công tác sinh viên (Phòng 104-E3) trước 09h00, thứ Hai, ngày 28/10/2024. "
+Không biết
+Không biết
+Bộ Giáo dục và Đào tạo
+983/ĐHQGHN-HT&PT
