@@ -1,0 +1,5 @@
+https://uet.vnu.edu.vn/courses/data-science: Failed to connect - timeout
+https://uet.vnu.edu.vn/news/archive/2024: Content too short (length: 50)
+https://repository.vnu.edu.vn/documents/ai: Server returned 404 error
+https://uet.vnu.edu.vn/faculty/publications: Parsing error - invalid HTML
+https://vnu.edu.vn/uet-workshops: Failed to save PDF - file corrupted
