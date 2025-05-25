@@ -20,7 +20,8 @@ class Retrieval:
         
         if os.path.exists(self.faiss_vector_path):
             
-            embeddings = HuggingFaceEmbeddings(model_name=self.embeddings_model_name)
+            embeddings = HuggingFaceEmbeddings(model_name=self.embeddings_model_name,
+                                               model_kwargs={"device": "cpu"})
             vectorstore = FAISS.load_local(
                 self.faiss_vector_path, embeddings, allow_dangerous_deserialization=True)
             print("Vector store was loaded.")
