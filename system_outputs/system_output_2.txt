@@ -2831,7 +2831,7 @@ Thời gian đào tạo chuẩn của ngành Trí tuệ nhân tạo tại Trư�
 + Tiếng Việt: Cử nhân Công nghệ kỹ thuật Điện tử – Viễn thông
 Sinh viên ngành Kỹ thuật máy tính của Trường Đại học Công nghệ được cấp bằng Kỹ sư ngành Kỹ thuật máy tính sau khi tốt nghiệp. 
 "4,5 năm"
-Cử nhân ngành Công nghệ kỹ thuật cơ điện tử
+Cử nhân ngành Công nghệ kỹ thuật cơ điện tử.
 Kỹ sư ngành Kỹ thuật điều khiển và Tự động hóa. 
 Thời gian đào tạo chuẩn của ngành Cơ kỹ thuật tại Trường Đại học Công nghệ là 5 năm. 
 Cử nhân ngành Vật lý Kỹ thuật
